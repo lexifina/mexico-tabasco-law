@@ -1,0 +1,6 @@
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2001)
+CAPITULO VIII-BIS
+EJERCICIO INDEBIDO DE ATRIBUCIONES Y FACULTADES
+(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2001)
+Artículo 240 bis.- Comete el delito de ejercicio indebido de atribuciones y facultades el servidor público que por razón de sus funciones u obligaciones en el cumplimiento de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, encubra, favorezca o permita la venta o distribución ilegal de bebidas alcohólicas. Dicho delito se sancionará de dos a nueve años de prisión y multa de cien a mil días de salario mínimo vigente en la Entidad.
+Además de la sanción anterior, se aplicará por la autoridad judicial la destitución e inhabilitación por el mismo término de la pena impuesta para obtener y desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público; dicha resolución deberá ser comunicada a las instancias administrativas correspondientes, tanto del ámbito de la adscripción del servidor público sancionado, como aquella que en su caso, por virtud del control que el Estado o Municipios llevare de su personal, se tuviere que informar para los fines de la mejor ejecución de la pena pública.
