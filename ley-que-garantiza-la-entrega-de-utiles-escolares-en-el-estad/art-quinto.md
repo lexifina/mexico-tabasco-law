@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- En el ámbito de sus facultades, el Titular del Poder Ejecutivo elaborará la reglamentación de esta Ley, en la que se establezcan los requisitos y procedimientos necesarios para hacer efectivo el derecho que establece esta legislación, así como los mecanismos de evaluación y fiscalización del Programa correspondiente.

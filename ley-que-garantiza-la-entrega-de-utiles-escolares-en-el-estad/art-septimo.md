@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- El Ejecutivo del Estado celebrará, en el ámbito de sus atribuciones y con arreglo a la ley, los convenios o acuerdos con la Federación, municipios y particulares, que contribuyan a generar la información veraz y oportuna para el otorgamiento de los apoyos materia de esta Ley.

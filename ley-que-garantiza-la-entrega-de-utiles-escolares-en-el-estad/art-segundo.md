@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Ejecutivo del Estado deberá incluir en el proyecto de Presupuesto de Egresos, un monto que garantice la operación del Programa que otorgue al inicio de cada ciclo escolar, un paquete de útiles escolares a los alumnos inscritos en las escuelas públicas del Estado, de conformidad con los procedimientos que establezca la Dependencia correspondiente.

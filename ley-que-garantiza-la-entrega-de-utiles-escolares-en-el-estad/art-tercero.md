@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Congreso del Estado deberá aprobar en el Decreto de Presupuesto anual, la asignación suficiente de recursos económicos para hacer efectivo el derecho a un paquete de útiles escolares, a favor de los alumnos inscritos en escuelas públicas del Estado.

@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- La Dependencia del Ejecutivo del Estado responsable de operar el proceso de información, adquisición distribución y entrega de los paquetes de útiles escolares, será aquella a la que la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco le confiera atribuciones en materia educativa.
