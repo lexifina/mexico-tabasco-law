@@ -27,7 +27,9 @@ VII.- Las demás que fijan las Leyes o sean inherentes a sus funciones.
 Asimismo, desarrollará todas las demás funciones correspondientes a su cargo. Para ser Secretario de Acuerdos deberán cubrirse los requisitos señalados en el Artículo 5o. de esta Ley.
 CAPITULO II
 COMPETENCIA
-8.- El Consejo Tutelar delegará en el sistema para el Desarrollo Integral de la Familia, Tabasco, la responsabilidad de la elaboración, supervisión, supervisión (sic) y control del programa para rehabilitar a los menores internados en el Centro Educativo Tutelar; asimismo, la capacitación, la selección del personal para laborar en dicho centro y la evaluación de sus resultados.
+(REFORMADO, P.O. 27 DE OCTUBRE DE 1999)
+8.- El Consejo Tutelar y los Centros Educativos Tutelares para Menores Infractores, tendrán la facultad de elaborar, ejecutar y controlar el programa para rehabilitar a los menores internados en dichos centros. La Secretaría de Gobierno a través de la Subsecretaría de Protección Civil, Prevención y Readaptación Social y la Dirección General de Prevención y Readaptación Social, supervisará y evaluará dichas actividades.
+El Consejo Tutelar y los Centros Educativos Tutelares seleccionarán y capacitarán a su personal en el ámbito de sus respectivas competencias.
 9.- El Consejo Tutelar conocerá exclusivamente en lo que respecta a menores cuyas edades fluctúan entre los ocho y los 17 años, de las siguientes materias:
 I.- De los hechos u omisiones antisociales atribuidos a menores en contra de la sociedad en general o de los particulares.
 II.- De los problemas de conducta que no constituyan infracciones a las leyes, siempre que la intervención del Consejo sea solicitada por escrito, por quienes ejerzan la patria potestad o la tutela sobre el menor.
@@ -86,7 +88,8 @@ I.- El Centro Educativo Tutelar.
 II.- Las demás instituciones que el Gobierno del Estado destine para el tratamiento dee (sic) los menores a que se refiere esta Ley.
 III.- Cualquier otra clase de albergue, asilo, casa de salud o escuela no comprendida en la anterior enumeración.
 33.- Las instituciones a que se refiere el artículo anterior se regirán por sus respectivos reglamentos interiores en donde se especificará el régimen al que quedarán sujetos los menores, atendiendo a las finalidades de su educación, curación y rehabilitación, con absoluta prohibición de toda medida de carácter punitivo.
-34.- El Centro Educativo Tutelar dependerá del Sistema para el Desarrollo Integral de la Familia, Tabasco y su Director será nombrado por el Director General del mismo y se regirá por su reglamento interior.
+(REFORMADO, P.O. 27 DE OCTUBRE DE 1999)
+34.- Los Centros Educativos Tutelares para Menores Infractores dependerán de la Secretaría de Gobierno del Estado y sus funciones se regirán por esta Ley y su Reglamento Interior, los Directores serán nombrados y removidos por el Secretario de Gobierno, previo acuerdo del Titular del Poder Ejecutivo.
 TITULO TERCERO
 SERVICIOS AUXILIARES Y AUTORIDADES COADYUVANTES
 CAPITULO I
@@ -120,3 +123,4 @@ Expedido en el Palacio del Poder Ejecutivo, en la Ciudad de Villahermosa, Capita
 ENRIQUE GONZALEZ PEDRERO.
 LIC. JOSE EDUARDO BELTRAN HERNANDEZ,
 SECRETARIO DE GOBIERNO.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
