@@ -1,0 +1,1 @@
+ARTICULO UNICO.- Es de aprobarse en todas y ccadda (sic) una de sus partes, la ZLey (sic) de responsabilidades de los servidores públicos que reglamenta el título séptimo de la Ley fundamental del estado de tabasco, para quedar como sigue:
