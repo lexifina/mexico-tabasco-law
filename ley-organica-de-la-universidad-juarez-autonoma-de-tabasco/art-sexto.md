@@ -1,0 +1,1 @@
+ARTICULO SEXTO.- El actual Rector cumplirá su período de acuerdo a lo establecido en la Ley anterior e inmediatamente el Consejo Universitario procederá de conformidad con lo que señala la Fracción X del Artículo 14 de la Presente Ley en un plazo no mayor de 30 días.

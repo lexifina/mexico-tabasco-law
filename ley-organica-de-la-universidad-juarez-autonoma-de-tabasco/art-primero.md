@@ -1,0 +1,1 @@
+ARTICULO PRIMERO.- Esta Ley abroga la Ley Orgánica de la Universidad "Juárez" Autónoma de Tabasco, publicada en el Suplemento al Periódico Oficial del Estado número 3527, de fecha 7 de julio de 1976, y toda disposición que se contraponga a la presente Ley.

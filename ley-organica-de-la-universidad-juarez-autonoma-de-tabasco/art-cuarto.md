@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- El nuevo Consejo Universitario deberá expedir el Estatuto General de esta Ley, y todas las disposiciones que se requieran para la aplicación precisa y expedita de la presente Ley, en un plazo máximo de tres meses.
