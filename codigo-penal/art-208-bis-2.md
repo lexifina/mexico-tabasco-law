@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 3 DE MAYO DE 2003)
+Artículo 208 bis 2.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará o solicitará al Juez, según el caso, las medidas precautorias necesarias para salvaguardar la integridad física o psíquica de la misma. La autoridad administrativa vigilará el cumplimiento de estas medidas.
+Al servidor público que incumpla con lo establecido en el párrafo anterior se le impondrá sanción de treinta a cuarenta días multa.

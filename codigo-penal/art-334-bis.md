@@ -1,0 +1,9 @@
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2003)
+CAPITULO III
+PORNOGRAFIA INFANTIL
+(ADICIONADO, P.O. 3 DE MAYO DE 2003)
+Artículo 334 bis.- Al que por cualquier medio procure, facilite o induzca a una persona menor de edad, a realizar actos de exhibicionismo lascivos o sexuales, con el objeto de viodeograbarla, fotografiarla o exhibirla, se le impondrán de seis a catorce años de prisión y de quinientos a mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales gráficos.
+Se impondrán las mismas sanciones a quien dirija, administre, supervise, financié, elabore, reproduzca, imprima, fije, grabe, comercialice, transmita, distribuya, arriende, exponga, publicite o difunda el material a que se refieren las acciones anteriores.
+Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones se le impondrá, además, destitución e inhabilitación para desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público por el término de la sanción corporal impuesta.
+Las penas previstas en este artículo, se incrementarán en una mitad mas, cuando quien comete el delito tenga alguna relación de autoridad de hecho o de derecho sobre el ofendido, perderá los derechos inherentes a la patria potestad sobre todos sus descendientes, será privado definitivamente del derecho a ser tutor o curador y de los derechos que pudiera tener a los bienes de la víctima.
+Para los efectos de este artículo, se entiende por pornografía infantil toda representación, por cualquier medio, de un menor de diecisiete años, respecto de actividades sexuales explícitas, reales o simuladas, o toda representación de las partes genitales o anal de un menor, con fines primordialmente sexuales.
