@@ -1,0 +1,11 @@
+TRANSITORIOS
+PRIMERO. Esta Ley iniciará su vigencia sesenta días naturales después de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. El Ejecutivo Estatal deberá proponer en el Presupuesto de Egresos del Estado para el año 2005, la creación del fondo a que se refiere el artículo 11 de la presente Ley, cuyo monto no podrá ser menos de cincuenta millones de pesos.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DE TABASCO, A LOS TRECE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CUATRO, DIP. ANTONIO LOPE BÁEZ, PRESIDENTE; DIP. JOSÉ LUIS SÁNCHEZ LÓPEZ, SECRETARIO.- RÚBRICAS.
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS VEINTINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CUATRO.
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+LIC. MANUEL ANDRADE DÍAZ
+GOBERNADOR DEL ESTADO DE TABASCO.
+LIC. JAIME HUMBERTO LASTRA BASTAR
+SECRETARIO DE GOBIERNO.
