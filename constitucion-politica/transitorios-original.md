@@ -19,3 +19,4 @@ Palacio del Poder Ejecutivo en la Ciudad de Villahermosa, Capital del Estado de 
 C. Greene
 El Srio. Gral.,
 J.D. Ramírez Garrido.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE CONSTITUCION.
