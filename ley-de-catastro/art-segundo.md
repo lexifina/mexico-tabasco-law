@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO: Se abroga la Ley del Catastro publicada en el Periódico Oficial del Gobierno del Estado, Suplemento al número 3678 de fecha 17 de diciembre de 1977. Asimismo se derogan las Leyes, Resoluciones y Disposiciones que se opongan a la presente Ley.
