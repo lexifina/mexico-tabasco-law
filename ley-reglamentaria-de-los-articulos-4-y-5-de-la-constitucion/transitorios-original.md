@@ -51,3 +51,4 @@ CAPITULO VI.- De los Colegios de Profesionistas. 22
 CAPITULO VII.- Del Servicio Social de Estudiantes y Profesionistas. 27
 CAPITULO VIII.- De los Delitos e Infracciones de los Profesionistas y de las Sanciones por incumplimiento de esta Ley. 29
 TRANSITORIOS.- 32
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
