@@ -7,3 +7,4 @@ Expedida en el Palacio del Poder Ejecutivo, en la Ciudad de Villahermosa, Capita
 FRANCISCO J. SANTAMARIA.
 El Secretario General de Gobierno.
 LIC. JOAQUIN BATES.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
