@@ -9,11 +9,14 @@ PLÁSTICO
 VOLANTES POR DÍA0.02
 En los casos en que la base de la tarifa se refiera a metros cuadrados por día, el pago se hará por las fracciones de metros.
 El pago de los derechos especificados en la tabla anterior, se efectuará en la Dirección de Finanzas o Tesorería Municipal, dentro de los primeros cinco días hábiles de cada mes.
-Los pagos a que se refiere este artículo serán cubiertos por las personas físicas o morales que utilicen los anuncios o la publicidad, así como las empresas dedicadas al arrendamiento de espacios publicitarios cuyos productos, servicios o actividades sean objeto de anuncios, carteles o publicidad.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)
+Los pagos a que se refiere este artículo serán cubiertos por las personas físicas o jurídicas colectivas que utilicen los anuncios o la publicidad, así como las empresas dedicadas al arrendamiento de espacios publicitarios cuyos productos, servicios o actividades sean objeto de anuncios, carteles o publicidad.
 Serán responsables solidarios los propietarios de los predios, fincas o construcciones en donde se fijen los anuncios que lleven a cabo la publicidad.
-También serán responsables solidarios las personas físicas o morales que aparezcan en los anuncios, carteles o cualquier tipo de publicidad que sean fijados por terceros.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)
+También serán responsables solidarios las personas físicas o jurídicas colectivas que aparezcan en los anuncios, carteles o cualquier tipo de publicidad que sean fijados por terceros.
 Si en la fijación de anuncios o en la realización de la publicidad se utiliza la vía pública se deberán cubrir los derechos correspondientes.
-Estarán exentos del pago de estos derechos las entidades gubernamentales en sus funciones de derecho público; los partidos políticos; las instituciones de asistencia o beneficencia pública y las de carácter cultural; así como las personas físicas o morales que para su funcionamiento o profesión necesitan identificarse y requieran de anuncios o carteles que pinten, adosen o adhieran en el inmueble en el que ejercen su actividad.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)
+Estarán exentos del pago de estos derechos las entidades gubernamentales en sus funciones de derecho público, los partidos políticos, las instituciones de asistencia o beneficencia pública y las de carácter cultural, así como las personas físicas o jurídicas colectivas que para su funcionamiento o profesión necesitan identificarse y requieran de anuncios o carteles que pinten, adosen o adhieran en el inmueble en el que ejercen su actividad.
 TITULO V
 PRODUCTOS
 CAPITULO I
