@@ -1,0 +1,3 @@
+P.O. 17 DE FEBRERO DE 1968.
+ARTICULO PRIMERO.- El informe relativo a la situación de la Administración Pública, por lo que se refiere al período comprendido del 27 de febrero de 1967 a la fecha del presente Decreto, será rendido en el informe del bienio correspondiente a los años de 1967 a 1969, el día 27 de febrero de este último año, y por lo que respecta al período comprendido del 27 de febrero de 1969 al último año del ejercicio constitucional, será rendido el 20 de noviembre de 1970.
+ARTICULO SEGUNDO.- Este Decreto comenzará a surtir sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
