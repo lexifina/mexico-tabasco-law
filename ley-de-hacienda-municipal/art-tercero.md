@@ -1,0 +1,1 @@
+Artículo Tercero.- En cuanto al pago del Impuesto Predial, para aquellos casos de manifestación espontánea de cambios y mejoras en los predios, no se cobrarán recargos ni multas durante el primer semestre de 1993.

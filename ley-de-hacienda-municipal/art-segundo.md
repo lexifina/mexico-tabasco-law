@@ -1,0 +1,1 @@
+Artículo Segundo.- Se abroga la LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO, publicado en el Periódico Oficial Número 4310 de fecha 31 de Diciembre de 1983, así como las reformas a la misma, publicadas en el Periódico Oficial Número 5122 de fecha 12 de octubre de 1991 y todas las demás disposiciones legales que se opongan a la presente Ley.
