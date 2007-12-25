@@ -1,0 +1,11 @@
+TRANSITORIOS
+PRIMERO.- Esta Ley entrará en vigor el primer día del mes de enero de 2008.
+SEGUNDO.- Las Casas de Empeño ya instaladas en el Estado con anterioridad a la vigencia de la presente Ley, igualmente deberán cumplir con las disposiciones de la misma, por lo que contarán con un máximo de sesenta días hábiles contados a partir de que entre vigor, para solicitar el permiso a que alude el artículo 7 de esta Ley.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS SEIS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE, DIP. OVIDIO CHABLÉ MARTÍNEZ DE ESCOBAR, PRESIDENTE; DIP. FRANCISCO JAVIER CUSTODIO GÓMEZ, SECRETARIO.- RÚBRICAS.
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+EXPEDIDO EN. EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL .PODER EJECUTIVO, EN LA CIUDAD DE VILLA HERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS DIECISIETE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
+"SUFRAGIO EFECTIVO. NO REELECCIÓN."
+QUÍM. ANDRES RAFAEL GRANIER MELO
+GOBERNADOR DEL ESTADO DE TABASCO.
+LIC. MIGUEL ALBERTO ROMERO PÉREZ
+CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
