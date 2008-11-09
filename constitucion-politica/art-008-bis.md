@@ -2,7 +2,7 @@
 CAPITULO V
 DE LA PARTICIPACION CIUDADANA
 (ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2002)
-ARTICULO 8 Bis.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular, en los términos establecidos en la misma y en las demás leyes aplicables.
+ARTICULO 8° Bis.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular, en los términos establecidos en la misma y en las demás leyes aplicables.
 (REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2006)
 I. Se entiende por Plebiscito el proceso por el que se consulta a los ciudadanos la aprobación o rechazo de un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, trascendental para la vida pública del Estado o de los Municipios, según el caso.
 a) Podrán someterse a Plebiscito:
