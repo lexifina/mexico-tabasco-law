@@ -1,0 +1,5 @@
+P.O. 13 DE DICIEMBRE DE 2008.
+DECRETO No. 105 POR EL QUE SE REFORMAN: LOS ARTICULOS 116 FRACCION I; 154; 157; 232 PRIMER PARRAFO Y FRACCION II; 272 FRACCIONES XVII Y XVIII; 304; 305; 316 Y 317 FRACCIONES III Y IV; SE ADICIONAN: UN CUARTO PARRAFO AL ARTICULO 167; LA FRACCION XIX AL ARTICULO 272; DOS PARRAFOS AL ARTICULO 307; LAS FRACCIONES V Y VI AL ARTICULO 317; Y UN TITULO OCTAVO BIS, QUE SE DENOMINA "DE LA PROTECCION CONTRA LA VIOLENCIA FAMILIAR" CON SUS ARTICULOS 403 BIS, 403 TER, 403 QUATER Y 403 QUINTUS; Y SE DEROGA EL ULTIMO PARRAFO DEL ARTICULO 452; DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al presente Decreto.
+TERCERO. Los procesos jurisdiccionales relacionados con la materia que regula el presente decreto actualmente en trámite, se concluirán de conformidad con la normatividad que los reguló al momento de su inicio.

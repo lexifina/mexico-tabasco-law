@@ -1,0 +1,14 @@
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2008)
+TITULO OCTAVO BIS
+DE LA PROTECCION CONTRA LA VIOLENCIA FAMILIAR
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)
+ARTICULO 403 BIS.-
+Para los efectos de este código, se entiende por violencia familiar al acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a la víctima, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido con ella relación de matrimonio, concubinato o de hecho; de parentesco por consanguinidad en línea recta ascendiente o descendiente sin limitación de grado; de parentesco colateral consanguíneo o afín hasta el cuarto grado, de adoptante o adoptado; o de tutor.
+Para los efectos de este artículo se considera una relación de hecho aquella formada por una pareja que vivan juntos, no hayan procreado hijos y que aun no cumplan el plazo establecido por este Código para ser considerado concubinato.
+La violencia familiar se presenta en cualquiera de los siguientes tipos:
+I. Violencia psicológica: Consiste en cualquier acto u omisión que dañe la estabilidad psicológica de la víctima consistente en amenazas, negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, marginación, indiferencia, comparaciones destructivas, rechazo o restricción a la autodeterminación, que conlleven a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+II. Violencia física: Cualquier acción que inflige daño no accidental a la víctima, usando la fuerza física o algún tipo de arma, objeto o sustancia para sujetar, inmovilizar o causar daño a su integridad física, que pueda provocarle o no lesiones ya sean internas, externas o ambas;
+III. Violencia patrimonial: Es el acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
+IV. Violencia económica: Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas;
+V. Violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima, y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía de un sexo sobre otro al denigrarlo y concebirlo como objeto; y
+VI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de los integrantes del grupo familiar.
