@@ -63,9 +63,12 @@ Artículo 155.- Constituyen ingresos por rezagos, todos aquellos que dejaron de 
 Artículo 156.- Asimismo, son aprovechamientos en los términos de esta Ley, las indemnizaciones y remates que se constituyen en favor del Municipio.
 CAPITULO VII
 DE LAS INDEMNIZACIONES Y REMATES
+(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)
 TITULO VII
-PARTICIPACIONES
+PARTICIPACIONES Y APORTACIONES
 Artículo 157.- Recibirán los Ayuntamientos o Concejos Municipales todas las participaciones que establezcan los convenios que con base en la Ley de Coordinación Fiscal tengan celebrado los municipios con el Gobierno del Estado y la Secretaría de Hacienda y Crédito Público.
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)
+Artículo 158.- Recibirán los Ayuntamientos todas las aportaciones que la Federación, o en su caso, el Estado, les transfiera de conformidad con la ley.
 T R A N S I T O R I O S
 Artículo Primero.- Esta Ley entrará en vigor el día uno de enero del año de mil novecientos noventa y tres.
 Artículo Segundo.- Se abroga la LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO, publicado en el Periódico Oficial Número 4310 de fecha 31 de Diciembre de 1983, así como las reformas a la misma, publicadas en el Periódico Oficial Número 5122 de fecha 12 de octubre de 1991 y todas las demás disposiciones legales que se opongan a la presente Ley.
@@ -78,4 +81,4 @@ Expedido en el Palacio del Poder Ejecutivo, en la Ciudad de Villahermosa, Capita
 LIC. MANUEL GURRIA ORDOÑEZ.
 LIC. ENRIQUE PRIEGO OROPEZA,
 SECRETARIO DE GOBIERNO.
-N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.

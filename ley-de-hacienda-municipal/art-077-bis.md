@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)
+Artículo 77 Bis.- Son aportaciones federales que corresponden a los Municipios, los recursos, distintos de las participaciones, que la Federación transfiere a las haciendas públicas municipales en los términos de legislación aplicable, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la Ley.
