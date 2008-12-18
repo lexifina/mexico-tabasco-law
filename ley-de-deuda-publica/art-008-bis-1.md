@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2008)
+Artículo 8 bis-1. Además de la información y documentos a que refiere esta Ley, el Congreso del Estado podrá solicitar información adicional en relación al monto, plazo y proyecto a financiar, sólo con el fin de conocer la capacidad financiera del solicitante en la contratación de empréstitos, procurando siempre que la prestación de los servicios públicos y el ejercicio de las funciones públicas no se vean afectados por el servicio de la deuda.
+En el caso de que la Administración Pública Estatal cuente con calificaciones de riesgo crediticio, deberán presentarlos como anexos a su solicitud. Tales documentos aportarán una opinión relevante e independiente en aras de la agilidad en el análisis de la solicitud.
