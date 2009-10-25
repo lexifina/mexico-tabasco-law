@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)
+Artículo 67 sexies. El prestador del servicio instrumentará lo necesario para que los usuarios no domésticos que descarguen aguas residuales, cumplan con las disposiciones legales y normas técnicas en dicha materia, mediante la construcción de sistemas particulares de tratamiento o, en su caso, promoverá la construcción y operación de sistemas públicos de tratamiento y disposición de aguas residuales.
+Tratándose de usuarios domésticos, el Organismo Operador procederá a fijar los derechos que resulten necesarias para el diseño, construcción, operación y mantenimiento de los sistemas públicos de tratamiento y disposición, a efecto de cumplir con las disposiciones legales en la materia.
+La construcción de las obras y el costo de operación de los sistemas municipales correrán a cargo de quien tenga obligación de tratar sus aguas residuales.

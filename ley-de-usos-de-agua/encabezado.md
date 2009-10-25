@@ -1,5 +1,4 @@
 LEY DE USOS DE AGUA DEL ESTADO DE TABASCO
-TEXTO OTRIGINAL.
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 21 de mayo de 2005.
 LIC. MANUEL ANDRADE DÍAZ, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 51 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; A SUS HABITANTES SABED:
 Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:

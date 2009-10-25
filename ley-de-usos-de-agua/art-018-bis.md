@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)
+Artículo 18 bis. La Comisión, previa la suscripción del Convenio de coordinación respectivo, podrá prestar transitoriamente, de conformidad con lo dispuesto por la Constitución Federal, la Constitución Local y demás legislación aplicable, los servicios públicos de suministro de agua potable, drenaje, alcantarillado, tratamiento, y disposición de aguas residuales, así como realizar la construcción, operación, conservación y mantenimiento de la infraestructura hidráulica correspondiente.
