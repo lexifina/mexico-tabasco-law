@@ -1,3 +1,8 @@
-(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2008)
-Artículo 8 bis-1. Además de la información y documentos a que refiere esta Ley, el Congreso del Estado podrá solicitar información adicional en relación al monto, plazo y proyecto a financiar, sólo con el fin de conocer la capacidad financiera del solicitante en la contratación de empréstitos, procurando siempre que la prestación de los servicios públicos y el ejercicio de las funciones públicas no se vean afectados por el servicio de la deuda.
-En el caso de que la Administración Pública Estatal cuente con calificaciones de riesgo crediticio, deberán presentarlos como anexos a su solicitud. Tales documentos aportarán una opinión relevante e independiente en aras de la agilidad en el análisis de la solicitud.
+(REFORMADO, P.O. 18 DE MAYO DE 2010)
+Artículo 8 bis-1. Para todo financiamiento autorizado por parte del Congreso del Estado, el, Ejecutivo del Estado deberá presentar la siguiente información y documentación al Congreso del Estado, por conducto de la Comisión Orgánica de Hacienda y Presupuesto, en un plazo no mayor a 90 (noventa) días naturales a partir de la contratación del financiamiento:
+1. Informe del financiamiento contratado que debe contener:
+a) Monto, periodo o plazo de vigencia del financiamiento;
+b) Tasa de interés, garantías, avales y condiciones del financiamiento, así como comisiones, y otros cargos;
+c) Calendario de amortización del financiamiento; y
+d) Fuente de pago del financiamiento.
+2. Acreditar la inscripción del financiamiento en el Registro de Deuda Pública del Estado de Tabasco y sus Municipios, así como, en caso que corresponda, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios de la Secretaría de Hacienda y Crédito Público.
