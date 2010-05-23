@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Ejecutivo Estatal deberá expedir el reglamento de esta Ley en un término no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente ordenamiento.

@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Para la aplicación de las sanciones a que se refiere la presente ley se estará a lo dispuesto en su Capítulo V, Título Sexto, y de manera supletoria se aplicará la Ley de Desarrollo Rural Sustentable del Estado de Tabasco.

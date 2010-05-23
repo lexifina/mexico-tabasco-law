@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Las organizaciones de productores agrícolas que se encuentren constituidas a la entrada en vigor de esta Ley, podrán obtener los beneficios que la misma establece, debiendo registrarse ante la Secretaría en un término no mayor a ciento veinte días hábiles contados a partir de la publicación del reglamento de la presente Ley.
