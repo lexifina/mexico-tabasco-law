@@ -3,7 +3,7 @@ CAPITULO V
 DE LA PARTICIPACION CIUDADANA
 (ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2002)
 ARTICULO 8° Bis.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular, en los términos establecidos en la misma y en las demás leyes aplicables.
-(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2006)
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2006)
 I. Se entiende por Plebiscito el proceso por el que se consulta a los ciudadanos la aprobación o rechazo de un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, trascendental para la vida pública del Estado o de los Municipios, según el caso.
 a) Podrán someterse a Plebiscito:
 1.- Los actos o decisiones de carácter general del Ejecutivo del Estado que se consideren como trascendentes en la vida pública de esta Entidad Federativa; y
@@ -28,7 +28,7 @@ a) El Referéndum no procederá cuando se trate de:
 4.- La designación del Gobernador interino, substituto o provisional;
 5.- Los Convenios celebrados por el Estado con la Federación, y con otros Estados de la República o con los Municipios de la entidad; y
 6.- Las demás que determine la propia Constitución, o en forma expresa la ley.
-(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2006)
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2006)
 b) El Referéndum, podrá ser promovido en el ámbito de su competencia, por:
 1.- El Titular del Poder Ejecutivo;
 (REFORMADO, P.O. 8 DE MARZO DE 2006)
@@ -41,7 +41,7 @@ b) El Referéndum, podrá ser promovido en el ámbito de su competencia, por:
 Para que tenga validez el proceso de Referéndum, y sus resultados tengan el carácter vinculatorio, deberá participar más del 30% de los ciudadanos que aparezcan en la Lista Nominal del Estado o del Municipio de que se trate, según el caso, y obtenerse el 60% o más de los votos emitidos.
 Las leyes que se refieran a materia electoral no podrán ser sometidas a referéndum dentro de los seis meses anteriores al proceso electoral, ni durante el desarrollo de éste;
 III. En el año que se lleven a cabo elecciones populares, no deberá realizarse plebiscito o referéndum alguno. Tampoco podrá celebrarse más de un plebiscito o referéndum en el mismo año. Tratándose de la Constitución local, de leyes, de acuerdos o reglamentos de carácter general y abstracto o de actos o decisiones que incidan en la vida pública del estado, el plebiscito o el referéndum, sólo podrán llevarse a cabo en el segundo, cuarto y quinto año del ejercicio constitucional del titular del Poder Ejecutivo; y cuando se trate de aquellos que sólo repercutan a nivel municipal, podrán llevarse a cabo solamente en el segundo año del ejercicio constitucional del Ayuntamiento de que se trate;
-(REFORMADA PRIMER PARRAFO, P.O. 8 DE MARZO DE 2006)
+(REFORMADA PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2006)
 IV. La Iniciativa Popular, es el instrumento por medio del cual los ciudadanos del Estado, podrán presentar al Congreso local, al titular del Poder Ejecutivo o a los Ayuntamientos, iniciativas de leyes, decretos, reglamentos y acuerdos, según se trate, en los términos que se establecen en esta Constitución y en las leyes secundarias. La autoridad ante la que se promueva la iniciativa popular, deberá iniciar el trámite correspondiente en un plazo no mayor de treinta días hábiles, contados a partir de su presentación.
 (REFORMADO, P.O. 8 DE MARZO DE 2006)
 La iniciativa popular deberá ser suscrita por al menos el diez por ciento del total de los ciudadanos que aparezcan en la Lista Nominal del Estado o de los Municipios, según sea el caso. La autoridad electoral validará en los términos que la ley señale tal circunstancia.

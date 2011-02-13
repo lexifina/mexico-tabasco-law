@@ -1,4 +1,4 @@
-(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2002)
+(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2002)
 ARTICULO 63 Bis.- El Tribunal Electoral de Tabasco será la máxima autoridad jurisdiccional de la materia en el Estado, funcionará de manera permanente, estará dotado de personalidad jurídica y patrimonio propios, independiente en sus resoluciones y autónomo en su funcionamiento.
 (REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)
 El Tribunal funcionará siempre en Pleno y sus resoluciones serán acordadas en sesiones públicas y por mayoría de votos. Expedirá su reglamento interior que habrá de ser publicado en el Periódico Oficial del Estado, y realizará las demás atribuciones que le confiere la ley.
