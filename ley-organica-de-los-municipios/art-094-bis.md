@@ -6,7 +6,7 @@ III- Presentar a la Dirección de Programación, propuesta de acciones a favor d
 IV.- Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades de las dependencias de gobierno estatal, federal, así como organizaciones no gubernamentales;
 V.- Impulsar acciones para difundir la equidad entre los géneros y el respeto a los derechos de las mujeres;
 VI.- Fomentar el empleo y la aplicación de programas para la obtención de créditos que permitan a las mujeres contar con recursos para incorporarse a la actividad productiva del municipio;
-VIl.- Coordinar, fomentar y dirigir programas de psicología, de acompañamiento y fortalecimiento emocional para las mujeres;
+VII.- Coordinar, fomentar y dirigir programas de psicología, de acompañamiento y fortalecimiento emocional para las mujeres;
 VIII.- Atender y asesorar a las mujeres en los casos de maltrato, violencia intrafamiliar y discriminación, dándole el seguimiento correspondiente;
 IX.- Elaborar programas para la prevención y erradicación de la violencia familiar e intrafamiliar;
 X.- Elaborar y proponer al Presidente Municipal, las iniciativas de reglamentación de su competencia; y
