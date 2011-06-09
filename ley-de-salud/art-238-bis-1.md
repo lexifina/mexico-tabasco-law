@@ -1,0 +1,10 @@
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO
+(ADICIONADO, P.O. 8 DE JUNIO DE 2011)
+CAPITULO IV
+DE LOS CENTROS DE TRATAMIENTO Y REHABILITACIÓN CONTRA LAS ADICCIONES
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO
+(ADICIONADO, P.O. 8 DE JUNIO DE 2011)
+ARTÍCULO 238 BIS 1.- Para los efectos de esta Ley se entiende por:
+l. Establecimientos especializados en adicciones.- Son los establecimientos de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas, y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto, tal y como se definen en la Norma Oficial Mexicana.
+II. Grupo de Ayuda Mutua.- Es la agrupación que ofrece servicios, integrada por adictos en recuperación, cuyo propósito fundamental es apoyar al adicto con base en la experiencia compartida de los miembros del grupo, para lograr la abstinencia de sustancias psicoactivas.
+III. Grupo de Alto Riesgo.- Es aquél en el que se ha demostrado, a través de diversas investigaciones y estudios, que, por sus características biopsicosociales y de vulnerabilidad social, tiene mayor probabilidad de uso, abuso o dependencia a sustancias psicoactivas, niñas, niños y adolescentes, menores en situación de calle, madres adolescentes, entre otros.

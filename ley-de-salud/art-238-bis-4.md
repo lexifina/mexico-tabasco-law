@@ -1,0 +1,3 @@
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO
+(ADICIONADO, P.O. 8 DE JUNIO DE 2011)
+ARTÍCULO 238 BIS 4.- El ingreso de los usuarios a los establecimientos especializados en adicciones con modelos profesional y mixto podrá ser voluntario, involuntario u obligatorio, y en el de ayuda mutua será estrictamente voluntario, pudiendo darse el ingreso obligatorio en los establecimientos que operen bajo este modelo que estén reconocidos por el Consejo Nacional contra las Adicciones (CONADlC), debiéndose ajustar a los procedimientos que este requiera.

@@ -1,0 +1,3 @@
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO
+(ADICIONADO, P.O. 8 DE JUNIO DE 2011)
+ARTÍCULO 238 BIS 16.- La Secretaría de Salud, a través del área correspondientes (sic) y de las Jurisdicciones Sanitarias de los municipios, deberán verificar por lo menos trimestralmente las áreas físicas de los Centros de Tratamiento y Rehabilitación Contra las Adicciones y supervisar la implementación de los programas de tratamiento y rehabilitación de los adictos, coadyuvando a salvaguarda de (sic) sus derechos humanos.
