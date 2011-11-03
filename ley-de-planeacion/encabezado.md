@@ -1,4 +1,4 @@
-LEY DE PLANEACION
+LEY DE PLANEACIÓN
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 13 de julio de 1983.
 ENRIQUE GONZALEZ PEDRERO; GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TABASCO, A SUS HABITANTES SABED:
 Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
