@@ -1,4 +1,4 @@
-(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)
+(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2011)
 Artículo 179 bis.- Se equiparan al robo y se le impondrán las penas previstas en el artículo 175 más una mitad, a quien:
 (REFORMADA, P.O. 9 DE NOVIEMBRE DE 2002)
 I.- Enajene o adquiera de cualquier manera uno o más vehículos robados;

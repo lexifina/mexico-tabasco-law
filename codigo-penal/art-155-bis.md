@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)
 Artículo 155 Bis.- Se impondrá pena de cuatro a ocho años de prisión a quien cometa el delito de esterilidad provocada.
 Comete el delito de esterilidad provocada, quien sin el consentimiento de la persona autorice o practique en ella procedimientos quirúrgicos con el propósito de provocar esterilidad.

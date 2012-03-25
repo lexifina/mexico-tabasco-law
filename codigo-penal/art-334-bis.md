@@ -1,10 +1,10 @@
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2003)
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2003)
 CAPITULO III
 PORNOGRAFIA INFANTIL
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
-(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)
 Artículo 334 Bis.- Al que por cualquier medio procure, facilite o induzca a una persona menor de edad, a realizar actos de exhibicionismo lascivos o sexuales, con el objeto de videograbarla, fotografiarla o exhibirla, se le impondrán de doce a dieciocho años de prisión y de mil a dos mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales gráficos.
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)
 Se impondrán las mismas sanciones a quien dirija, administre, supervise, financie, elabore, reproduzca, imprima, fije, grabe, comercialice, transmita, distribuya, arriende, exponga,· publicite, difunda o posea con fines lascivos el material a que se refiere el párrafo anterior.
 (ADICIONADO, P.O. 3 DE MAYO DE 2003)
