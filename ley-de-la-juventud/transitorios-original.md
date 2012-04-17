@@ -1,0 +1,15 @@
+TRANSITORIOS
+PRIMERO. El presente Decreto entrará en vigor a los noventa días naturales siguiente (sic) de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+TERCERO. El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, dentro de los sesenta días hábiles contados a partir de la entrada en vigor de la misma.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS VEINTIDÓS DÍAS DEL MES DE MARZO DEL AÑO DOS MIL DOCE. DIP. JESÚS GONZÁLEZ GONZÁLEZ, PRESIDENTE; DIP. YOLANDA RUEDA DE LA CRUZ, SECRETARIA; RÚBRICAS.
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+EXPEDIDO EN EL RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS VEINTISÉIS DÍAS DEL MES DE MARZO DEL AÑO DOS MIL DOCE.
+"SUFRAGIO EFECTIVO. NO REELECCIÓN."
+QUÍM. ANDRÉS RAFAEL GRANIER MELO
+GOBERNADOR DEL ESTADO DE TABASCO.
+LIC. GERARDO GUERRERO PÉREZ
+CONSEJERO JURÍDICO DEL PODER
+EJECUTIVO DEL ESTADO.
+LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
+SECRETARIO DE GOBIERNO.
