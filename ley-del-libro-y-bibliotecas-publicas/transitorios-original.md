@@ -1,0 +1,14 @@
+TRANSITORIOS
+ARTÍCULO PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco
+ARTÍCULO SEGUNDO. El Reglamento de la presente Ley deberá ser expedido dentro de los tres meses siguientes contados a partir de la entrada en vigor de la misma.
+ARTÍCULO TERCERO. Se derogan todas aquellas disposiciones que se opongan al contenido de la presente Ley.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS QUINCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL ONCE, DIP. JOSÉ CARLOS OCAÑA BECERRA, PRESIDENTE; DIP. JESÚS GONZÁLEZ GONZÁLEZ, SECRETARIO; RÚBRICAS.
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+EXPEDIDO EN EL RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS DIEZ DÍAS DEL MES DE FEBRERO DEL AÑO DOS MIL DOCE.
+"SUFRAGIO EFECTIVO. NO REELECCIÓN."
+QUÍM. ANDRÉS RAFAEL GRANIER MELO.
+GOBERNADOR DEL ESTADO DE TABASCO.
+LIC. GERARDO GUERRERO PÉREZ
+CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
+SECRETARIO DE GOBIERNO.
