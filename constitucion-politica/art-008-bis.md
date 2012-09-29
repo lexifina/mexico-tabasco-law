@@ -1,5 +1,5 @@
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2002)
-CAPITULO V
+CAPITULO VI
 DE LA PARTICIPACION CIUDADANA
 (ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2002)
 ARTICULO 8° Bis.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular, en los términos establecidos en la misma y en las demás leyes aplicables.
