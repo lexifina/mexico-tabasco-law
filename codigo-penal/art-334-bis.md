@@ -1,6 +1,6 @@
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2003)
+(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2012)
 CAPITULO III
-PORNOGRAFIA INFANTIL
+OPERACIONES QUIRÚRGICAS Y ATENCIONES MÉDICAS INDEBIDAS
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)
 Artículo 334 Bis.- Al que por cualquier medio procure, facilite o induzca a una persona menor de edad, a realizar actos de exhibicionismo lascivos o sexuales, con el objeto de videograbarla, fotografiarla o exhibirla, se le impondrán de doce a dieciocho años de prisión y de mil a dos mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales gráficos.
