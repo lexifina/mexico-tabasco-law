@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 22 DE DICIEMBRE DE 2007)
-ARTICULO 4° Bis.- El derecho a la información es inherente al ser humano y por lo tanto el Estado tiene la obligación primigenia de reconocerlo y garantizarlo, tomando en consideración los siguientes principios:
+ARTICULO 4° BIS.- El derecho a la información es inherente al ser humano y por lo tanto el Estado tiene la obligación primigenia de reconocerlo y garantizarlo, tomando en consideración los siguientes principios:
 I. Es información pública la generada o en posesión de cualquier autoridad, entidad, órgano y organismo estatal o municipal, así como de las personas físicas o jurídicas colectivas que reciban recursos públicos, cuando esté directamente relacionada con el ejercicio de éstos;
 II. Sólo con motivo de salvaguardar el interés público y por un período de tiempo previamente determinado, la información pública podrá reservarse en los términos y condiciones que fijen las leyes;
 III. El derecho a la intimidad que incluye la privacidad de la vida familiar en primer grado y en general la que se refiere a sus datos personales, deberá ser garantizado por el Estado en los términos y excepciones que fijen las leyes, teniendo siempre como referente el respeto a la dignidad humana;

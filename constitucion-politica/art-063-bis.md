@@ -15,8 +15,8 @@ V.- Las impugnaciones de actos y resoluciones que violen los derechos político 
 VI.- La determinación e imposición de sanciones por parte del Instituto Electoral y de Participación Ciudadana de Tabasco a partidos o agrupaciones políticas o personas físicas o jurídicas colectivas, locales, nacionales o extranjeras, que infrinjan disposiciones de esta Constitución y demás ordenamientos aplicables;
 (REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2002)
 VII.- Los conflictos laborales entre el Instituto Electoral y de Participación Ciudadana y sus servidores públicos; así como los que surjan entre el Tribunal Electoral y sus servidores públicos, en términos de las disposiciones aplicables;
-(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2002)
-VIII.- Las impugnaciones que se presenten respecto de la celebración de plebiscitos, referéndums o procesos de iniciativa popular; y
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)
+VIII.- Las impugnaciones que se presenten respecto de la celebración de consultas populares o la presentación de iniciativas ciudadanas; y
 (ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE NOVIEMBRE DE 2002)
 IX.- Las demás que señale esta Constitución, la Ley Orgánica y demás leyes secundarias y reglamentarias.
 (ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2008)
