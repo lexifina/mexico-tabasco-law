@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)
+Artículo 164 Ter.- Los plazos de abandono a que se refiere el artículo 164 Bis de este Código se interrumpirán:
+I. Por la interposición del recurso administrativo o la presentación de la demanda en el juicio que proceda; y
+El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando la resolución definitiva que recaiga no confirme, en todo o en parte, la que se impugnó.
+II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
+Capítulo III
+Recursos Administrativos
+Sección Primera
+Disposiciones Generales

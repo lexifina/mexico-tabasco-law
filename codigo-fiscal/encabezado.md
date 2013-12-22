@@ -1,4 +1,4 @@
-CODIGO FISCAL DEL ESTADO DE TABASCO
+CÓDIGO FISCAL DEL ESTADO DE TABASCO
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 LIC. MANUEL GURRIA ORDOÑEZ, GOBERNADOR SUSTITUTO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, A SUS HABITANTES; SABED:
 Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:

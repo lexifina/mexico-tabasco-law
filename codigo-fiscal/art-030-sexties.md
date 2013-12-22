@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)
+Artículo 30 Sexties.- Los actos y procedimientos administrativos, así como los trámites y servicios públicos que corresponda prestar a las autoridades fiscales, podrán gestionarse con el uso de los medios electrónicos, los cuales deberán funcionar bajo los principios de neutralidad tecnológica, autenticidad, conservación, confidencialidad e integridad; sin que esto afecte su validez, para lo cual los servidores públicos facultados para rubricar documentos oficiales, deberán contar con un certificado de firma electrónica avanzada.
