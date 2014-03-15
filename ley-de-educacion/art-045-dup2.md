@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE MARZO DE 2014)
+Artículo 45-A La evaluación sobre el tránsito de alumnos de un grado, nivel o tipo educativos a otro, certificación de egresados, asignación de estímulos y las decisiones respecto de personas o instituciones en lo particular, basadas en los resultados de los procesos de evaluación para el reconocimiento, serán competencia de la autoridad educativa local conforme a sus atribuciones.

@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 12 DE MARZO DE 2014)
+Artículo 45-C Las autoridades escolares de las instituciones educativas públicas establecidas por el Estado de Tabasco y por los particulares con autorización o con reconocimiento de validez oficial de estudios, además de las que se establecen en la legislación federal, tendrán las obligaciones siguientes:
+I. Otorgar al Instituto Nacional para la Evaluación de la Educación y a las autoridades educativas las facilidades y colaboración para la evaluación a que se refiere la Ley del Instituto Nacional para la Evaluación de la Educación;
+II. Proporcionar oportunamente la información que se les requiera;
+III. Tomar las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos de evaluación; y
+IV. Facilitar que las autoridades educativas y al (sic) Instituto Nacional para la Evaluación de la Educación realicen actividades de evaluación para fines estadísticos y de diagnóstico y recaben directamente en las escuelas la información necesaria para realizar la evaluación.

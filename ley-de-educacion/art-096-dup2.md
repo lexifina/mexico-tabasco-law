@@ -1,8 +1,8 @@
 (ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2008)
 Sección XII
 DE LA EDUCACIÓN AMBIENTAL
-(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)
-Artículo 96 Bis La educación ambiental en el estado, tiene los siguientes objetivos:
+(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES ARTÍCULO 96 BIS], P.O. 12 DE MARZO DE 2014)
+Artículo 96-A La educación ambiental en el Estado, tiene los siguientes objetivos:
 (ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)
 I. Desarrollar una comprensión integral del ambiente en sus múltiples y complejas relaciones, que involucre los aspectos ecológicos, psicológicos, legales, sociales, económicos, científicos, culturales y éticos de la problemática ambiental y la preservación del ambiente.
 (ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)
