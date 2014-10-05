@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)
-ARTICULO 256 Bis.- Terminación del concubinato
+ARTICULO 256 BIS.- Terminación del concubinato
 La relación del concubinato termina por las siguientes causas:
 I. Por acuerdo mutuo entre las partes;
 II. Por abandono del domicilio común más de seis meses, por parte de uno de los concubinos;
