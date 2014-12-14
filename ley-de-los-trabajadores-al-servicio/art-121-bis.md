@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2014)
+ARTICULO 121 BIS.- A los abogados, litigantes o representantes de las partes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, el Tribunal de Conciliación y Arbitraje le impondrá una multa de acuerdo a los artículos 128 y 129 de esta Ley.
+Si la dilación es producto de omisiones o conductas irregulares de los funcionarios o servidores públicos, la sanción aplicable será la suspensión hasta por treinta días sin pago de salario y, en caso de reincidencia, la destitución del cargo, en los términos de las disposiciones aplicables.
+Además, en este último supuesto, se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
