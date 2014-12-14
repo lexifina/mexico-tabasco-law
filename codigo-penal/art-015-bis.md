@@ -12,5 +12,9 @@ VI. Incumplimiento de las obligaciones de asistencia familiar, establecido en el
 VII. Sustracción o retención de menores o incapaces, a que se refieren los artículos 209 y 209 bis. La facultad de formular querella corresponde a quien tenga derechos familiares o de tutela respecto al menor o incapaz;
 VIII. Ejercicio indebido del propio derecho, al que alude el artículo 282;
 IX. Delitos contra el patrimonio de las personas, previstos en el Título Décimo del Libro Segundo, excepto el abigeato, la extorsión, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas;
-X. Hostigamiento sexual, previsto en los artículos 159 bis y 159 bis 1; y
-XI. Amenazas, previsto en el artículo 161.
+(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)
+X. Hostigamiento sexual, previsto en los artículos 159 bis y 159 bis 1;
+(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)
+XI. Amenazas, previsto en el artículo 161; y
+(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2014)
+XII.- Discriminación, previsto en el artículo 161 Bis.
