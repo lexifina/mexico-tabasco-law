@@ -1,0 +1,8 @@
+P.O. 24 DE DICIEMBRE DE 2014.
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Periódico Oficial del Estado de Tabasco.
+ARTÍCULO SEGUNDO. Se derogan todas las disposiciones legales en lo que se oponga al contenido del presente decreto.
+ARTÍCULO TERCERO. Los procedimientos de auditoría fiscal, de ejecución, los recursos administrativos y en general, las instancias administrativas, solicitudes o trámites iniciados con anterioridad a la entrada en vigor del presente Decreto, se resolverán con arreglo a las disposiciones fiscales vigentes al iniciarse los procedimientos o trámites respectivos.
+ARTÍCULO CUARTO. El artículo 116 del presente Código, aplicará en relación a los créditos fiscales determinados a partir de la entrada en vigor del mismo.
+El plazo para el cómputo de la prescripción a que se refiere el párrafo quinto del artículo 116 del Código Fiscal del Estado, será aplicable para los créditos fiscales que hayan sido exigidos a partir del 1 de enero de 2006.
+Tratándose de los créditos fiscales exigibles con anterioridad al 1 de enero de 2006, la Secretaría de Planeación y Finanzas tendrá un plazo máximo de dos años para hacer efectivo el cobro de dichos créditos contados a partir de la entrada en vigor del presente Decreto, siempre que se trate de créditos que no se encuentren controvertidos en dicho periodo; de controvertirse, el plazo máximo de dos años será suspendido.
+La aplicación del presente artículo no configurará responsabilidad administrativa para servidores públicos encargados de la ejecución y cobro de créditos fiscales, siempre y cuando realicen las gestiones de cobro correspondientes.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
+Artículo 116 Ter.- Los créditos fiscales que se encuentren registrados en la cuenta especial de créditos incobrables a que se refiere el artículo 116 Bis de este Código, se extinguirán, transcurridos cinco años contados a partir de que se haya realizado dicho registro, cuando exista imposibilidad práctica de cobro.
+Para estos efectos, se considera que existe imposibilidad práctica de cobro, entre otras, cuando los deudores no tengan bienes embargables, el deudor hubiera fallecido o desaparecido sin dejar bienes a su nombre o cuando por sentencia firme hubiera sido declarado en quiebra por falta de activo.

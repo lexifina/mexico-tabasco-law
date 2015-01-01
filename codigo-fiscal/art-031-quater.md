@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)
-Artículo 31 Quater.- Las autoridades fiscales podrán llevar a cabo verificaciones para constatar los datos proporcionados al registro estatal de contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)
+Artículo 31 Quater.- Las autoridades fiscales podrán llevar a cabo verificaciones para constatar los datos proporcionados al Registro Estatal de Contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
