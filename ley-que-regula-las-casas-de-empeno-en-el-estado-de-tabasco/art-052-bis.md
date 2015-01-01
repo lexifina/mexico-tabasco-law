@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
+ARTÍCULO 52 BIS. Cuando una persona física o jurídica colectiva instale y haga funcionar una casa de empeño sin contar con la licencia expedida por el Ejecutivo del Estado, o realice las actividades que regula la presente Ley sin autorización, además de aplicarle la sanción prevista en la fracción I del artículo 51, se procederá a clausurar el establecimiento respectivo.
