@@ -1,4 +1,0 @@
-P.O. 8 DE SEPTIEMBRE DE 2006.
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose expedir y en su caso reformar las leyes; así como crear y adecuar las instituciones y autoridades que se requieran para su aplicación.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del Acuerdo del pleno y de su expediente, para que emitan su voto de aprobación o rechazo a las reformas y adición acordadas por la soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se le tendrá como aprobatorio el voto del Ayuntamiento omiso.

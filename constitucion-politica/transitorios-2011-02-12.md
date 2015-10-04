@@ -1,7 +1,0 @@
-P.O. 12 DE FEBRERO DE 2011.
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-La presentación armonizada de la información en la cuenta pública, en los términos, que se indican en el presente Decreto, se deberán llevar a cabo en los plazos y términos que disponen la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables. En tanto no se actualicen los términos previstos en aquella ley y las disposiciones vinculadas a su cumplimiento, la presentación de la cuenta pública por parte de los entes fiscalizables, se seguirá realizando como hasta ahora, en términos de las disposiciones locales vigentes.
-SEGUNDO.- El Poder Ejecutivo, por conducto de la Secretaría de Administración y Finanzas, coordinará los trabajos jurídico-administrativos necesarios, con los entes públicos, para que el sistema de contabilidad gubernamental estatal se armonice en las condiciones requeridas por la Ley General de Contabilidad Gubernamental.
-TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los 17 Ayuntamientos de la entidad.
-CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
-QUINTO.- Expídanse las reformas y adiciones a las leyes secundarias que así lo requieran para hacerlas acordes a las disposiciones contenidas en el presente Decreto.
