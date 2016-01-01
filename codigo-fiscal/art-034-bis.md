@@ -1,10 +1,19 @@
-(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
-Artículo 34 Bis.- La Administración Pública Estatal, Centralizada y Paraestatal, el Poder Legislativo, el Poder Judicial, Municipios y Órganos Constitucionales Autónomos, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que:
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)
+Artículo 34- Bis.- La Administración Pública Estatal, Centralizada y Paraestatal, el Poder Legislativo, el Poder Judicial, Municipios y Órganos Constitucionales Autónomos, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que en contravención a las disposiciones aplicables incurran en alguno de los siguientes casos:
+(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)
 I. Tengan a su cargo créditos fiscales firmes.
+(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)
 II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
+(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)
 III. No se encuentren inscritos en el Registro Estatal de Contribuyentes.
+(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)
 IV. Habiendo vencido el plazo para presentar alguna declaración, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
 Para los efectos de este artículo la autoridad fiscal competente expedirá la constancia que corresponda, previa solicitud del particular y pago del derecho correspondiente conforme a la Ley de Hacienda del Estado de Tabasco, dicha constancia tendrá vigencia de un mes contado desde la fecha de su expedición.
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
 La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo deberán ser cubiertos con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
 Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes, lo cual la autoridad fiscal deberá hacer del conocimiento de las citadas dependencias para que cumplan con la retención y entero, apercibiéndolas como si de embargo de créditos se tratase de conformidad con el primer párrafo del artículo 129 de este Código.
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
 Los proveedores a quienes se adjudique el contrato sólo podrán subcontratar con aquellos contribuyentes que estén al corriente de sus obligaciones fiscales, de conformidad con lo dispuesto por este artículo.

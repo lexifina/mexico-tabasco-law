@@ -1,0 +1,4 @@
+P.O. 30 DE DICIEMBRE DE 2015.
+[N. DE E. TRANSITORIOS DEL DECRETO 269 POR EL QUE "SE REFORMAN LOS ARTÍCULOS: 34 BIS, PÁRRAFO PRIMERO; 95, PÁRRAFO SEGUNDO; 97, PÁRRAFO TERCERO; 108, FRACCIÓN V; 119, PÁRRAFO PRIMERO. SE ADICIONAN: LAS FRACCIONES IX Y X AL ARTÍCULO 8, PASANDO LAS ACTUALES IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII Y XIX A SER LAS FRACCIONES XI, XVII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI; AL 94, LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO; AL 119 LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO QUINTO, SEXTO Y SÉPTIMO. TODOS DEL CÓDIGO FISCAL DEL ESTADO DE TABASCO".]
+ARTÍCULO PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el 01 de enero de 2016.
+ARTÍCULO SEGUNDO. Se abroga el Reglamento para el Cobro y Aplicación de Honorarios por Notificación de Créditos Fiscales y Gastos de Ejecución y se derogan todas las disposiciones que se opongan al contenido del presente decreto.
