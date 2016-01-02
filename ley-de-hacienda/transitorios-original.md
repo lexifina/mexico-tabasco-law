@@ -1,0 +1,16 @@
+TRANSITORIOS
+PRIMERO.- La presente Ley será publicada en el periódico oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil dieciséis.
+SEGUNDO. Se abroga La Ley de Hacienda del Estado de Tabasco publicada en el suplemento 6552 B del Periódico Oficial del Estado de Tabasco de fecha 22 de junio de 2005 y se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+TERCERO.- Las obligaciones relativas al Impuesto Vehicular Estatal que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en el capítulo séptimo de la Ley de Hacienda del Estado vigente hasta el 31 de diciembre de 2014, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones fiscales aplicables.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS CATORCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL QUINCE. DIP. FRANCISCO JAVIER CABRERA SANDOVAL, PRESIDENTE; DIP. CASILDA RUIZ AGUSTÍN, SECRETARIA. RÚBRICAS.
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS VEINTIDÓS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL QUINCE.
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+LIC. ARTURO NÚÑEZ JIMÉNEZ
+GOBERNADOR DEL ESTADO DE TABASCO
+C. CÉSAR RAÚL OJEDA ZUBIETA
+SECRETARIO DE GOBIERNO
+LIC. JUAN JOSÉ PERALTA FÓCIL
+COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+[N. DE E. VÉASE ANEXO PRIMERO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 88 A LA 136.]
+[N. DE E. VÉASE ANEXO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 137 A LA 351.]
