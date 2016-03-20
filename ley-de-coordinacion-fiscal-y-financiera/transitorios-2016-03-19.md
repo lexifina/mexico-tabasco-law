@@ -1,0 +1,5 @@
+P.O. 19 DE MARZO DE 2016.
+[N. DE E. TRANSITORIOS DEL DECRETO 003 POR EL QUE "SE ADICIONA A LA LEY DE COORDINACIÓN FISCAL Y FINANCIERA DEL ESTADO DE TABASCO, EL CAPÍTULO CUARTO BIS DENOMINADO "DE LA TRANSFERENCIA DE RECURSOS FEDERALES QUE CORRESPONDEN A LOS MUNICIPIOS, DERIVADOS DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS", INTEGRADO POR LOS ARTÍCULOS 38 BIS Y 38 TER".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO.- Para los efectos a que se refiere la fracción II del artículo 38 bis de la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, ésta será de manera anualizada a partir del año 2017; no obstante para efectos de la distribución del recurso por lo que resta del año 2016, el Titular del Poder Ejecutivo publicará en el Periódico Oficial del Estado el mecanismo de distribución a más tardar el último día del mes de marzo.
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
