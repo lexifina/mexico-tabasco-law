@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE MAYO DE 2016)
+Artículo 31 Bis. Las niñas y adolescentes podrán solicitar a las autoridades competentes, en términos de la legislación aplicable y de esta Ley, que las representen en sus solicitudes y acciones respecto a las órdenes de protección que prevé este ordenamiento; lo que no impedirá que las autoridades correspondientes actúen de manera oficiosa para expedir las órdenes de protección que resulten necesarias, en consideración del interés superior de la niñez.
