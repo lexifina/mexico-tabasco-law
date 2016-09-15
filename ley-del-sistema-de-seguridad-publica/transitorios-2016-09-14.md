@@ -1,0 +1,7 @@
+P.O. 14 DE SEPTIEMBRE DE 2016.
+[N. DE E. TRANSITORIOS DEL DECRETO 027 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 164, Y SE DEROGA LA FRACCIÓN XIII DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 48, AMBOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- En un plazo no mayor de 180 días a partir de la publicación de este Decreto, se deberá emitir el Reglamento Interior del Órgano Administrativo Desconcentrado Centro de Mando y Comunicaciones.
+TERCERO.- Los recursos humanos, financieros y materiales que actualmente se encuentran asignados al Centro de Mando y Comunicaciones como parte de la estructura orgánica de la Secretaría de Seguridad Pública, pasarán a formar parte del nuevo Órgano Administrativo Desconcentrado que se crea, dependiente de la Secretaría de Gobierno, en un plazo que no exceda de 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+El personal que se transfiere al Órgano Desconcentrado, deberán (sic) someterse a los procedimientos de evaluación y control de confianza que el Centro Estatal respectivo, aplique conforme a los lineamientos emitidos por el Centro Nacional de Certificación y Acreditación.
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
