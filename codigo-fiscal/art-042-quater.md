@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)
-Artículo 42 Quater.- Para los efectos de lo dispuesto por la fracción VI delartículo (sic) 37 de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
+(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)
+Artículo 42 Quáter.- Para los efectos de lo dispuesto por los artículos 31 Quáter y 37, fracción VI de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)
 I. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías;
 (REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)
