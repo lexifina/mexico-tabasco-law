@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 8 DE MARZO DE 2017)
+Artículo 17-A.- Los Ingresos excedentes derivados de Ingresos de libre disposición con que cuente el Estado de Tabasco, deberán ser destinados a los siguientes conceptos:
+I. Por lo menos el 50 por ciento de dichos ingresos será destinado para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para la atención de desastres naturales y de pensiones; y
+II. En su caso, el remanente será destinado para:
+a) Inversión pública productiva, a través del fondo que se constituya para tal efecto, con el fin de que los recursos correspondientes se ejerzan a más tardar en el ejercicio inmediato siguiente; y
+b) La creación de un fondo cuyo objetivo sea compensar la caída de Ingresos de libre disposición en ejercicios subsecuentes.
+Los Ingresos excedentes derivados de Ingresos de libre disposición podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando el Estado de Tabasco se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas que se establece en la Ley de Disciplina Financiera.

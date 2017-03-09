@@ -1,12 +1,9 @@
-(REFORMADO, P.O. 18 DE MAYO DE 2010)
-Artículo 8 bis. El Ejecutivo del Estado deberá contar con la autorización del Congreso del Estado para llevar a cabo la contratación de financiamientos cuya vigencia sea mayor de un año. Para obtener dicha autorización, el Ejecutivo del Estado deberá enviar una solicitud al Congreso del Estado, la cual deberá cumplir con los siguientes requisitos, de información y documentación:
-1. Solicitud por escrito del Financiamiento a ser contratado.
-2. Presentar un análisis financiero de la deuda que contenga los siguientes elementos:
-a) Monto, periodo o plazo de vigencia del financiamiento;
-b) Garantías y/o avales del financiamiento; y
-c) Fuente de pago del financiamiento.
-3. Descripción del proyecto o proyectos de inversión pública productiva donde se precise lo siguiente:
-a) Tipo y necesidad de la inversión;
-b) Argumentación que sustente los beneficios en la población; y
-c) Monto total de la inversión.
-4. Estado de la situación de la Deuda Pública y su costo financiero a la fecha de solicitud del endeudamiento.
+(REFORMADO, P.O. 8 DE MARZO DE 2017)
+Artículo 8 bis. El Ejecutivo del Estado deberá contar con la autorización del Congreso del Estado para llevar a cabo la contratación de Financiamientos y Obligaciones cuya vigencia sea mayor de un año. Para obtener dicha autorización, el Ejecutivo del Estado deberá enviar una solicitud por escrito al Congreso del Estado.
+En su caso, La autorización de los Financiamientos y Obligaciones por parte de la Legislatura local deberá especificar, por lo menos, lo siguiente:
+I. Monto autorizado de la Deuda Pública u Obligación a incurrir;
+II. Plazo máximo autorizado para el pago;
+III. Destino de los recursos;
+IV. En su caso, la Fuente de pago o la contratación de una Garantía de pago de la Deuda Pública u Obligación, y
+V. En caso de autorizaciones específicas, establecerá la vigencia de la autorización, en la que no podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada.
+Los requisitos a que se refiere este artículo deberán cumplirse, en lo conducente, para la autorización del Congreso local para el otorgamiento de avales o Garantías que pretenda otorgar el Estado.

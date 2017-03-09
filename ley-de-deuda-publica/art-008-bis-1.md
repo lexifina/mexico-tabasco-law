@@ -1,8 +1,8 @@
-(REFORMADO, P.O. 18 DE MAYO DE 2010)
-Artículo 8 bis-1. Para todo financiamiento autorizado por parte del Congreso del Estado, el, Ejecutivo del Estado deberá presentar la siguiente información y documentación al Congreso del Estado, por conducto de la Comisión Orgánica de Hacienda y Presupuesto, en un plazo no mayor a 90 (noventa) días naturales a partir de la contratación del financiamiento:
-1. Informe del financiamiento contratado que debe contener:
-a) Monto, periodo o plazo de vigencia del financiamiento;
-b) Tasa de interés, garantías, avales y condiciones del financiamiento, así como comisiones, y otros cargos;
-c) Calendario de amortización del financiamiento; y
-d) Fuente de pago del financiamiento.
-2. Acreditar la inscripción del financiamiento en el Registro de Deuda Pública del Estado de Tabasco y sus Municipios, así como, en caso que corresponda, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios de la Secretaría de Hacienda y Crédito Público.
+(REFORMADO, P.O. 8 DE MARZO DE 2017)
+Artículo 8 bis-1. Los Entes Públicos estarán obligados a contratar los Financiamientos y Obligaciones a su cargo bajo las mejores condiciones de mercado.
+Una vez celebrados los instrumentos jurídicos relativos, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único, el Ente Público deberá publicar en su página oficial de Internet dichos instrumentos. Asimismo, el Ente Público presentará en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de cada Financiamiento u Obligación contraída en los términos de este Capítulo, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.
+Adicionalmente a lo anterior, el Ejecutivo del Estado deberá presentar la siguiente información y documentación al Congreso del Estado, por conducto de la Comisión Orgánica de Hacienda y Presupuesto, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único,
+I. Importe del Financiamiento u Obligación;
+II. Tasa de interés, garantías, avales y condiciones del Financiamiento u Obligación, así como comisiones, y otros accesorios pactados; y
+III. Calendario de amortización del financiamiento u Obligación; y
+IV. Datos de la inscripción del financiamiento u obligación en el Registro Público Único.
