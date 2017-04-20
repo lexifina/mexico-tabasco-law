@@ -1,0 +1,3 @@
+P.O. 19 DE ABRIL DE 2017.
+[N. DE E. TRANSITORIO DEL DECRETO 085 POR EL QUE "SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 8 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
