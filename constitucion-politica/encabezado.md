@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 General Brigadier CARLOS GREENE, Gobernador Constitucional del Estado Libre y Soberano de Tabasco a sus habitantes hago saber:

@@ -42,3 +42,6 @@ El Tribunal Electoral deberá remitir al Ejecutivo Estatal, el anteproyecto de e
 Asimismo, contará con un Órgano de Control y Evaluación cuyas atribuciones se establecerán en la ley de la materia.
 (REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)
 El Tribunal Electoral de Tabasco, por conducto de su Presidente deberá dar cumplimiento a lo establecido en el artículo 41 de la Constitución del Estado, remitiendo al Congreso, a través de su Órgano Superior de Fiscalización su cuenta pública para el examen y calificación correspondiente.
+(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2017)
+TITULO V BIS
+Del Tribunal de Justicia Administrativa
