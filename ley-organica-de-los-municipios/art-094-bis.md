@@ -11,6 +11,6 @@ VIII.- Atender y asesorar a las mujeres en los casos de maltrato, violencia intr
 IX.- Elaborar programas para la prevención y erradicación de la violencia familiar e intrafamiliar;
 X.- Elaborar y proponer al Presidente Municipal, las iniciativas de reglamentación de su competencia; y
 XI.- Las demás que le atribuyan expresamente las leyes, reglamento y las que le encomienden directamente el Ayuntamiento o el presidente municipal.
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 2008)
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 2008)
 CAPÍTULO XV TER
 De la Dirección de Protección Ambiental y Desarrollo Sustentable
