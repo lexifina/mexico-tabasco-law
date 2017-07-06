@@ -5,7 +5,7 @@ II.- Implementar actividades educativas, de investigación, de información y de
 III.- Actualizar y difundir entre los profesionales, técnicos y auxiliares de la salud, la información científica y técnica en materia de trasplantes;
 IV.- Coadyuvar con el Centro Nacional de Trasplantes presentando sus programas de trasplantes e integrando y actualizando la información del Registro Nacional de Trasplantes, de conformidad con lo que señalen la Ley General de Salud y las demás disposiciones aplicables;
 V.- Operar y mantener actualizado el Registro Estatal de Trasplantes, de conformidad a la normatividad aplicable;
-VI.- Proporcionar al Registro Nacional, la información en •materia de Trasplantes generada en el Estado y colaborar con sus acciones, en los términos de los acuerdos de coordinación y colaboración que se celebren;
+VI.- Proporcionar al Registro Nacional, la información en materia de Trasplantes generada en el Estado y colaborar con sus acciones, en los términos de los acuerdos de coordinación y colaboración que se celebren;
 VII.- Difundir y proporcionar, con el auxilio de las unidades de atención ciudadana, hospitales y centros de salud, el formato en que deba registrarse el consentimiento expreso de la persona que desea ser donador de órganos, tejidos y células, así como el de consentimiento de donación que realicen las personas a que se refieren los artículos 323 y 324 de la Ley General de Salud;
 VIII.- Coadyuvar con las autoridades competentes, a fin de que se respete la voluntad de las personas que han decidido donar órganos y tejidos;
 IX.- Reconocer el mérito y altruismo de los donadores y sus familias, mediante la expedición de las constancias correspondientes;
