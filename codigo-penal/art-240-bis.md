@@ -1,7 +1,18 @@
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2001)
+(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2017)
 CAPITULO VIII-BIS
-EJERCICIO INDEBIDO DE ATRIBUCIONES Y FACULTADES
-(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)
-Artículo 240 bis.- Comete el delito de ejercicio indebido de atribuciones y facultades el servidor público que por razón de sus funciones u obligaciones en el cumplimiento de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, encubra, favorezca o permita la venta o distribución ilegal de bebidas alcohólicas. Dicho delito se sancionará de dos a nueve años de prisión y multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización vigente.
-(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2001)
-Además de la sanción anterior, se aplicará por la autoridad judicial la destitución e inhabilitación por el mismo término de la pena impuesta para obtener y desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público; dicha resolución deberá ser comunicada a las instancias administrativas correspondientes, tanto del ámbito de la adscripción del servidor público sancionado, como aquella que en su caso, por virtud del control que el Estado o Municipios llevare de su personal, se tuviere que informar para los fines de la mejor ejecución de la pena pública.
+EJERCICIO ILICITO DE ATRIBUCIONES Y FACULTADES
+(REFORMADO, P.O. 23 DE AGOSTO DE 2017)
+Artículo 240 bis.- Comete el delito de ejercicio ilícito de atribuciones y facultades:
+I.- El servidor público que ilícitamente:
+a) Otorgue concesiones para la prestación de servicios públicos o para la explotación, aprovechamiento y uso de bienes de dominio del Estado o los municipios;
+b) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico;
+c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Estatal o Municipal;
+d) Otorgue, realice o contrate obras, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos; o
+e) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
+II.- El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público, o de otra persona:
+a) Niegue el otorgamiento o contratación de las operaciones a que hace referencia la fracción anterior, habiendo cumplido o satisfecho todos los requisitos establecidos en la normatividad aplicable para su otorgamiento; o
+b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
+III.- Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción I de este artículo, o sea parte en las mismas; y
+IV.- El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
+Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio públicos, o de otra persona, participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta días multa.
