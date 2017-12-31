@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)
+Artículo 185 Bis 1.- A las autoridades en general y los servidores públicos de los puntos de verificación e inspección que se le compruebe que intervinieron o participaron en las operaciones para la comisión del delito de abigeato, si no tomaron las medidas a las que estén obligadas, se les impondrá una pena de nueve a catorce años de prisión y de seiscientos a mil días multa, más la inhabilitación para desempeñar cargos públicos por el doble de la pena de prisión impuesta.
