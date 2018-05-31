@@ -35,11 +35,11 @@ Apartado A. En cada uno de los Municipios del Estado se establecerán Sistemas d
 (REFORMADO, P.O. 1 DE JUNIO DE 2011)
 El Sistema Municipal de Protección Civil será presidido por el Presidente Municipal.
 (REFORMADO, P.O. 1 DE JUNIO DE 2011)
-En materia de protección civil, el Presidente Municipal tendrá, además de las que establece la Ley de la materia, las siguientes facultades y obligaciones:
+En materia de protección civil, el Presidente Municipal tendrá, además de las que establece la ley de la materia, las siguientes facultades y obligaciones:
 I. Presidir el Sistema Municipal de Protección Civil;
-II. Ordenar la elaboración del Programa y Plan de Emergencia Municipal de Protección Civil y someterlo al Pleno del Consejo Municipal de Protección Civil que señala la Ley, para su análisis y aprobación, en su caso;
+II. Ordenar la elaboración del Programa y Plan de Emergencia Municipal de Protección Civil y someterlo al Pleno del Consejo Municipal de Protección Civil que señale la Ley, para su análisis y aprobación, en su caso;
 III. Instalar el Consejo Municipal de Protección Civil;
-IV. Contemplar en su Presupuesto de Egresos de cada ejercicio fiscal una partida para la prevención y auxilio de la población ante una emergencia o desastre;
+IV. Contemplar en el Presupuesto de Egresos de cada ejercicio fiscal una partida para la prevención y auxilio de la población ante una emergencia o desastre;
 V. Establecer comunicación permanente con autoridades estatales en la materia, en situaciones normales y ante emergencias o desastres;
 VI. Difundir oportunamente a la población los riesgos a que está expuesta, por la ocurrencia de fenómenos perturbadores; así mismo señalar las medidas preventivas para mitigar sus efectos;
 VII. Ordenar la elaboración del Atlas Municipal de Riesgos;
