@@ -1,0 +1,7 @@
+P.O. 17 DE OCTUBRE DE 2018.
+[N. DE E. TRANSITORIOS DEL DECRETO 002 POR EL QUE "SE REFORMAN: EL ARTÍCULO 65, FRACCIÓN III, PRIMER PÁRRAFO; EL ARTÍCULO 120; Y EL ARTÍCULO 121, QUINTO PÁRRAFO; TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- La reforma al primer párrafo del artículo 24 de la Ley de Planeación del Estado de Tabasco, entrará en vigor el 1o. de octubre de 2024, por lo que el Gobernador del Estado que comience su mandato el 1o. de enero de 2019 enviará el Plan Estatal de Desarrollo al Congreso del Estado para su aprobación, a más tardar el 31 de mayo siguiente a su toma de posesión.
+Para efectos de lo previsto en el párrafo anterior, la Comisión Permanente del Congreso convocará, de ser necesario, a un periodo extraordinario de sesiones para la aprobación de dicho Plan, en un plazo máximo de 45 días contado a partir de que haya recibido el referido Plan por parte del Ejecutivo Estatal.
+TERCERO.- La reforma al primer párrafo del artículo 25 entrará en vigor el 5 de octubre de 2021, por lo que los presidentes municipales que inicien su mandato el 5 de octubre de 2018 deberán elaborar su Plan Municipal de Desarrollo a más tardar el 16 de julio de 2019 y, en su caso, los respectivos cabildos deberán aprobarlo dentro de los 15 días siguientes a su recepción.
+CUARTO.- Se derogan las disposiciones legales o administrativas que se opongan a lo previsto en el presente Decreto.
