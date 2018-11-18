@@ -1,0 +1,6 @@
+P.O. 17 DE NOVIEMBRE DE 2018.
+[N. DE E. TRANSITORIOS DEL DECRETO 008 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 48, SEGUNDO PÁRRAFO, FRACCIÓN XIII Y 164, PRIMER PÁRRAFO; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 192, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO.- El Gobernador deberá efectuar las respectivas reformas, adiciones y derogaciones al Acuerdo por el que se crea el Centro Estatal de Prevención Social del Delito y Participación Ciudadana, en un término no mayor a cuarenta y cinco días hábiles a partir de la entrada en vigor del presente Decreto.
+TERCERO.- Realícense los trámites administrativos y presupuestales necesarios, para que se establezca formal, material y operativamente el debido funcionamiento del Centro de Mando y Comunicaciones; y del Centro Estatal de Prevención Social del Delito y Participación Ciudadana, como órgano desconcentrado dependiente de la Secretaría de Seguridad Pública, en un plazo que no exceda de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto.
+CUARTO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente Decreto.
