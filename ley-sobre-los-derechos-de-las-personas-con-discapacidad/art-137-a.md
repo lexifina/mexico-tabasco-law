@@ -1,6 +1,3 @@
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2014)
-CAPÍTULO II
-DE LOS APOYOS ECONÓMICOS
-(ADICIONADO, P.O. 24 DE MAYO DE 2014)
-ARTÍCULO 137-A. Las personas con discapacidad permanente que les impida valerse por sí mismas tienen derecho a recibir un apoyo económico mensual, determinado cada ejercicio fiscal de conformidad con las disponibilidades presupuéstales del Gobierno del Estado.
-El apoyo económico a que se refiere este artículo será entregado a los beneficiarios en forma mensual mediante las instituciones, mecanismos y reglas de operación que se establezcan en el programa respectivo.
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)
+CAPÍTULO II.
+ARTÍCULO 137-A. (DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
