@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 2 DE ENERO DE 2019)
+ARTICULO 26 Bis.- El Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco se sujetará a los lineamientos y políticas de austeridad y eficiencia administrativa y financiera que emita la Secretaría de Administración e Innovación Gubernamental en su papel de dependencia consolidadora responsable de conducir y ejecutar la política general en materia de contrataciones públicas, de bienes y servicios; así como de la planeación y administración sobre recursos humanos.

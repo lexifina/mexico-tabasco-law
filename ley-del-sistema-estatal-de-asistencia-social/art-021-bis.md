@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 2 DE ENERO DE 2019)
+ARTICULO 21 Bis.- Para fortalecer la autonomía del Organismo, la esposa o esposo de el o la Titular del Ejecutivo Estatal no se considerará servidora o servidor público y no recibirá honorario, salario o compensación económica alguna, por lo que estará desvinculada o desvinculado legal, presupuestal y administrativamente de las acciones que realicen las autoridades sobre la operación interna y la administración patrimonial del Organismo.
+Se considerará honorífica la labor que realice relacionada con las atribuciones que tiene el Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, las contenidas en esta Ley y en general aquellas en materia de asistencia social.
+A los eventos, giras, actos protocolarios y reuniones del Organismo a las que sea convocada su presencia, acudirá de manera voluntaria y en calidad de invitada o invitado.
+La esposa o esposo de el o la Titular del Ejecutivo Estatal no podrá ser Presidenta o Presidente de la Junta de Gobierno, Coordinadora o Coordinador General o Presidenta o Presidente del Consejo Ciudadano Consultivo del Organismo.
