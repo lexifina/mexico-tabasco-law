@@ -1,0 +1,4 @@
+P.O. 16 DE MARZO DE 2019.
+[N. DE E. TRANSITORIOS DEL DECRETO 073 POR EL QUE "SE REFORMAN EL ARTÍCULO 82, PÁRRAFO TERCERO; LA DENOMINACIÓN DEL CAPÍTULO OCTAVO, DEL TÍTULO TERCERO; EL ARTÍCULO 93, EN SU PÁRRAFO PRIMERO, EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II, Y EN EL SUB INCISO (B), DEL INCISO J), DE SU FRACCIÓN IV; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
