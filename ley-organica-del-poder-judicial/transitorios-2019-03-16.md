@@ -1,0 +1,6 @@
+P.O. 16 DE MARZO DE 2019.
+[N. DE E. TRANSITORIOS DEL DECRETO 072 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 2, FRACCIONES I, INCISO E), II Y SU INCISO H); 24, PÁRRAFO QUINTO; 28, PRIMER PÁRRAFO Y FRACCIÓN II; 68, TERCER PÁRRAFO; 71, FRACCIÓN II; 72; 73, FRACCIÓN II; 74; Y 75, PRIMER Y ÚLTIMO PÁRRAFO; SE ADICIONAN: UN SEGUNDO PÁRRAFO AL ARTÍCULO 28, RECORRIÉNDOSE EL SUBSECUENTE PARA SER EL PÁRRAFO TERCERO; UN CUARTO PÁRRAFO AL ARTÍCULO 68, RECORRIÉNDOSE EL SUBSECUENTE PARA SER EL PÁRRAFO QUINTO; TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor a partir de los treinta días hábiles posteriores a su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, en los que se haya dictado el auto de apertura a juicio oral, el Tribunal de Enjuiciamiento Colegiado designado, continuará con su sustanciación, hasta su culminación.
+TERCERO. El Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura, ambos del Poder Judicial del Estado de Tabasco, emitirán los acuerdos generales que sean necesarios, para el cumplimiento de las disposiciones del presente Decreto.
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
