@@ -1,0 +1,8 @@
+P.O. 17 DE ABRIL DE 2019.
+[N. DE E. TRANSITORIOS DEL DECRETO 080 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES I, II, III, VIII, XX, XXIV Y XXV; 5; 11, PÁRRAFO SEGUNDO; 17, PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO; 18; 23, PÁRRAFO TERCERO; 26, PÁRRAFO CUARTO; 27, FRACCIÓN XXIII; 31, FRACCIÓN I, Y PÁRRAFO SEGUNDO; 32, PÁRRAFO PRIMERO; 35, PÁRRAFO PRIMERO; 39, PÁRRAFO PRIMERO, Y LA FRACCIÓN II; 39 BIS; 51, FRACCIÓN IV; 57, PÁRRAFO TERCERO; 58, PÁRRAFO PRIMERO; 59; 60, PÁRRAFO PRIMERO; 61; 62, PÁRRAFO PRIMERO; 63, PÁRRAFO PRIMERO; 64, PÁRRAFO PRIMERO; 65; 66, PÁRRAFOS PRIMERO Y SEGUNDO; 67; 68, PÁRRAFOS PRIMERO Y SEGUNDO; 69; 71, PÁRRAFO PRIMERO, Y FRACCIONES III Y V; 72; 73, PÁRRAFOS SEGUNDO Y TERCERO; 75; 76; 77, FRACCIÓN III; Y, 78, PÁRRAFO PRIMERO; TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO. Se derogan todas las disposiciones que se oponga (sic) al presente Decreto.
+TERCERO. En un plazo que no exceda a los ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo realizará las adecuaciones conducentes al Reglamento de la Ley que se reforma.
+CUARTO. El Comité de Compras realizará las modificaciones que considere necesarias a su
+Reglamento, dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto.
+QUINTO. En lo que se realizan las adecuaciones mencionadas en los artículos Transitorios Tercero y Cuarto del presente Decreto, todas las menciones que se refieren a la Secretaría Técnica, se entenderán hechas a la Coordinación General de Asuntos Jurídicos.

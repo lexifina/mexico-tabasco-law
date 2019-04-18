@@ -1,3 +1,2 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (ADICIONADO, P.O. 22 DE MAYO DE 2010)
 ARTÍCULO 269 BIS 3.- Las instituciones de salud, el personal médico y paramédico que por decisión propia, deje de proporcionar cualquier tratamiento o cuidado sin el consentimiento del enfermo en situación terminal, o en caso que esté impedido para expresar su voluntad, el de su familia o representante, será sancionado conforme lo establecido por las leyes aplicables.

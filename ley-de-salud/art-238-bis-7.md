@@ -1,4 +1,3 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO
 (ADICIONADO, P.O. 8 DE JUNIO DE 2011)
 ARTÍCULO 238 BIS 7.- El tratamiento bajo la modalidad residencial en los establecimientos de ayuda mutua, se llevará a cabo a través de las siguientes acciones:
 I. Contar por escrito con los lineamientos y disposiciones del funcionamiento del establecimiento y del proceso de recuperación al que se va a incorporar el usuario, así como tener en lugar visible los criterios de exclusión sobre padecimientos que no pueden atender (trastornos psiquiátricos, alteraciones y trastornos conductuales no inherentes al consumo de sustancias psicoactivas, comorbilidades médicas y psiquiátricas, por ejemplo),

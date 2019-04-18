@@ -1,3 +1,2 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO
 (ADICIONADO, P.O. 8 DE JUNIO DE 2011)
 ARTÍCULO 238 BIS 17.- La Secretaría de Salud, previo el procedimiento establecido en este ordenamiento, podrá emitir opiniones técnicas legales, aplicar sanciones, o decretar suspensión parcial o total y la clausura de los Centros de Tratamiento y Rehabilitación contra las Adicciones que no cumplan con lo dispuesto en la presente Ley, independiente de las sanciones que disponga la normatividad aplicable para el caso.
