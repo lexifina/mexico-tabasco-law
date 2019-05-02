@@ -1,0 +1,7 @@
+P.O. 1 DE MAYO DE 2019.
+[N. DE E. TRANSITORIOS DEL DECRETO 085 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 7 Y 80, PÁRRAFO SEGUNDO, FRACCIÓN I, TODOS DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS".]
+ARTÍCULO PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+ARTÍCULO SEGUNDO.- El Consejo Estatal de Evaluación deberá instalarse en un plazo no mayor a cuarenta y cinco días hábiles posteriores a la entrada en vigor del presente Decreto.
+ARTÍCULO TERCERO.- Los asuntos relacionados con la evaluación del desempeño que con motivo de este Decreto deban pasar para su atención a la Coordinación de Evaluación del Desempeño permanecerán en el último trámite que hubieren alcanzado, a excepción de los urgentes o sujetos a plazos improrrogables que deberán desahogarse con la inmediatez que se requiera.
+ARTÍCULO CUARTO.- Cuando en otras disposiciones se dé una denominación distinta a alguna dependencia, entidad o unidad cuyas funciones estén reguladas en las leyes materia de este Decreto, dichas atribuciones se entenderán concedidas para su ejercicio a la dependencia, entidad o unidad que determinan estas leyes en tanto se realizan los ajustes legislativos, reglamentarios o administrativos que correspondan.
+ARTÍCULO QUINTO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.

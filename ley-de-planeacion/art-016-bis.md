@@ -1,26 +1,8 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)
-ARTICULO 16 BIS. El Consejo Estatal de Evaluación estará integrado por los titulares de la Secretaría y SECOTAB, mismos que podrán designar a su suplente. El Consejo tendrá las siguientes atribuciones:
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-I. Administrará el Sistema Estatal de Evaluación del Desempeño;
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-II. Coordinar la evaluación de las políticas públicas, de los programas y de desempeño de los Entes Públicos bajo los principios de independencia, imparcialidad y transparencia;
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-III. Emitir lineamientos sobre la metodología para la construcción de Matriz de Marco Lógico e Indicadores de Desempeño;
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-IV. Concertar y Validar las Matrices de Marco Lógico que propongan los Entes Públicos, con excepción de los de orden municipal;
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-V. Conocer y emitir recomendación sobre las Matrices de Marco Lógico de los Entes Públicos del orden municipal;
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-VI. Realizar por sí mismo o a través de terceros las evaluaciones en materia de desempeño;
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-VII. Establecer el calendario anual de evaluación de las políticas públicas, de los programas y de desempeño de los Entes Públicos;
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-VIII. Capacitar a los Entes Públicos en materia de Matriz de Marco Lógico e Indicadores de Desempeño;
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-IX. Integrar el padrón de evaluadores externos del desempeño;
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-X. Informar al Ente Público las recomendaciones que se emitan, derivadas de la evaluación de sus políticas o programas;
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-XI. Publicar los resultados de las evaluaciones; y
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)
-XII. Las demás que señalen las disposiciones aplicables.
+(REFORMADO, P.O. 1 DE MAYO DE 2019)
+ARTICULO 16 BIS.- La Secretaría en el marco del proceso de planeación del desarrollo estatal tendrá las atribuciones siguientes:
+I. Participar en la elaboración del PLED; respecto a la definición de las políticas financieras, fiscales y crediticias; estableciendo la congruencia con las políticas que sobre esta materia haya dictado la Federación;
+II. Proyectar y calcular los ingresos del Estado, de las entidades paraestatales y de las participaciones municipales, considerando las necesidades de recursos y la utilización del crédito público, para la ejecución del PLED, de los Planes Municipales de Desarrollo y de los programas que de ellos se deriven;
+III. Procurar el cumplimiento de los objetivos y prioridades del PLED y de los programas, en el ejercicio de sus atribuciones financieras, fiscales y crediticias;
+IV. Verificar que las operaciones en que se haga uso del crédito público prevean el cumplimiento de los objetivos y prioridades del PLED y de los programas que de él se deriven;
+V. Considerar los efectos de la política crediticia adoptada para el logro de los objetivos y prioridades del PLED y sus Programas; y
+VI. Adecuar y diseñar un sistema de contabilidad, congruente con los objetivos y prioridades del PLED y de los programas que de él se deriven, de conformidad con los criterios de contabilidad gubernamental.
