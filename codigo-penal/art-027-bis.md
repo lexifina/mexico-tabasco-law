@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)
 Artículo 27 Bis.- Se entenderá por:
 Daño material aquel que afecta los bienes o derechos materiales de las personas provocando una disminución o pérdida de la utilidad de estos.
