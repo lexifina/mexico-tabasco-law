@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)
-Artículo 304 bis.- Además de las penas previstas en el artículo anterior, el Juez podrá imponer alguna o algunas de las sanciones siguientes:
+Artículo 304 Bis.- Además de las penas previstas en el artículo anterior, el Juez podrá imponer alguna o algunas de las sanciones siguientes:
 I.- La realización de las acciones necesarias para establecer las condiciones de los elementos naturales que constituyan los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
 II.- La suspensión, modificación o demolición de las construcciones, obras o actividades según corresponda, que hubieren dado lugar al delito ambiental respectivo;
 III.- La reincorporación, cuando fuere posible, de los elementos naturales, ejemplares o especies de flora y fauna silvestre, a los hábitats de que fueron sustraídos; y
