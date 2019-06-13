@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE JUNIO DE 2019)
+Artículo 84 Bis.- Cuando la trabajadora o el trabajador tenga la calidad de persona desaparecida y cuente con declaración especial de ausencia en términos de la legislación especial en la materia, los recursos de su cuenta individual serán puestos a disposición de sus beneficiarios, en los términos en que se establezcan en la resolución que se haya emitido para ese fin.
