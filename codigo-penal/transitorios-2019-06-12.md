@@ -1,6 +1,7 @@
 P.O. 12 DE JUNIO DE 2019.
 [N. DE E. TRANSITORIOS DEL DECRETO 102 POR EL QUE "SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 18; Y SE DEROGA EL CAPÍTULO II DENOMINADO "DESAPARICIÓN FORZADA DE PERSONAS", DEL TÍTULO SEGUNDO "DELITOS CONTRA EL ERARIO Y EL SERVICIO PÚBLICOS (SIC), POR HECHOS DE CORRUPCIÓN", DE LA SECCIÓN TERCERA "DELITOS CONTRA LA SOCIEDAD", DEL LIBRO SEGUNDO, CONFORMADO POR LOS ARTÍCULOS 234, 234 BIS, 234 TER, 234 QUATER; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
-PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales, posteriores a su publicación en el Periódico Oficial del Estado.
+(F. DE E., P.O. 13 DE JUNIO DE 2019)
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 SEGUNDO. La Fiscalía Estatal, deberá realizar las adecuaciones normativas conducentes, a efectos de ajustar su estructura y actuaciones conforme a las disposiciones contenidas en este Decreto, dentro de los sesenta días hábiles, siguientes a su entrada en vigor.
 TERCERO. El titular del Poder Ejecutivo del Estado deberá emitir el Reglamento Interior de la Comisión Estatal de Búsqueda, en un plazo no mayor a los 60 días hábiles posteriores a la entrada en vigor del presente Decreto.
 CUARTO. Dentro de los noventa días hábiles posteriores a la entrada en vigor de la presente Ley, deberán ser nombrados, por el Congreso del Estado, los integrantes del Consejo Estatal Ciudadano, previa convocatoria pública y procedimiento establecido en la presente Ley.
