@@ -1,0 +1,6 @@
+P.O. 15 DE JUNIO DE 2019.
+[N. DE E. TRANSITORIOS DEL DECRETO 107 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 14; 24, NUMERAL 1; Y 26, NUMERAL 2, FRACCIONES I Y II; SE ADICIONA EL NUMERAL 4 AL ARTÍCULO 24; Y SE DEROGA LA FRACCIÓN III DEL NUMERAL 2, DEL ARTÍCULO 26; TODOS DE LA LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; con excepción de la reforma al artículo 36 de la Ley Orgánica de los Municipios del Estado de Tabasco, la cual entrará en vigor a partir de la entrada en funciones de los Ayuntamientos electos para el trienio 2021-2024.
+SEGUNDO.- Los síndicos de hacienda y demás regidores electos por los principios de mayoría relativa y de representación proporcional, de los Ayuntamientos que resultaron electos del primero de julio del año 2018 para el trienio 2018-2021, concluirán su cargo conforme al periodo establecido, es decir, el 4 de octubre de 2021.
+TERCERO.- Para los efectos del proceso electoral 2021-2024, las planillas de regidores se ajustarán a lo establecido en el presente Decreto.
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
