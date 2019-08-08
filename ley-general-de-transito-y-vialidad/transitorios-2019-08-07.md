@@ -1,0 +1,8 @@
+P.O. 7 DE AGOSTO DE 2019.
+[N. DE E. TRANSITORIOS DEL DECRETO 112 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN X; 3, FRACCIÓN I, INCISO B); 4; 7; 35, PÁRRAFO PRIMERO; 37, PÁRRAFO SEGUNDO; 50, FRACCIONES IX Y X; 52, FRACCIÓN XXVIII; Y SE ADICIONAN LAS FRACCIONES IV BIS Y IV TER AL ARTÍCULO 2; UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO AL ARTÍCULO 35, PASANDO EL ACTUAL SEGUNDO A SER CUARTO; LAS FRACCIONES XI Y XII, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 50; LAS FRACCIONES XXVIII BIS Y XXVIII TER, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 52; Y EL ARTÍCULO 68-A; TODOS DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, salvo lo dispuesto en el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, el cual entrará en vigor a partir del 1 de enero de 2020.
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+TERCERO. El titular del Poder Ejecutivo deberá emitir dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, las adecuaciones conducentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
+CUARTO. Las Reglas de Carácter General para la aplicación de lo dispuesto en el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, que emita la Secretaría de Finanzas, deberán entrar en vigor el 1 de enero de 2020.
+QUINTO. Los sistemas a que se refiere el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, deberán entrar en funcionamiento el 1 de enero de 2020.
+SEXTO. La Secretaría de Finanzas realizará las previsiones presupuestales necesarias para el cumplimiento de lo establecido en el presente Decreto.

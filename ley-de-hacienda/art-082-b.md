@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)
+Artículo 82-B. Las autoridades de tránsito, vialidad y control vehicular verificarán que los vehículos que circulen en el Estado o pretendan inscribirse en el Registro Estatal de Vehículos, cuenten con el dispositivo electrónico a que se refiere el artículo 18 del Reglamento de la Ley del Registro Público Vehicular y este permita consultar de forma remota y a través de sistemas, los datos del Registro Público Vehicular.
