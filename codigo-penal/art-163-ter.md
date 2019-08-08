@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)
+Artículo 163 Ter.- A quien coaccione, hostigue o exija a otra persona, la elaboración o remisión de imágenes o grabaciones de voz o audiovisuales de contenido erótico, sexual o pornográfico de su persona, bajo la amenaza de revelar, publicar, difundir o exhibir sin su consentimiento el material de la misma naturaleza que previamente la víctima le haya compartido directamente o que haya obtenido por cualquier otro medio, se le impondrá de seis meses a cuatro años de prisión y de cien a cuatrocientos días multa.
+Las mismas penas se impondrán si la coacción, hostigamiento o exigencia tiene como finalidad la obtención de un lucro o beneficio, u obligar al sujeto pasivo a que haga o deje de hacer algo.
