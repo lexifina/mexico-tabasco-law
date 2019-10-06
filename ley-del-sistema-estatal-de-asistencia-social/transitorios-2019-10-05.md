@@ -1,0 +1,6 @@
+P.O. 5 DE OCTUBRE DE 2019.
+[N. DE E. TRANSITORIOS DEL DECRETO 119 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 14; Y 19 FRACCIÓN III; SE ADICIONA EL CAPÍTULO SEGUNDO BIS, DENOMINADO "DEL INSTITUTO DE BENEFICENCIA PÚBLICA DEL ESTADO DE TABASCO", INTEGRADO POR LOS ARTÍCULOS 46 BIS, 46 TER, 46 QUATER, 46 QUINQUIES, 46 SEXIES, 46 SEPTIES, 46 OCTIES, 46 NONIES, 46 DECIES, 46 UNDECIES, 46 DUODECIES, 46 TERDECIES, 46 QUATERDECIES, 46 QUINDECIES Y 46 SEXDECIES; Y SE DEROGA LA FRACCIÓN VII AL ARTÍCULO 16; TODOS DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+TERCERO. Los recursos humanos, financieros y materiales que se encuentran asignados a la beneficencia pública como parte del Organismo, pasarán a formar parte del nuevo organismo descentralizado que se crea por virtud del presente Decreto.
+CUARTO. El titular del Poder Ejecutivo del Estado deberá expedir el Estatuto Orgánico del Instituto de Beneficencia Pública en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
