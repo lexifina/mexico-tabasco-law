@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
+Artículo 73-D. Los magistrados, jueces, notarios o corredores y demás funcionarios que expidan testimonios o actos que deban ser registrados en la Dirección General del Registro Público de la Propiedad y del Comercio, deberán cerciorarse de que previo a la prestación del servicio existe constancia de exención o pago de los derechos correspondientes, de lo contrario serán responsables solidarios en términos del Código Fiscal del Estado, y por ende estarán sujetos a las sanciones que correspondan.

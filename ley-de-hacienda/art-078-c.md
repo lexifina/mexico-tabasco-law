@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)
-Artículo 78-C. Las inscripciones que realice la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, de los créditos hipotecarios, refaccionarios y de habilitación o avío, que soliciten las instituciones y organizaciones auxiliares.de (sic) crédito o los organismos públicos federales, así como su cancelación pagarán por cada acto 10.0 UMA.
+Artículo 78-C. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)

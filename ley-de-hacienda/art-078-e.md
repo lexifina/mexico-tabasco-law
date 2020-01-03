@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)
-Artículo 78-E. Los magistrados, jueces, notarios o corredores y demás funcionarios que expidan testimonios o actos que deban ser registrados en la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, deberán cerciorarse de que previo a la prestación del servicio existe constancia de exención o pago de los derechos correspondientes, de lo contrario serán responsables solidarios en términos del Código Fiscal del Estado, y por ende estarán sujetos a las sanciones que correspondan.
+Artículo 78-E. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
