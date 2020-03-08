@@ -1,0 +1,7 @@
+P.O. 7 DE MARZO DE 2020.
+[N. DE E. TRANSITORIOS DEL DECRETO 186 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1; 2 FRACCIÓN II, INCISOS H), I) Y J); 16 FRACCIONES XXXIV Y XXXV; 135 FRACCIÓN I; Y SE ADICIONAN LA FRACCIÓN XXXVI Y XXXVII AL ARTÍCULO 16; EL CAPÍTULO III BIS DENOMINADO DE LOS JUECES DE LOS TRIBUNALES LABORALES AL TÍTULO TERCERO QUE SE INTEGRA POR LOS ARTÍCULOS 67 BIS, 67 TER Y 67 QUATER; Y EL CAPÍTULO I BIS DENOMINADO DE LA UNIDAD DE PERITOS JUDICIALES AL TÍTULO QUINTO, QUE SE INTEGRA POR LOS ARTÍCULOS 111 BIS, 111 TER, 111 QUATER Y 111 QUINQUIES; TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+TERCERO. El Consejo de la Judicatura adoptará en el ámbito de su competencia las medidas correspondientes para el cumplimiento del presente Decreto, en términos de las disposiciones legales y administrativas aplicables.
+CUARTO. Los Tribunales Laborales iniciarán sus funciones en el cuarto trimestre de 2020, en los términos que para tal efecto se establezcan mediante acuerdo del Pleno del Consejo de la Judicatura.
+QUINTO. El Consejo de la Judicatura definirá mediante acuerdo las atribuciones que corresponderán a los jefes de Unidad de Causa y de Unidad de Sala a los que se refieren las fracciones III y IV del artículo 67 Ter, que se adiciona mediante el presente Decreto.

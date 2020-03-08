@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE MARZO DE 2020)
+Artículo 111 Ter. El peritaje en los asuntos judiciales que se sustancien ante los Tribunales Laborales, es una función pública. Los profesionales, técnicos o prácticos en cualquier ciencia, materia, arte u oficio que funjan como peritos y que presten sus servicios a la administración pública, están obligados a cooperar con dichas autoridades en los asuntos que les sean encomendados.
