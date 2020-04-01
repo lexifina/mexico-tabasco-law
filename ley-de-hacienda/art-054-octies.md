@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 25 DE MARZO DE 2020)
+Artículo 54 Octies. El impuesto se calculará aplicando la tasa del 10 por ciento al monto de las erogaciones efectuadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie o cualquier otro medio que permita participar en los mismos.
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permita participar en los juegos con apuestas o el uso o acceso a las maquinas a los que se refiere el artículo 54 bis, ya sea de dichos medios o dispositivos se usen en la fecha en que se efectue el pago o en una posterior.
