@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE JUNIO DE 2020)
+ARTÍCULO 126 TER. Las personas con discapacidad podrán participar libremente en la vida pública y política del Estado, de forma independiente o a través de los partidos o agrupaciones políticas a que se refiere la Ley Electoral y de Partidos Políticos del Estado de Tabasco, así como de las agrupaciones y asociaciones no gubernamentales relacionadas con la vida pública del Estado, o bien, mediante la incorporación o constitución de organizaciones de personas con discapacidad que las representen a nivel local o regional.
