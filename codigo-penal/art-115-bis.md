@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)
-Artículo 115 Bis.- Se considera feminicidio el homicidio de una mujer realizado por razones de género. Existen razones de género cuando concurra cualquiera de las circunstancias siguientes:
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2020)
+Artículo 115 Bis.- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las circunstancias siguientes:
 (REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)
 I. Haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo, o cualquier otra relación de hecho o amistad;
 (REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)
@@ -8,8 +8,8 @@ II. Haya existido entre el activo y la víctima una relación laboral, docente, 
 III. El sujeto activo haya abusado de su cargo público para la comisión del delito;
 (REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)
 IV. La víctima presente signos de violencia sexual de cualquier tipo;
-(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)
-V. A la víctima se le hayan infligido lesiones infamantes o degradantes, o mutilaciones, previa o posteriormente a la privación de la vida, o actos de necrofilia;
+(REFORMADA, P.O. 18 DE JULIO DE 2020)
+V. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida, o actos de necrofilia;
 (REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)
 VI. Existan antecedentes o datos de cualquier tipo de violencia sexual, física, psicológica, patrimonial o económica, en el ámbito familiar, laboral o escolar, generada por el sujeto activo en contra de la víctima;
 (REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)
@@ -20,8 +20,8 @@ VIII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a 
 IX. El cuerpo de la víctima sea expuesto o exhibido en lugar público.
 (REFORMADO, P.O. 7 DE DICIEMBRE DE 2016)
 A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y de quinientos a mil días multa.
-(ADICIONADO, P.O. 24 DE MARZO DE 2012)
-Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+(REFORMADO, P.O. 18 DE JULIO DE 2020)
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 (ADICIONADO, P.O. 24 DE MARZO DE 2012)
 Si además del feminicidio, resulta delito diverso, se estará a las reglas del concurso de delitos.
 (ADICIONADO, P.O. 7 DE DICIEMBRE DE 2016)
