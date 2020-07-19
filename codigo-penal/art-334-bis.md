@@ -11,3 +11,9 @@ Cuando el delito sea cometido por un servidor público en ejercicio de sus funci
 Las penas previstas en este artículo, se incrementarán en una mitad mas, cuando quien comete el delito tenga alguna relación de autoridad de hecho o de derecho sobre el ofendido, perderá los derechos inherentes a la patria potestad sobre todos sus descendientes, será privado definitivamente del derecho a ser tutor o curador y de los derechos que pudiera tener a los bienes de la víctima.
 (ADICIONADO, P.O. 3 DE MAYO DE 2003)
 Para los efectos de este artículo, se entiende por pornografía infantil toda representación, por cualquier medio, de un menor de diecisiete años, respecto de actividades sexuales explícitas, reales o simuladas, o toda representación de las partes genitales o anal de un menor, con fines primordialmente sexuales.
+(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2020)
+TÍTULO DÉCIMO CUARTO BIS
+DELITOS CONTRA LA INDEMNIDAD DE PRIVACIDAD DE LA INFORMACIÓN SEXUAL
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2020)
+CAPÍTULO ÚNICO
+COMUNICACIÓN DE CONTENIDO SEXUAL CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA RESISTIRLO
