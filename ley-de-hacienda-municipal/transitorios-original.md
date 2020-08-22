@@ -7,6 +7,10 @@ MADERAS, MANTAS,M2. POR DÍA0.008
 MANTEADOS DE
 PLÁSTICO
 VOLANTES POR DÍA0.02
+(ADICIONADO, P.O. 21 DE AGOSTO DE 2020)
+Cuando el anuncio, cartel o cualquier tipo de publicidad se trate de la promoción de bebidas azucaradas, golosinas o alimentos preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans, la tarifa para el pago de los derechos se aumentará en un 25 por ciento.
+(ADICIONADO, P.O. 21 DE AGOSTO DE 2020)
+Los anuncios, carteles o cualquier tipo de publicidad referente a los productos mencionados en el párrafo anterior, deberán estar ubicados, cuando menos, fuera de un radio de 300 metros de escuelas de educación básica y cualquier otro establecimiento escolar público o privado que se encargue de la enseñanza, educación y cuidados de lactantes, preescolares, niñas, niños y adolescentes; así como de hospitales públicos y privados, clínicas y centros de salud.
 En los casos en que la base de la tarifa se refiera a metros cuadrados por día, el pago se hará por las fracciones de metros.
 El pago de los derechos especificados en la tabla anterior, se efectuará en la Dirección de Finanzas o Tesorería Municipal, dentro de los primeros cinco días hábiles de cada mes.
 (REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)
