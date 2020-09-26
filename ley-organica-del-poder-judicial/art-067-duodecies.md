@@ -1,0 +1,11 @@
+(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2020)
+Artículo 67 Duodecies. El Director General de Administración de los Tribunales Laborales dependerá del Consejo de la Judicatura y tendrá de manera enunciativa, más no limitativa, las funciones siguientes:
+I. Supervisar y ejecutar el cumplimiento de los acuerdos, lineamientos, protocolos, manuales y demás ordenamientos aprobados por el Pleno del Consejo de la Judicatura relacionados con el funcionamiento de los tribunales laborales;
+II. Proponer al Pleno del Consejo de la Judicatura, lineamientos, protocolos, manuales y, en general, buenas prácticas administrativas para el buen funcionamiento de los tribunales laborales;
+III. Elaborar, en el ámbito de su competencia, los informes solicitados por las autoridades encargadas de previsión social, transparencia, conciliación y registro laboral, así como los requeridos por la Presidencia, los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, la Visitaduría Judicial o cualquier otro órgano administrativo;
+IV. Fungir como enlace administrativo de los tribunales laborales ante la Secretaría del Trabajo y Previsión Social y demás instituciones encargadas de previsión social; los centros federal y estatal de conciliación; las instituciones nacionales y estatales en materia de transparencia; el Pleno del Tribunal Superior de Justicia del Estado y demás autoridades correspondientes;
+V. Realizar con base en los datos proporcionados por los tribunales laborales, los informes estadísticos requeridos, así como la estadística analítica que permita medir cualitativa y cuantitativamente los resultados de la operatividad de aquellos e informar semestralmente sobre los resultados al Consejo de la Judicatura;
+VI. Proponer al Consejo de la Judicatura indicadores de medición que permitan detectar la funcionabilidad y áreas de oportunidad de los tribunales laborales;
+VII. Elaborar estudios y diagnósticos que contribuyan a la mejora continua de los tribunales laborales;
+VIII. Participar en las acciones de coordinación con las autoridades competentes a fin de solventar las necesidades de orden administrativo y de seguridad de los tribunales laborales; y
+IX. Las que le confiera esta Ley, los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, y demás disposiciones jurídicas aplicables.

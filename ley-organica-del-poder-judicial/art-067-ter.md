@@ -4,5 +4,9 @@ I. Un juez;
 II. Secretario instructor;
 III. Jefe de Unidad de Causa;
 IV. Jefe de Unidad de Sala;
-V. Notificador; y
-VI. Demás personal que el Pleno del Consejo determine y el presupuesto permita.
+(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2020)
+V. Notificador;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2020)
+VI. Director General de Administración; y
+(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2020)
+VII. Demás personal que el Pleno del Consejo determine y el presupuesto permita.
