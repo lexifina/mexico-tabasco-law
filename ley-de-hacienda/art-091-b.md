@@ -1,13 +1,15 @@
 (ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)
 SECCIÓN SEGUNDA
 CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA "YUMKA"
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
-Artículo 91-B. Por los servicios relacionados con el Centro de Interpretación y Convivencia con la Naturaleza "Yumka" del Estado de Tabasco, órgano desconcentrado de la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)
+Artículo 91-B. Por los servicios prestados por el Centro de Interpretación y Convivencia con la Naturaleza "Yumka'" del Estado de Tabasco, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)
 I. Entrada general:
 a) Niño.0.71 UMA
 b) Adulto.1.42 UMA
 c) Adulto mayor con tarjeta expedida por el
 Instituto Nacional de las Personas Adultas Mayores.0.71 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
 En relación a los servicios establecidos en el presente artículo, se otorgan los beneficios siguientes:
 I. En apoyo al turismo del Estado, a los adultos y niños que presente cupón o carta de algún hotel domiciliado en el Estado, obtendrán el 40 por ciento de descuento.
 II. En apoyo a la educación, se otorgan los siguientes descuentos:

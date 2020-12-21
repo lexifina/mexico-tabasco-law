@@ -7,16 +7,49 @@ DESARROLLO AGROPECUARIO, FORESTAL Y PESCA
 (ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
 Artículo 98-A. Por los servicios prestados por la Secretaría de Desarrollo Agropecuario, Forestal y Pesca, se causarán y pagarán los derechos siguientes:
 I. Por la producción de plantas y semillas:
-a) Plantas frutales en peligro de extinción.0.148 UMA
-b) Plantas tropicales de frutales varios.0.148 UMA
-c) Plantas tropicales de frutales varios injertados.0.186 UMA
-d) Plantas de cultivos no tradicionales.0.148 UMA
-e) Plantas de cultivos agroindustriales.0.148 UMA
-f) Plantas de ornato.0.124 UMA
-g) Nuez como semilla de coco enamo maloyo.0.148 UMA
-h) Mazorca de cacao para semilla.0.148 UMA
-i) Vareta terminal madura para enjertación de
-diferentes especies.1.00 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+a) Plantas frutales en peligro de extinción.0.230 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(a) Con descuento del 20%.0.184 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b) Con descuento del 35%.0.149 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+b) Plantas tropicales de frutales varios.0.230 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(a) Con descuento del 20%.0.184 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b) Con descuento del 35%.0.149 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+c) Plantas tropicales de frutales varios injertos.0.345 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(a) Con descuento del 20%.0.276 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b) Con descuento del 35%.0.224 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+d) Plantas de cultivos no tradicionales.0.230 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(a) Con descuento del 20%.0.184 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b) Con descuento del 35%.0.149 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+e) Plantas de cultivos agroindustriales.0.230 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(a) Con descuento del 20%.0.184 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b) Con descuento del 35%.0.149 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+f) Plantas de ornato.0.184 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(a) Con descuento del 20%.0.147 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b) Con descuento del 35%.0.119 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+g) Nuez de semilla de coco enano malayo.0.115 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+h) Mazorca de cacao para semilla.0.115 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+i) Vareta terminal madura para injertación de diferentes
+especies.0.115 UMA
 II. Asesoría técnica para la injertación de diversas
 especies de plantas y semillas.34.00 UMA
 III. El costo por el uso de maquinaria agrícola, por los productores agropecuarios, se brindará, según la siguiente tabulación:
@@ -26,10 +59,11 @@ b) Uso de tractor (capacidad mayor a 90 hp)
 para actividades de mecanización por mes.414.25 UMA
 c) Uso de implementos agrícolas para mecanización.35.51 UMA
 d) Uso de maquinaria agrícola especializada por mes.414.25 UMA
-IV. Servicio de asesoría para el desarrollo de
-imagen empresarial para la comercialización
-de productos agropecuarios, forestales, pesqueros,
-acuícolas y agroindustriales.1.23 UMA
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)
+IV. Servicio de asesoría para el desarrollo de imagen
+empresarial para la comercialización de productos
+agropecuarios, forestales, pesqueros, acuícolas y
+agroindustriales.46.04 UMA
 a) Costo de asesoría técnica por hora.34.00 UMA
 V. Los costos para la autorización en materia de acopio, distribución, tránsito y movilización de ganado, se cobrarán de acuerdo al cuadro siguiente:
 a) Folio de guía de transito asignado al organismo
@@ -102,4 +136,6 @@ c) Paq. de 100 crías de 2" sin hormonar.3.00 UMA
 d) Paq. de 100 crías de 2" hormonado.4.00 UMA
 e) Paq. de 100 juveniles de 4" sin hormonar.6.00 UMA
 f) Paq. de 100 juveniles de 4" hormonado.8.00 UMA
-IX (SIC). Asesoría técnica por hora (incluye traslado).4.00 UMA
+(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2020)
+VIII. Asesoría técnica por hora (incluye traslado).5.75 UMA
+IX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2020)

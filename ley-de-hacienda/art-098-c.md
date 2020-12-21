@@ -69,16 +69,22 @@ Gubernamentales.13.69 UMA
 c) Escuela de Iniciación Artística Asociada al Instituto Nacional de Bellas Artes:
 (a) Inscripción anual.4.11 UMA
 (b) Cuota mensual.2.74 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.1) Con beca del 50%.1.37 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.2) Con beca del 100%.0.00 UMA
 d) Talleres Libres Artísticos:
 (a) Inscripción semestral por taller.4.11 UMA
-(b) Cuota mensual por taller.2.74 UMA
-(c) Cursos de verano por taller.2.74 UMA
-e) Talleres Artísticos de Música Popular:
-(a) Inscripción anual, incluye todos los talleres.4.11 UMA
-(b) Cuota mensual por cada taller.4.11 UMA
-(c) Cursos de verano por cada taller.4.11 UMA
-f) Talleres Especializados en Cinematografía:
-(a) Cuota mensual por cada taller.8.21 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b) Curso de verano por taller.2.74 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+(c) Cuota mensual por taller.2.74 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(c.1) Con beca del 50%.1.37 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(c.2) Con beca del 100%.0.00 UMA
+e) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+f) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 g) Uso de espacio para cafetería por mes.13.69 UMA
 III. Por los servicios prestados en la Biblioteca Pública del Estado "José María Pino Suárez":
 a) Uso del Auditorio denominado "Jesús Ezequiel
@@ -112,29 +118,34 @@ IV. Por los servicios prestados en el Centro de Estudios e Investigación de las
 a) Licenciatura en Promotor Cultural en Educación Artística:
 (a) Inscripción anual.6.85 UMA
 (b) Cuota mensual.6.85 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.1) Con beca del 50%.3.42 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.2) Con beca del 100%.0.00 UMA
 (c) Ficha de pre-inscripción anual.2.05 UMA
 (d) Examen Extraordinario primera oportunidad.1.78 UMA
 (e) Examen Extraordinario segunda oportunidad.2.46 UMA
 (f) Constancia simple.0.41 UMA
 (g) Constancia con calificaciones.0.68 UMA
-(h) Titulación por promedio.33.38 UMA
-(i) Titulación por examen general de conocimientos.47.11 UMA
-j) Titulación por tesis.47.11 UMA
-(k) Titulación por posgrado.47.11 UMA
+(h) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(i) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(j) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 (l) Titulación por diplomado.106.52 UMA
 b) Licenciatura en Educación Artística:
 (a) Inscripción anual.6.85 UMA
 (b) Cuota mensual.11.01 UMA
+(b.1) Con beca del 50%.5.50 UMA
+(b.2) Con beca del 100%.0.00 UMA
 (c) Ficha de pre-inscripción anual.2.05 UMA
 (d) Examen Extraordinario primera oportunidad.1.78 UMA
 (e) Examen Extraordinario segunda oportunidad.2.46 UMA
 (f) Constancia simple.0.41 UMA
 (g) Constancia con calificaciones.0.68 UMA
-(h) Titulación por promedio.33.38 UMA
-(i) Titulación por examen general de
-conocimientos.47.11 UMA
-j) Titulación por tesis.47.11 UMA
-(k) Titulación por posgrado.47.11 UMA
+(h) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(i) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(j) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 (l) Titulación por diplomado.106.52 UMA
 V. Por los servicios prestados en el Parque Museo La Venta:
 a) Entrada General.0.55 UMA
@@ -174,14 +185,24 @@ registradas ante la autoridad competente.27.38 UMA
 Gubernamentales.13.69 UMA
 c) Propedéutico en Danza Clásica.
 (a) Cuota mensual.5.48 UMA
-(b) Examen Extraordinario primera oportunidad.1.78 UMA
-(c) Examen Extraordinario segunda oportunidad.2.46 UMA
-(d) Constancia simple.0.41 UMA
-(e) Constancia con calificaciones.0.68 UMA
-(f) Inscripción anual de danza clásica.5.48 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(a.1) Con beca del 50%.2.74 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(a.2) Con beca del 100%.0.00 UMA
+(b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(c) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(d) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(e) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+(f) Inscripción semestral.5.48 UMA
 d) Licenciatura en Danza Clásica.
-(a) Inscripción semestral.3.43 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+(a) Inscripción anual3.43 UMA
 (b) Cuota mensual.8.21 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.1) Con beca del 50%.4.10 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.2) Con beca del 100%.0.00 UMA
 (c) Examen de admisión.2.05 UMA
 (d) Examen Extraordinario primera oportunidad.1.78 UMA
 (e) Examen Extraordinario segunda oportunidad.2.46 UMA
@@ -191,12 +212,16 @@ d) Licenciatura en Danza Clásica.
 (i) Certificado de estudios.4.11 UMA
 j) Duplicado de estudios totales.4.79 UMA
 (k) Acta de certificación de documentos oficiales.10.27 UMA
-(l) Titulación por posgrado.68.46 UMA
-(m) Titulación por tesina.68.46 UMA
-(n) Titulación por tesis.68.46 UMA
+(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(n) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 e) Propedéutico en Música.
 (a) Inscripción semestral.5.48 UMA
 (b) Cuota mensual.5.48 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.1) Con beca del 50%.2.74 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.2) Con beca del 100%.0.00 UMA
 (c) Examen Extraordinario primera oportunidad.1.78 UMA
 (d) Examen Extraordinario segunda oportunidad.2.46 UMA
 (e) Constancia simple.0.41 UMA
@@ -204,6 +229,10 @@ e) Propedéutico en Música.
 f) Iniciación Musical.
 (a) Inscripción semestral.3.43 UMA
 (b) Cuota mensual.8.21 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.1) Con beca del 50%.4.20 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.2) Con beca del 100%.0.00 UMA
 (c) Examen Extraordinario primera oportunidad.1.78 UMA
 (d) Examen Extraordinario segunda oportunidad.2.46 UMA
 (e) Constancia simple.0.41 UMA
@@ -212,6 +241,10 @@ f) Iniciación Musical.
 g) Técnico Superior Universitario en Música.
 (a) Inscripción semestral.3.43 UMA
 (b) Cuota mensual.8.21 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.1) Con beca del 50%.4.10 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.2) Con beca del 100%.0.00 UMA
 (c) Examen Extraordinario primera oportunidad.1.78 UMA
 (d) Examen Extraordinario segunda oportunidad.2.46 UMA
 (e) Constancia simple.0.41 UMA
@@ -220,14 +253,17 @@ g) Técnico Superior Universitario en Música.
 (h) Certificado de estudios.4.11 UMA
 (i) Duplicado de estudios totales.4.79 UMA
 j) Acta de certificación de documentos oficiales.10.27 UMA
-(k) Titulación por promedio.54.76 UMA
-(l) Titulación por examen general de
-conocimientos.68.46 UMA
-(m) Titulación por tesina.68.46 UMA
+(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 (n) Notas al programa.68.46 UMA
 h) Licenciatura en Música.
 (a) Inscripción semestral.3.43 UMA
 (b) Cuota mensual.8.21 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.1) Con beca del 50%.4.10 UMA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
+(b.2) Con beca del 100%.0.00 UMA
 (c) Examen Extraordinario primera oportunidad.1.78 UMA
 (d) Examen Extraordinario segunda oportunidad.2.46 UMA
 (e) Constancia simple.0.41 UMA
@@ -235,12 +271,11 @@ h) Licenciatura en Música.
 (g) Examen de posicionamiento o ubicación.2.74 UMA
 (h) Certificado de estudios.4.11 UMA
 (i) Duplicado de estudios totales.4.79 UMA
-j) Acta de certificación de documentos oficiales.10.27 UMA
-(k) Titulación por promedio.54.76 UMA
-(l) Titulación por examen general de
-conocimientos.68.46 UMA
-(m) Titulación por posgrado.68.46 UMA
-(n) Titulación por tesis.68.46 UMA
+(j) Acta de certificación de documentos oficiales.10.27 UMA
+(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+(n) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 (ñ) Notas al programa.68.46 UMA
 i) Uso de pérgola por día.29.59 UMA
 j) Uso de salones grandes de danza por día.9.47 UMA
