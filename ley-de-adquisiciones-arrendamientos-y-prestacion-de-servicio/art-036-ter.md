@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)
+Artículo 36 Ter.- Para contratar adquisiciones, arrendamientos y prestación de servicios mediante los procedimientos que establece el artículo 22 de la Ley, la Secretaría, dependencias, órganos y entidades, deberán observar los criterios y directrices que determine el Comité de Compras, dentro del ámbito de su competencia y de conformidad con la normatividad aplicable.
