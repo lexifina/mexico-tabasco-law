@@ -15,7 +15,9 @@ VIII. Ejercicio indebido del propio derecho, al que alude el artículo 282;
 IX. Delitos contra el patrimonio de las personas, previstos en el Título Décimo del Libro Segundo, excepto el robo, el abigeato, la extorsión, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas;
 (REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)
 X. Hostigamiento sexual, previsto en los artículos 159 bis y 159 bis 1;
-(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)
-XI. Amenazas, previsto en el artículo 161; y
-(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2014)
-XII.- Discriminación, previsto en el artículo 161 Bis.
+(REFORMADA, P.O. 15 DE DICIEMBRE DE 2021)
+XI. Amenazas, previsto en el artículo 161;
+(REFORMADA, P.O. 15 DE DICIEMBRE DE 2021)
+XII. Discriminación, previsto en el artículo 161 Bis, y
+(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2021)
+XIII. Delitos contra la intimidad y la imagen personal, previstos en los artículos 163 al 163 Septies.
