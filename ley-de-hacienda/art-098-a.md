@@ -50,15 +50,21 @@ h) Mazorca de cacao para semilla.0.115 UMA
 (REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
 i) Vareta terminal madura para injertación de diferentes
 especies.0.115 UMA
-II. Asesoría técnica para la injertación de diversas
-especies de plantas y semillas.34.00 UMA
-III. El costo por el uso de maquinaria agrícola, por los productores agropecuarios, se brindará, según la siguiente tabulación:
-a) Uso de tractor (capacidad hasta 90 hp)
-para actividades de mecanización por mes.355.07 UMA
+(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)
+II. Servicio de asesoría técnica para la
+injertación de diversas especies de plantas y
+semillas.34.00 UMA
+(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2021)
+III. El costo por el uso de maquinaria agrícola,
+por los productores agropecuarios:
+a) Uso de tractor (capacidad hasta 90 hp) para
+actividades de mecanización por mes.334.75 UMA
 b) Uso de tractor (capacidad mayor a 90 hp)
-para actividades de mecanización por mes.414.25 UMA
-c) Uso de implementos agrícolas para mecanización.35.51 UMA
-d) Uso de maquinaria agrícola especializada por mes.414.25 UMA
+para actividades de mecanización por mes.390.54 UMA
+c) Uso de implementos agrícolas para
+mecanización.33.47 UMA
+d) Uso de maquinaria agrícola especializada
+por mes.390.54 UMA
 (REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)
 IV. Servicio de asesoría para el desarrollo de imagen
 empresarial para la comercialización de productos
@@ -96,7 +102,7 @@ q) Pato de desecho (pz).0.59 UMA
 r) Pato gordo (pz).1.18 UMA
 s) Huevo de pato (pz).0.11 UMA
 t) Pavo de desecho (pz).0.59 UMA
-u) Pavo gordo (pz). 2.95 UMA
+u) Pavo gordo (pz).2.95 UMA
 v) Pavo de 30 días (pz).0.94 UMA
 w) Pavo mixto de 1 día (pz).1.18 UMA
 x) Huevo fértil de pavo (pz).0.35 UMA
@@ -129,6 +135,16 @@ ww) Cerdo macho semental para pie de cría (pz).35.50 UMA
 xx) Cerda de desecho (kg).0.17 UMA
 yy) Lechón hembra para pie de cría (pz).11.83 UMA
 zz) Cerdo Gordo (pz).0.47 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)
+aaa) Pollo de engorda de 1 día (pz).0.11 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)
+bbb) Pollita de 60 días (pz).0.39 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)
+ccc) Cayuco: de fibra de vidrio de 5 mts. de
+dos puntas (pz).66.95 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)
+ddd) Cayuco: de fibra de vidrio de 5 mts.
+de espejo para motor (pz).83.69 UMA
 VII. En materia de acuacultura, la comercialización de productos se realizará de la forma siguiente:
 a) Paq. de 100 alevines sin hormonar.1.00 UMA
 b) Paq. de 100 alevines hormonado.1.5 UMA

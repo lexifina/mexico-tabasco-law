@@ -196,8 +196,8 @@ c) Propedéutico en Danza Clásica.
 (REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
 (f) Inscripción semestral.5.48 UMA
 d) Licenciatura en Danza Clásica.
-(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
-(a) Inscripción anual3.43 UMA
+(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)
+(a) Inscripción anual6.85 UMA
 (b) Cuota mensual.8.21 UMA
 (ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
 (b.1) Con beca del 50%.4.10 UMA

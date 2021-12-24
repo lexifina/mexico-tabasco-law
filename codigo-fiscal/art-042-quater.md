@@ -1,7 +1,7 @@
 (REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)
 Artículo 42 Quáter.- Para los efectos de lo dispuesto por los artículos 31 Quáter y 37, fracción VI de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)
-I. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías;
+(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)
+I. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, oficinas, bodegas, almacenes, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías;
 (REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)
 II. Al presentarse los visitadores en el lugar donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección;
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)

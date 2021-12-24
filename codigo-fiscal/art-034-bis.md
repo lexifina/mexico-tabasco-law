@@ -1,14 +1,15 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)
-Artículo 34- Bis.- La Administración Pública Estatal, Centralizada y Paraestatal, el Poder Legislativo, el Poder Judicial, Municipios y Órganos Constitucionales Autónomos, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que en contravención a las disposiciones aplicables incurran en alguno de los siguientes casos:
-(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)
-I. Tengan a su cargo créditos fiscales firmes.
-(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)
-II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
+Artículo 34-Bis.- La Administración Pública Estatal, Centralizada y Paraestatal, el Poder Legislativo, el Poder Judicial, Municipios y Órganos Constitucionales Autónomos, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que en contravención a las disposiciones aplicables incurran en alguno de los siguientes casos:
+(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)
+I. Tengan a su cargo créditos fiscales firmes, ya sea de naturaleza local en términos de lo que prevé el artículo 6 del Código Fiscal del Estado de Tabasco; o créditos fiscales federales firmes controlados por las Unidades Administrativas de la Secretaría de Finanzas en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Tabasco.
+(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)
+II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código; o créditos fiscales federales controlados por las Unidades Administrativas de la Secretaría de Finanzas en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Tabasco, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por el Código Fiscal de la Federación.
 (ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)
 III. No se encuentren inscritos en el Registro Estatal de Contribuyentes.
 (ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)
 IV. Habiendo vencido el plazo para presentar alguna declaración, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)
+V. Hayan manifestado en las declaraciones de pagos del impuesto sobre nómina al que estén obligados, salarios que no concuerden con la información que declare en el Sistema Único de Autodeterminación (SUA) obtenido de la Delegación en Tabasco del Instituto Mexicano del Seguro Social, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso.
 (ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)
 Para los efectos de este artículo la autoridad fiscal competente expedirá la constancia que corresponda, previa solicitud del particular y pago del derecho correspondiente conforme a la Ley de Hacienda del Estado de Tabasco, dicha constancia tendrá vigencia de un mes contado desde la fecha de su expedición.
 (ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)

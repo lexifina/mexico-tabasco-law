@@ -119,3 +119,22 @@ VIII. Por el servicio de opiniones técnicas de
 compatibilidad.35.08 UMA
 IX. Por expedición de la constancia de reducción
 de emisiones.50.0 UMA
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)
+X. Emisión de la opinión técnica de la
+aplicabilidad de la Normatividad Ambiental
+Estatal.10.0 UMA
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)
+XI. Emisión de la constancia de no contar con
+procedimiento administrativo.10.0 UMA
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)
+XII. Expedición de certificado para quienes
+realicen actividades de transformación,
+modificación, producción de materias primas,
+fabricación, elaboración, producción o
+manufactura de bolsas y popotes de plástico.200.0 UMA
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)
+XIII. Renovación de certificado para quienes
+realicen actividades de transformación,
+modificación, producción de materias primas,
+fabricación, elaboración, producción o
+manufactura de bolsas y popotes de plástico.150.0 UMA

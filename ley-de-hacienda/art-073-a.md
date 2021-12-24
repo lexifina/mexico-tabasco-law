@@ -13,6 +13,9 @@ b) Tratándose de bienes inmuebles
 no comprendidos en el inciso anterior.180.0 UMA
 La misma cuota se pagará cuando provenga de
 resoluciones judiciales o administrativas.
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)
+Cuando se trate de permuta, se considera
+que existe doble traslado de dominio.
 c) Tratándose de bienes muebles en todos los casos.20.0 UMA
 d) La s rectificaciones de actos o contratos
 ya inscritos, la ratificación y reinscripción,
@@ -40,13 +43,19 @@ l) La inscripción de los contratos de
 venta y reserva de dominio de vehículos
 automotores.24.0 UMA
 m) Por cada convenio modificatorio de fideicomiso.12.0 UMA
+(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2021)
 II. Inscripción de instrumentos hipotecarios:
-a) Por la inscripción de documentos
-hipotecarios entre particulares.100.0 UMA
-b) Por la cancelación de hipoteca o
-crédito, por cada uno.6.0 UMA
-c) La prórroga de hipoteca, si no aumenta el capital.3.0 UMA
-d) Ampliación de hipoteca, por su registro.62.0 UMA
+a) Por la inscripción de documentos hipotecarios
+entre particulares.100.0 UMA
+b) Las inscripciones de los créditos hipotecarios,
+refaccionarios y de habilitación o avío, que
+soliciten las instituciones y organizaciones
+auxiliares de crédito o los organismos
+públicos federales.10.0 UMA
+c) Por la cancelación de hipoteca o crédito
+mencionados en el inciso a) y b), por cada uno.6.0 UMA
+d) La prórroga de hipoteca, si no aumenta el capital.3.0 UMA
+e) Ampliación de hipoteca, por su registro.62.0 UMA
 III. Inscripción de embargo:
 a) Inscripción de embargo:100.0 UMA
 La persona sujeta a esta contribución, podrá solicitar
@@ -54,8 +63,10 @@ a la Dirección de Recaudación de la Secretaría,
 mediante escrito que le deberá presentar, al momento de
 realizar el trámite de pago, que el cobro se calcule
 aplicando la tasa del 3% sobre el importe del embargo.
-b) Inscripción de Demanda y/o
-inscripción preventiva de demanda.12.0 UMA
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)
+b) Inscripción de demanda y/o inscripción preventiva de
+demanda, así como los embargos precautorios y
+providencias precautorias.12.0 UMA
 c) Inscripción de Fianza Judicial.32.0 UMA
 d) Por la cancelación de los actos de
 los incisos a), b) y c).11.0 UMA
@@ -66,10 +77,13 @@ VI. Inscripción de declaración de herederos:
 a) Declaración de herederos y
 nombramiento de albacea.6.0 UMA
 b) Cambio de albacea por cada acto.6.0 UMA
-VII. Inscripción de los derechos de uso,
-usufructo y habitación vitalicios en cualquiera
-de sus modalidades, así como por su cancelación
-y/o extinción, por cada predio.6.0 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)
+c) Inscripción del acta de defunción.6.0 UMA
+(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)
+VII. Inscripción de los derechos de uso, usufructo y
+habitación vitalicios en cualquiera de sus modalidades,
+así como por su cancelación y/o extinción, por cada
+persona.6.0 UMA
 VIII. Por la inscripción de escrituras o
 documentos que contengan contratos
 conyugales o su disolución.62.0 UMA
@@ -80,9 +94,11 @@ X. Inscripción de resolución judicial de
 transacciones o sentencias que declaran
 el estado de ausencia, así como la presunción
 de muerte de una persona.11.0 UMA
-XI. Por el registro de escrituras o documentos
-que contengan la partición judicial de bienes
-hereditarios o la protocolización de los mismos.62.0 UMA
+(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)
+XI. Por el registro de escrituras o documentos que
+contengan la partición judicial y extrajudicial o bien la
+testamentaria e intestamentaria de bienes hereditarios
+o la protocolización de los mismos.62.0 UMA
 XII. Por el registro de:
 a) Obra nueva. 32.0 UMA
 b) Ampliación de obra16.0 UMA
@@ -152,12 +168,26 @@ en condominio, por cada casa, vivienda o
 departamento.10.0 UMA
 En el caso de que el régimen exceda de diez casas,
 viviendas o departamentos se pagará la mitad por cada uno.
-XXXIV. Por cada uno de los documentos
-que deben inscribirse en la Dirección General
-del Registro Público de la Propiedad y del
-Comercio que no se encuentren comprendidos
-en este artículo.11.1 UMA
-Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en las fracciones I inciso a), II, VII y XII de este artículo.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)
+XXXIV. Por la reserva de dominio.12.0 UMA
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)
+XXXV. Por el cambio de jurisdicción.3.0 UMA
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)
+XXXVI. Por relotificación y/o modificación al régimen
+por cada lote y/o vivienda5.0 UMA
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)
+XXXVII. Por la búsqueda de trámites por volantes de
+usuarios extraviados por cada uno.1.0 UMA
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)
+XXXVIII. Por la reimpresión de boletas de inscripción
+y/o certificados expedidos a través de la plataforma
+notarial por cada uno.3.0 UMA
+XXXIX. Por cada uno de los documentos que deben
+inscribirse en la Dirección General del Registro
+Público de la Propiedad y del Comercio que no se
+encuentren comprendidos en este artículo.11.1 UMA
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)
+Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en las fracciones I inciso a), II inciso a) y XII de este artículo.
 No se causarán los derechos a que se refiere la fracción I, inciso h) de este artículo, cuando se trate de los actos a que se refiere el artículo 93 fracción XXIII incisos a) y b) de la Ley del Impuesto Sobre la Renta.
 Tratándose de los derechos establecidos en los incisos b) y h) de la fracción I de este artículo, los contribuyentes que adquieran la propiedad de una vivienda o predio sin edificar, pudiendo pagar los derechos referidos, podrán utilizar de manera opcional, la tasa del 1 por ciento, calculada sobre la base gravable que resulte mayor de los siguientes valores:
 1) El precio o valor del inmueble señalado en el acto traslativo de dominio y sus accesorios, independientemente del nombre con que se designe; o
