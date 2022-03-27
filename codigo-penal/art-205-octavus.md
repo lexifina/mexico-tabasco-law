@@ -1,0 +1,2 @@
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 185 BIS], P.O. 26 DE MARZO DE 2022)
+Artículo 205 octavus.- Se aplicará prisión de nueve a catorce años y de setecientos a mil días multa, al que por sí o por medio de otro o para otro reciba, ministre, aproveche o adquiera ganado bovino o equino producto del abigeato o comercie con pieles o carnes u otros derivados obtenidos del abigeato de esta clase de ganado.
