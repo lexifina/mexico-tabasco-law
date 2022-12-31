@@ -1,8 +1,8 @@
-(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2019)
+(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2022)
 CAPÍTULO SEXTO BIS
-DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE BIENESTAR, SUSTENTABILIDAD Y CAMBIO CLIMÁTICO Y SUS ÓRGANOS DESCONCENTRADOS
-(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)
-SECCIÓN PRIMERA
+DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE BIENESTAR, SUSTENTABILIDAD Y CAMBIO CLIMÁTICO
+(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN PRIMERA], P.O. 28 DE DICIEMBRE DE 2022)
+SECCIÓN ÚNICA
 PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
 (ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
 Artículo 91-A. Por los servicios prestados por la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, se causarán y pagarán los derechos siguientes:
@@ -50,18 +50,14 @@ b) Por la presencia de la Secretaría de Bienestar,
 Sustentabilidad y Cambio Climático para la realización
 del protocolo de pruebas tecnológicas para el
 tratamiento de residuos de manejo especial.60.0 UMA
-c) Por la disposición final de residuos de manejo
-especial en sitios de disposición final autorizada
-por tonelada.1.0 UMA
+c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
 d) Por la renovación de la vigencia de autorizaciones
 de residuos de manejo especial.100.0 UMA
 e) Por la modificación de autorizaciones de residuos
 de manejo especial.100.0 UMA
 f) Por la transferencia de derechos y obligaciones de
 autorizaciones de residuos de manejo especial.100.0 UMA
-g) Por la autorización para la prestación de
-servicios de manejos de residuos de manejo
-especial por más de 3 actividades.500.0 UMA
+g) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
 h) Por la autorización para la recolección
 y transporte de residuos de manejo especial.200.0 UMA
 i) Por la autorización para el tratamiento de
@@ -85,8 +81,15 @@ p) Por el Registro de Plan de Manejo de residuos
 de manejo especial.30.0 UMA
 q) Por la autorización para la disposición final de
 residuos de manejo especial.200.0 UMA
-r) Por la autorización para el tratamiento de
-residuos de manejo especial.140.0 UMA
+r) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)
+s) Por cualquier modificación de Registros o
+Planes de Manejo de Residuos de manejo
+especial. 10.00 UMA
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)
+t) Por la liberación de residuos provenientes
+del tratamiento de residuos de manejo especial
+de competencia estatal, por tonelada. 1.00 UMA
 IV. Derechos por trámites en materia de prevención y control de la contaminación atmosférica:
 a) Por la recepción, evaluación y emisión de la
 licencia de funcionamiento en materia de emisiones

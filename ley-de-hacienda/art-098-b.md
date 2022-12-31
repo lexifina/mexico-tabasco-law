@@ -18,6 +18,8 @@ sombra, etc.0.060 UMA
 (a) Con descuento del 20%.0.048 UMA
 (b) Con descuento del 40%.0.036 UMA
 (c) Con descuento del 60%.0.024 UMA
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)
+d) Planta clonada.0.103 UMA
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)
 II. Servicio de asesoría técnica.14.79 UMA
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)

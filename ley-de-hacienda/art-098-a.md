@@ -47,9 +47,9 @@ f) Plantas de ornato.0.184 UMA
 g) Nuez de semilla de coco enano malayo.0.115 UMA
 (REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
 h) Mazorca de cacao para semilla.0.115 UMA
-(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)
 i) Vareta terminal madura para injertación de diferentes
-especies.0.115 UMA
+especies. 0.057 UMA
 (REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)
 II. Servicio de asesoría técnica para la
 injertación de diversas especies de plantas y
@@ -57,8 +57,9 @@ semillas.34.00 UMA
 (REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2021)
 III. El costo por el uso de maquinaria agrícola,
 por los productores agropecuarios:
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)
 a) Uso de tractor (capacidad hasta 90 hp) para
-actividades de mecanización por mes.334.75 UMA
+actividades de mecanización por mes. 155.89 UMA
 b) Uso de tractor (capacidad mayor a 90 hp)
 para actividades de mecanización por mes.390.54 UMA
 c) Uso de implementos agrícolas para

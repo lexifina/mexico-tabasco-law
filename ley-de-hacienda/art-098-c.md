@@ -43,7 +43,7 @@ k) Uso de la Sala de usos múltiples por día:27.38 UMA
 Con la finalidad de promover el esparcimiento cultural en el Estado de Tabasco, se fijan las siguientes tarifas siempre que las instalaciones de la Sala de Usos múltiples del Centro Cultural Planetario Tabasco 2000 sean solicitadas para su uso por:
 (a) Escuelas privadas o Asociaciones
 Religiosas debidamente constituidas y
-registradas ante la autoridad competente. 20.54 UMA
+registradas ante la autoridad competente.20.54 UMA
 (b) Academias o Instituciones de Arte.13.69 UMA
 (c) Escuelas públicas o Instituciones
 Gubernamentales.13.69 UMA
@@ -88,7 +88,7 @@ f) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 g) Uso de espacio para cafetería por mes.13.69 UMA
 III. Por los servicios prestados en la Biblioteca Pública del Estado "José María Pino Suárez":
 a) Uso del Auditorio denominado "Jesús Ezequiel
-de Dios" por día: 95.84 UMA
+de Dios" por día:95.84 UMA
 Con la finalidad de promover el esparcimiento cultural en el Estado de Tabasco, se fijan las siguientes tarifas siempre que las instalaciones del Auditorio denominado "Jesús Ezequiel de Dios" sean solicitadas para su uso por:
 (a) Escuelas privadas o Asociaciones
 Religiosas debidamente constituidas y
@@ -330,18 +330,21 @@ f) Uso de la explanada central.29.59 UMA
 X. Por los servicios prestados en el Teatro Esperanza Iris:
 a) Uso de las instalaciones por día:
 Con la finalidad de promover el esparcimiento cultural en el Estado de Tabasco, se fijan las siguientes tarifas siempre que las instalaciones del Teatro Esperanza Iris sean solicitadas para su uso por:
-(a) Con fines lucrativos o no lucrativos,
-para personas físicas o jurídico colectivas
-(morales), que no se encuentren catalogadas,
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)
+(a) Con fines lucrativos o no lucrativos, para
+personas físicas o jurídico colectivas (morales),
+y escuelas e instituciones de educación privada,
 cubrirán un costo general de:780.92 UMA
-(b) Escuelas privadas, academias de arte,
-instituciones o agrupaciones de arte legalmente
-constituidas y registradas antes autoridad
-competente y que dentro de sus objetivos
-acrediten tener fines culturales, educativos,
-recreativos, científicos y tecnológicos; y escuelas
-públicas, cubrirán un costo de:295.89 UMA
-(c) Instituciones gubernamentales.205.37 UMA
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)
+(b) Escuelas e instituciones de educación pública,
+instituciones, academias, y agrupaciones de arte
+legalmente constituidas y registradas ante autoridad
+competente que acrediten tener dentro de sus
+objetivos fines culturales, recreativos, científicos y
+tecnológicos.295.89 UMA
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)
+(c) Entes Públicos distintos a los previstos en los
+sub-incisos (a) y (b) de este inciso.205.37 UMA
 b) Uso de las instalaciones para ensayo por día.136.91 UMA
 c) Uso del piano dentro de las instalaciones
 por evento, por día (No incluye afinación),
