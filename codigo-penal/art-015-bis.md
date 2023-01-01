@@ -13,8 +13,8 @@ VII. Sustracción o retención de menores o incapaces, a que se refieren los art
 VIII. Ejercicio indebido del propio derecho, al que alude el artículo 282;
 (REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)
 IX. Delitos contra el patrimonio de las personas, previstos en el Título Décimo del Libro Segundo, excepto el robo, el abigeato, la extorsión, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas;
-(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)
-X. Hostigamiento sexual, previsto en los artículos 159 bis y 159 bis 1;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)
+X. Hostigamiento sexual, previsto en los artículos 159 Bis y 159 Bis 1, salvo cuando se trate de menores o incapaces;
 (REFORMADA, P.O. 15 DE DICIEMBRE DE 2021)
 XI. Amenazas, previsto en el artículo 161;
 (REFORMADA, P.O. 15 DE DICIEMBRE DE 2021)

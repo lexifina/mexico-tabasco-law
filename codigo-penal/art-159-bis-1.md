@@ -1,3 +1,9 @@
-(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)
-Artículo 159 Bis 1.- Cuando el hostigamiento lo realice una persona valiéndose de su posición jerárquica o derivada de relaciones laborales, docentes, domésticas o de cualquier otra que implique subordinación, se le impondrá sanción de tres a seis años de prisión. Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, se le destituirá también de su cargo.
-Si el activo fuera reincidente o la persona ofendida fuere menor de edad, las penas previstas en los artículos anteriores se agravarán de uno a tres años de prisión más.
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)
+CAPITULO V BIS
+ACOSO SEXUAL
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)
+Artículo 159 Bis 1.- Se impondrá prisión de dos a cuatro años a quien:
+I. Asedie, por cualquier medio, con fines lascivos, a una persona o solicite la ejecución de un acto de naturaleza sexual, independientemente de que se realice en uno o varios eventos; y
+II. Asedie reiteradamente, con fines lascivos o sexuales o expresándose de manera verbal o física mediante la realización de actos o acciones de tipo erótico a cualquier persona, sin su consentimiento, en instalaciones, vehículos destinados al transporte público de pasajeros o en cualquier otro lugar público o privado.
+Si el sujeto activo realiza cualquiera de las conductas previstas en este artículo aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, la pena prevista en el párrafo primero se incrementará hasta en una mitad.
+Si la víctima del delito de acoso sexual fuera menor de edad o una persona que no tenga la capacidad de comprender el significado del hecho, aún con su consentimiento; o que por cualquier causa no pueda resistirlo, se aumentará la pena prevista en el párrafo primero en una mitad.
