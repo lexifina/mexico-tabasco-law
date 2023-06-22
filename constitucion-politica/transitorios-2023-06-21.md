@@ -1,0 +1,5 @@
+P.O. 21 DE JUNIO DE 2023.
+[N. DE E. TRANSITORIOS DEL DECRETO 162 POR EL QUE "SE ADICIONA EL PÁRRAFO DÉCIMO SEGUNDO AL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+TERCERO. Para efecto de dar cumplimiento a lo ordenado en el presente Decreto, el Ejecutivo Estatal, en concurrencia con los Ayuntamientos de la entidad y demás autoridades que con motivo de sus atribuciones tengan competencia en la materia, deberán llevar a cabo oportunamente los trabajos y acciones necesarias, a fin de determinar con la mayor exactitud posible, los asentamientos de personas afromexicanas, el número de sus integrantes y su ubicación por comunidad y municipio para proponer al Congreso del Estado el reconocimiento expreso de los mismos y la adecuación de las leyes secundarias locales en las que incidan.
