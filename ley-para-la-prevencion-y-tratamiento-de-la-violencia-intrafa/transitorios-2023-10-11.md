@@ -1,0 +1,4 @@
+P.O. 11 DE OCTUBRE DE 2023.
+[N. DE E. DECRETO 168.- POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN II Y V; 3; 4; 5, FRACCIONES II, III, V, VI Y IX; 13, PÁRRAFO PRIMERO; 14, FRACCIÓN III; 15, FRACCIÓN II; 16, FRACCIÓN III; 20; 21; 22; 23; 24; 25; 26; 27; 29; 30; 31; 34; 37, FRACCIÓN I Y V; 40 Y 41. SE ADICIONA LA FRACCIÓN IX, AL ARTÍCULO 2; TODOS DE LA LEY PARA LA PREVENCIÓN Y TRATAMIENTO DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
