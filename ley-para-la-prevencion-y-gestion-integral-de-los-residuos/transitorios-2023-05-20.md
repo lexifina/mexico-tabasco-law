@@ -1,0 +1,5 @@
+P.O. 20 DE MAYO DE 2023.
+[N. DE E. TRANSITORIOS DEL DECRETO 161 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3, FRACCIONES XIII Y XIV; 9 FACCIONES IX Y X; 11, FRACCIONES XXIV Y XXV; Y 20, PÁRRAFO SEGUNDO. SE ADICIONAN LA FRACCIÓN XV AL ARTÍCULO 3; LA FRACCIÓN XI AL ARTÍCULO 9; LAS FRACCIONES XXVI, XXVII Y XXVIII AL ARTÍCULO 11; UN SEGUNDO PÁRRAFO AL ARTÍCULO 20, RECORRIÉNDOSE EN ORDEN EL SUBSECUENTE; UN TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 37; TODOS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, DEL ESTADO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero de 2024.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+TERCERO. Los ayuntamientos deberán realizar las adecuaciones administrativas, operativas y de recursos humanos correspondientes para el cumplimiento del presente Decreto.
