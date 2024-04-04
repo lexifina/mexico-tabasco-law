@@ -12,5 +12,13 @@ IX. La notificación al superior jerárquico inmediato, cuando la persona agreso
 Esta orden será emitida en todos los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea corporaciones públicas o privadas;
 X. La obligación de la persona agresora de presentarse periódicamente ante el órgano jurisdiccional que emitió la orden;
 XI. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
-XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza; y
-XIII. Las demás que se requieran para brindar una protección a la víctima.
+(REFORMADA, P.O. 3 DE ABRIL DE 2024)
+XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2024)
+XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima;
+(ADICIONADA, P.O. 3 DE ABRIL DE 2024)
+XIV. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
+(ADICIONADA, P.O. 3 DE ABRIL DE 2024)
+XV. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes; y
+(ADICIONADA [N. DE E. REUBICADA Y REFORMADA], P.O. 3 DE ABRIL DE 2024)
+XVI. Las demás que se requieran para brindar una protección integral a la víctima.
