@@ -409,6 +409,9 @@ Olmeca y Maya, por mes.355.07 UMA
 XIX. Por el uso del espacio del local 10 ubicado
 en el Centro de Investigaciones de la Cultura
 Olmeca y Maya, por mes.118.36 UMA
+(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)
+XX. Con la finalidad de promover el Registro correspondiente, se fijan las siguientes tarifas:
+a) Inscripción al Padrón Estatal de Artesanas y Artesanos:0.00 UMA.
 El buen uso y cuidado de los bienes objeto de los servicios prestados por la Secretaría de Cultura, será responsabilidad de los solicitantes de los mismos; al finalizar la prestación del servicio la Secretaría de Cultura, a través de la unidad competente verificará el estado de los bienes, con la finalidad de constatar que no existan daños, deterioros o detrimentos distintos a los causados por el paso del tiempo. Dicha verificación se practicará en presencia del contribuyente y deberá estar debidamente circunstanciada, cumpliendo con las formalidades establecidas en el derecho común para las inspecciones judiciales.
 Para el caso en que existan daños, deterioros o detrimentos distintos a los causados por el paso del tiempo, estarán a cargo del contribuyente.
 Con motivo de programas de promoción cultural, que emprenda el Gobierno del Estado, la Secretaría podrá exentar o en su caso reducir el pago de los derechos establecidos en el presente numeral.
