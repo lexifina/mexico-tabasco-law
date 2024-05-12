@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 11 DE MAYO DE 2024)
+Artículo 122 Bis.- Toda persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá presentarlo ante cualquiera de las Procuradurías de Protección, o ante el Sistema DIF Estatal o Municipal, con las prendas, valores o cualesquiera otros objetos encontrados en su persona, y declarará el día, lugar y circunstancias en que lo hubiere hallado.
