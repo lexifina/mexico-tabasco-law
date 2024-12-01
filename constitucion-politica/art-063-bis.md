@@ -8,8 +8,8 @@ Con excepción de los asuntos que corresponde resolver directamente al Tribunal 
 I.- Las impugnaciones en las elecciones de diputaciones;
 (REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)
 II.- Las impugnaciones que se presenten sobre la elección ordinaria o extraordinaria de Gobernador o Gobernadora del Estado;
-(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)
-III.- Las impugnaciones que se presenten en las elecciones de presidencias municipales y regidurías;
+(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2024)
+III.- Las impugnaciones que se presenten en las elecciones de presidencias municipales y regidurías, así como las relativas a las delegaciones y subdelegaciones municipales;
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)
 IV.- Las impugnaciones de actos o resoluciones de la autoridad electoral estatal, distintas a las señaladas en las tres fracciones anteriores, que violen normas constitucionales o legales;
 (REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)
@@ -18,8 +18,8 @@ V.- Las impugnaciones de actos y resoluciones que violen los derechos político 
 VI.- La determinación e imposición de sanciones por parte del Instituto Electoral y de Participación Ciudadana de Tabasco a partidos o agrupaciones políticas o personas físicas o jurídicas colectivas, locales, nacionales o extranjeras, que infrinjan disposiciones de esta Constitución y demás ordenamientos aplicables;
 (REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)
 VII.- Los conflictos laborales entre el Instituto Electoral y de Participación Ciudadana y su personal dedicado al servicio público; con excepción de aquellos que formen parte del Servicio Profesional Electoral Nacional así como los que surjan entre el Tribunal Electoral y su personal dedicado al servicio público, en términos de las disposiciones aplicables;
-(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)
-VIII.- Las impugnaciones que se presenten respecto de la celebración de consultas populares o la presentación de iniciativas ciudadanas; y
+(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2024)
+VIII.- Las impugnaciones que se presenten respecto de la celebración de consultas populares, revocación de mandato o la presentación de iniciativas ciudadanas; y
 (ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE NOVIEMBRE DE 2002)
 IX.- Las demás que señale esta Constitución, la Ley Orgánica y demás leyes secundarias y reglamentarias.
 (ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2008)
