@@ -1,0 +1,6 @@
+P.O. 4 DE DICIEMBRE DE 2024.
+[N. DE E. TRANSITORIOS DEL DECRETO 025 POR EL QUE "SE ADICIONA EL ARTÍCULO 2 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Dentro de los noventa días siguientes a su publicación, el Congreso del Estado, deberá expedir la ley reglamentaria o las reformas pertinentes para armonizar el marco jurídico estatal a las disposiciones contenidas en el presente Decreto, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme las disposiciones presupuestarias.
+TERCERO. Conforme al principio de progresividad y no regresión, el monto de los recursos asignados en el Presupuesto de Egresos del ejercicio fiscal que corresponda, para los programas de apoyo económico para personas que tengan discapacidad permanente, de pensiones para personas adultas mayores y de becas para estudiantes de nivel superior que se encuentren en condición de pobreza, no podrá ser disminuido respecto del que se haya asignado en el ejercicio fiscal inmediato anterior.
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
