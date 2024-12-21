@@ -191,5 +191,6 @@ Cuando se trate de viviendas de interés social o popular, se cobrará en el pri
 No se causarán los derechos a que se refiere la fracción I, inciso h) de este artículo, cuando se trate de los actos a que se refiere el artículo 93 fracción XXIII incisos a) y b) de la Ley del Impuesto Sobre la Renta.
 Tratándose de los derechos establecidos en los incisos b) y h) de la fracción I de este artículo, los contribuyentes que adquieran la propiedad de una vivienda o predio sin edificar, pudiendo pagar los derechos referidos, podrán utilizar de manera opcional, la tasa del 1 por ciento, calculada sobre la base gravable que resulte mayor de los siguientes valores:
 1) El precio o valor del inmueble señalado en el acto traslativo de dominio y sus accesorios, independientemente del nombre con que se designe; o
-2) El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado por la Comisión del Registro Estatal de Valuadores del Estado de Tabasco; o
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)
+2) El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado ante el Registro Estatal de Valuadores del Estado de Tabasco; o
 3) El valor catastral.

@@ -1,11 +1,12 @@
-(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2019)
+(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)
 CAPÍTULO DÉCIMO BIS
-DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA Y SUS ÓRGANOS DESCONCENTRADOS
-(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)
-SECCIÓN PRIMERA
-DESARROLLO AGROPECUARIO, FORESTAL Y PESCA
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
-Artículo 98-A. Por los servicios prestados por la Secretaría de Desarrollo Agropecuario, Forestal y Pesca, se causarán y pagarán los derechos siguientes:
+DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO AGROPECUARIO Y PESCA
+(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN [N. DE E. ANTES SECCIÓN PRIMERA], P.O. 18 DE DICIEMBRE DE 2024)
+SECCIÓN ÚNICA
+DESARROLLO AGROPECUARIO Y PESCA
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)
+Artículo 98-A. Por los servicios prestados por la Secretaría de Desarrollo Agropecuario y Pesca, se causarán y pagarán los derechos siguientes:
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)
 I. Por la producción de plantas y semillas:
 (REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
 a) Plantas frutales en peligro de extinción.0.230 UMA
@@ -72,6 +73,7 @@ empresarial para la comercialización de productos
 agropecuarios, forestales, pesqueros, acuícolas y
 agroindustriales.46.04 UMA
 a) Costo de asesoría técnica por hora.34.00 UMA
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)
 V. Los costos para la autorización en materia de acopio, distribución, tránsito y movilización de ganado, se cobrarán de acuerdo al cuadro siguiente:
 a) Folio de guía de transito asignado al organismo
 expedidor (de Guías de Transito).0.12 UMA
@@ -80,6 +82,7 @@ guías de tránsito.10.00 UMA
 c) Clave de autorización de prestadores de servicios
 ganaderos (PSG) de centros de acopio o centro de
 distribución.10.00 UMA
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)
 VI. El CECAREM, expenderá al público en general sus productos, bajo el siguiente esquema:
 a) Apícola: jalea real (lt).11.83 UMA
 b) Miel de abeja melipona (lt).8.87 UMA
@@ -146,6 +149,7 @@ dos puntas (pz).66.95 UMA
 (ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)
 ddd) Cayuco: de fibra de vidrio de 5 mts.
 de espejo para motor (pz).83.69 UMA
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)
 VII. En materia de acuacultura, la comercialización de productos se realizará de la forma siguiente:
 a) Paq. de 100 alevines sin hormonar.1.00 UMA
 b) Paq. de 100 alevines hormonado.1.5 UMA

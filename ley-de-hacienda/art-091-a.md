@@ -1,11 +1,12 @@
-(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2022)
+(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)
 CAPÍTULO SEXTO BIS
-DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE BIENESTAR, SUSTENTABILIDAD Y CAMBIO CLIMÁTICO
-(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN PRIMERA], P.O. 28 DE DICIEMBRE DE 2022)
-SECCIÓN ÚNICA
+DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE Y SU ÓRGANO DESCONCENTRADO
+(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN ÚNICA], P.O. 18 DE DICIEMBRE DE 2024)
+SECCIÓN PRIMERA
 PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)
+Artículo 91-A. Por los servicios prestados por la Secretaría de Medio Ambiente y Desarrollo Sostenible, se causarán y pagarán los derechos siguientes:
 (ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
-Artículo 91-A. Por los servicios prestados por la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, se causarán y pagarán los derechos siguientes:
 I. Derechos por trámites en materia de impacto y riesgo ambiental:
 a) Por la recepción, evaluación y resolución
 de la manifestación de impacto ambiental,
@@ -35,6 +36,7 @@ evaluación de daños ambientales y programa de
 prevención de accidentes.40.0 UMA
 i) Por la recepción y revisión de estudio de Evaluación
 de Daños Ambientales.150.0 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
 II. Derechos por trámites en materia de aprovechamiento de recursos naturales de competencia del Estado.
 a) Por el aprovechamiento y extracción
 de recursos naturales de competencia estatal,
@@ -43,13 +45,15 @@ b) Por el aprovechamiento y extracción de
 recursos naturales por competencia estatal
 como arena, arcilla, suelo o cualquier otro material,
 por metro cúbico.0.10 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
 III. Derechos por trámites en materia de manejo integral de residuos de manejo especial.
 a) Por el registro como generador de residuos
 de manejo especial.40.0 UMA
-b) Por la presencia de la Secretaría de Bienestar,
-Sustentabilidad y Cambio Climático para la realización
-del protocolo de pruebas tecnológicas para el
-tratamiento de residuos de manejo especial.60.0 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)
+b) Por la presencia de la Secretaría de Medio Ambiente
+y Desarrollo Sostenible para la realización del protocolo
+de pruebas tecnológicas para el tratamiento
+de residuos de manejo especial.60.0 UMA
 c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
 d) Por la renovación de la vigencia de autorizaciones
 de residuos de manejo especial.100.0 UMA
@@ -90,6 +94,7 @@ especial. 10.00 UMA
 t) Por la liberación de residuos provenientes
 del tratamiento de residuos de manejo especial
 de competencia estatal, por tonelada. 1.00 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
 IV. Derechos por trámites en materia de prevención y control de la contaminación atmosférica:
 a) Por la recepción, evaluación y emisión de la
 licencia de funcionamiento en materia de emisiones
@@ -101,6 +106,7 @@ c) Por la recepción de la cédula de operación
 anual - Cédula de Operación Anual o Cédula
 de Operación Anual de Registro de Emisiones y
 Transferencia de Contaminantes.30.0 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
 V. Derechos por actividades dentro de áreas naturales protegidas:
 a) Por el otorgamiento o expedición de concesiones
 para la exploración, explotación o aprovechamiento
@@ -114,12 +120,16 @@ c) Por el otorgamiento o expedición de permisos
 para la exploración, explotación o aprovechamiento
 de recursos en las áreas naturales protegidas de
 competencia estatal.100.0 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
 VI. Por los servicios de monitoreo de una muestra
 realizada por el laboratorio ambiental.5.0 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
 VII. Por los servicios de análisis de una muestra en
 el laboratorio ambiental.15.0 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
 VIII. Por el servicio de opiniones técnicas de
 compatibilidad.35.08 UMA
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)
 IX. Por expedición de la constancia de reducción
 de emisiones.50.0 UMA
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)

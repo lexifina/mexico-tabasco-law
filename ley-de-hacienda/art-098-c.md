@@ -403,12 +403,14 @@ literarios o de educación específica sobre letras,
 autores y libros, por día.23.67 UMA
 XVII. Uso de la plaza de la librería del Fondo de
 Cultura Económica "José Carlos Becerra".47.34 UMA
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)
 XVIII. Por el uso del espacio del local 9 ubicado
 en el Centro de Investigaciones de la Cultura
-Olmeca y Maya, por mes.355.07 UMA
+Olmeca y Maya, por mes.598.69 UMA
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)
 XIX. Por el uso del espacio del local 10 ubicado
 en el Centro de Investigaciones de la Cultura
-Olmeca y Maya, por mes.118.36 UMA
+Olmeca y Maya, por mes.138.19 UMA
 (ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)
 XX. Con la finalidad de promover el Registro correspondiente, se fijan las siguientes tarifas:
 a) Inscripción al Padrón Estatal de Artesanas y Artesanos:0.00 UMA.
