@@ -3,6 +3,6 @@ Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de m
 LIC. SALVADOR J. NEME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TABASCO, A SUS HABITANTES SABED;
 Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 La H. Quincuagésima Tercera Legislatura del Estado Libre y Soberano de Tabasco, en uso de las facultades que le confiere el Artículo 36, fracciones I y XXXIX de la Constitución Política Local, y
-...
+[...]
 Ha tenido ha bien emitir el siguiente:
 DECRETO NUMERO 0064
