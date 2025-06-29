@@ -9,7 +9,8 @@ VI. Titular: Las personas físicas y personas jurídicas colectivas, así como l
 VII. Sello Digital: el mensaje electrónico que acredita que un documento digital fue recibido por la autoridad correspondiente y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada;
 VIII. Neutralidad tecnológica: Utilización de cualquier tecnología, sin que se favorezca a alguna en particular, con base en estándares abiertos;
 IX. Autenticidad: Certeza de que un mensaje de datos o un documento electrónico determinado fue emitido por el titular, y que, por lo tanto, el contenido y las consecuencias jurídicas que del mismo deriven, le son atribuibles a éste, en tanto se consideran expresión de su voluntad;
-X. Conservación: Conjunto de procedimientos y medidas destinados a asegurar la preservación y la prevención de alteraciones físicas y de información de los documentos en archivo, en términos de la Ley de Archivos Públicos del Estado de Tabasco, su Reglamento y criterios que formule el Sistema Estatal de Archivos;
+(REFORMADA, P.O. 28 DE JUNIO DE 2025)
+X. Conservación de archivos: al conjunto de procedimientos y medidas destinados a asegurar la prevención de alteraciones físicas de los documentos en papel y la preservación de los documentos digitales a largo plazo, en términos de la Ley de Archivos para el Estado de Tabasco y criterios que formule el Sistema Estatal de Archivos de Tabasco;
 XI. Confidencialidad: Garantía de que sólo las personas autorizadas tendrán acceso a la información contenida en el mensaje de datos o documento electrónico;
 XII. Integridad: Garantía de que el contenido de un mensaje de datos o documento electrónico permanecerá completo e inalterado, con independencia de los cambios que pudiera sufrir el medio que lo contiene a través del tiempo; y
 XIII. Unidad de Servicios Electrónicos: módulos o kioscos de Servicios Electrónicos, autorizados por las autoridades fiscales competentes.

@@ -2,12 +2,12 @@
 Artículo 42 Quáter.- Para los efectos de lo dispuesto por los artículos 31 Quáter y 37, fracción VI de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
 (REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)
 I. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, oficinas, bodegas, almacenes, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías;
-(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)
-II. Al presentarse los visitadores en el lugar donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección;
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)
-III. Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección;
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)
-IV. En toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores, en los términos de este Código o, en su caso, las irregularidades detectadas durante la inspección;
+(REFORMADA, P.O. 28 DE JUNIO DE 2025)
+II. Al presentarse los visitadores y visitadoras en el lugar donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección;
+(REFORMADA, P.O. 28 DE JUNIO DE 2025)
+III. Los visitadores y visitadoras se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores y visitadoras los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección;
+(REFORMADA, P.O. 28 DE JUNIO DE 2025)
+IV. En toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores y visitadoras, en los términos de este Código o, en su caso, las irregularidades detectadas durante la inspección;
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)
 V. Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita domiciliaria; y
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)
