@@ -17,12 +17,13 @@ IV. En los recesos del Congreso, la Comisión Permanente lo convocará de inmedi
 V. Las ausencias de la persona titular de la Fiscalía General serán suplidas en los términos que determine la ley.
 (REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)
 Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden local; y, por lo mismo, solicitará las medidas cautelares contra las personas imputadas; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que la leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
-(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)
-La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales y de combate a la corrupción, cuyas personas titulares serán nombradas y removidas por el o la Fiscal General del Estado. El Congreso del Estado podrá objetar los nombramientos y remociones por el voto de las dos terceras partes de sus integrantes presentes, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
+(REFORMADO, P.O. 20 DE AGOSTO DE 2025)
+La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales, de combate a la corrupción y de violencias de género contra las mujeres, cuyas personas titulares serán nombradas y removidas por el o la Fiscal General del Estado. El Congreso del Estado podrá objetar los nombramientos y remociones por el voto de las dos terceras partes de sus integrantes presentes, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
 (REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)
 La ley establecerá las bases para la formación y actualización de las personas dedicadas al servicio público de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 (REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)
 La persona titular de la Fiscalía General presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades. Comparecerá ante el Congreso cuando se le cite a rendir cuentas o a informar sobre su gestión.
-La función de procuración de justicia a cargo de la Fiscalía General del Estado se realizará invariablemente en apego a los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
+(REFORMADO, P.O. 20 DE AGOSTO DE 2025)
+La función de procuración de justicia a cargo de la Fiscalía General del Estado se realizará invariablemente en apego a los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, perspectiva de género, profesionalismo, responsabilidad y respeto a los derechos humanos.
 (REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)
 La o el Fiscal General del Estado y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.

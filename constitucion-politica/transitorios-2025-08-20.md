@@ -1,0 +1,5 @@
+P.O. 20 DE AGOSTO DE 2025.
+[N. DE E. TRANSITORIOS DEL DECRETO 126 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES VIII, XL Y XLI; 51, FRACCIONES III, PÁRRAFO TERCERO, Y XVII; 54 TER, PÁRRAFOS QUINTO Y OCTAVO; 63 QUÁTER, PÁRRAFO SEGUNDO. SE ADICIONAN LAS FRACCIONES IV BIS Y XLII AL ARTÍCULO 2 Y EL ARTÍCULO 51 BIS. SE DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XVII DEL ARTÍCULO 51, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+TERCERO.- En un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones necesarias para armonizar el marco jurídico estatal, debiéndose incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
