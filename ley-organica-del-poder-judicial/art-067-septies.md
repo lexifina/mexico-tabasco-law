@@ -20,4 +20,5 @@ XVI. Vigilar que el personal a su cargo se conduzca con orden y disciplina;
 XVII. Brindar atención al público, dentro del ámbito de su competencia;
 XVIII. Verificar el cumplimiento de los plazos y términos procesales, conforme al ámbito de su competencia;
 XIX. Intervenir en las autovisitas y rendir la información requerida; y
-XX. Las que le asigne el Juez o Secretario Instructor, con apego a las disposiciones establecidas en esta Ley, la Ley Federal del Trabajo y demás disposiciones jurídicas aplicables.
+(REFORMADA, P.O. 30 DE AGOSTO DE 2025)
+XX. Las que le asigne el Juez o Secretario Instructor, con apego a lo establecido en esta Ley, la Ley Federal del Trabajo, la Ley de los Trabajadores al Servicio del Estado, y demás disposiciones jurídicas aplicables.

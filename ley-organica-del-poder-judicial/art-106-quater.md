@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
+Artículo 106 Quater. El Tribunal de Disciplina Judicial realizará sus labores en dos períodos de sesiones, el primero, comprendido de enero a julio; y el segundo, de agosto a diciembre.
+Al clausurar sus períodos ordinarios de sesiones, el Pleno del Tribunal de Disciplina Judicial, en el ámbito de su competencia, designará a las y los Magistrados que deban proveer los trámites y resolver los asuntos de notoria urgencia que se presenten durante los recesos, así como a las y los secretarios auxiliares y personal necesario para apoyar sus funciones.
+Al reanudarse el correspondiente período ordinario de sesiones, las y los Magistrados darán cuenta al Pleno del Tribunal de Disciplina Judicial de las medidas que hayan tomado, a fin de que éste acuerde lo que proceda.
+Las sesiones ordinarias del Pleno del Tribunal de Disciplina Judicial serán públicas y se celebrarán durante los períodos a que alude el párrafo primero de este artículo y, en los días y horas que el mismo determine mediante acuerdos generales.
+El Pleno del Tribunal de Disciplina Judicial podrá sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes. Dicha solicitud deberá presentarse a la Magistrada o Magistrado Presidente del propio Tribunal a fin que emita la convocatoria correspondiente.
+Las sesiones del Pleno del Tribunal de Disciplina Judicial podrán ser de manera presencial o virtual, cuando menos una vez al mes.

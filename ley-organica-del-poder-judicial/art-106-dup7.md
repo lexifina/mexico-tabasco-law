@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
+Artículo 106 Quatervicies. La visita extraordinaria será realizada para dar seguimiento a las medidas correctivas o sancionadoras decretadas.
+En caso de que la persona servidora pública no acredite favorablemente las medidas correctivas ordenadas derivadas de la evaluación o se niegue a realizarlas, la Visitaduría Judicial dará vista al Pleno del Tribunal de Disciplina Judicial quien podrá ordenar la suspensión de la persona servidora pública hasta por un año, y determinará las acciones y condiciones para su restitución.
+Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal de Disciplina Judicial resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial del Estado.

@@ -1,0 +1,6 @@
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE AGOSTO DE 2025)
+SECCIÓN QUINTA
+DE LA UNIDAD DE INVESTIGACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
+Artículo 106 Sexvicies. La Unidad de Investigación de Responsabilidades Administrativas fungirá como autoridad investigadora en términos de la Ley General de Responsabilidades Administrativas y tendrá la carga de la prueba para demostrar la veracidad sobre los hechos que demuestren la existencia de faltas administrativas cometidas por el personal jurisdiccional del Poder Judicial del Estado, así como la responsabilidad de aquellos a quienes se imputen las mismas, en los términos establecidos en esta Ley, en los acuerdos generales que emita el Órgano de Administración Judicial y el Pleno del Tribunal Superior de Justicia, así como en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables.
+En el ejercicio de sus funciones podrá ordenar la recopilación de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.

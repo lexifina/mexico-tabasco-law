@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
+Artículo 106 Ter. El Tribunal de Disciplina Judicial se integrará por cinco Magistraturas electas por la ciudadanía a nivel estatal conforme al procedimiento establecido en el artículo 56 de la Constitución del Estado.
+Para ser elegibles, las Magistradas y Magistrados del Tribunal de Disciplina Judicial, además de reunir los requisitos señalados en el artículo 57 de la Constitución del Estado, deberán ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades. Durarán seis años en su encargo, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo período.
+Cada dos años se renovará la Presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quien alcance mayor votación.

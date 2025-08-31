@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
+Artículo 252 Sexies. Cuando sea procedente la acumulación, será competente para conocer del asunto aquella autoridad substanciadora que tenga conocimiento de la falta cuya sanción sea mayor. Si la falta administrativa amerita la misma sanción, será competente la autoridad encargada de substanciar el asunto que primero haya admitido el Informe de Presunta Responsabilidad Administrativa.

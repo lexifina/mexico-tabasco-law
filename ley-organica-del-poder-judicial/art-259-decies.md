@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
+Artículo 259 Decies. La resolución del recurso consistirá en:
+I. Confirmar la calificación o abstención; o
+II. Dejar sin efectos la calificación o abstención, para lo cual la autoridad encargada para resolver el recurso, estará facultada para recalificar el acto u omisión; o bien ordenar se inicie el procedimiento correspondiente.

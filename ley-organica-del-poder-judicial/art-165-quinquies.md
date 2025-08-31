@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
+Artículo 165 Quinquies. La Coordinación de Procedimientos administrativos tendrá a su cargo recibir, registrar y custodiar las declaraciones de situación patrimonial, de intereses y constancia de presentación de declaración fiscal; así como iniciar, substanciar y resolver los procedimientos administrativos y los de responsabilidad administrativa, en el ámbito de su competencia.

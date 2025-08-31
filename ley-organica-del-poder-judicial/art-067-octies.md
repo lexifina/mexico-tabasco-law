@@ -22,4 +22,5 @@ XVIII. Verificar el cumplimiento de los términos y plazos procesales, conforme 
 XIX. Vigilar que el personal a su cargo se conduzca con orden y disciplina;
 XX. Intervenir en las autovisitas y rendir la información requerida;
 XXI. Dar cumplimiento en tiempo y forma a las obligaciones en materia de transparencia y acceso a la información pública; y
-XXII. Las que le confiera esta Ley, la Ley Federal del Trabajo, los acuerdos emitidos por el Pleno del Consejo de la Judicatura, las que le asigne el Juez o el Secretario Instructor y demás ordenamientos aplicables.
+(REFORMADA, P.O. 30 DE AGOSTO DE 2025)
+XXII. Las que le confiera esta Ley, la Ley Federal del Trabajo, la Ley de los Trabajadores al Servicio del Estado, los acuerdos emitidos por los Plenos del Tribunal Superior de Justicia y del Órgano de Administración Judicial, las que le asigne el Juez o el Secretario Instructor y demás ordenamientos aplicables.

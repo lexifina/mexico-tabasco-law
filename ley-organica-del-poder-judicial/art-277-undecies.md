@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
+Artículo 277 Undecies. En el caso de ser revocada la sentencia o de que su modificación así lo disponga, cuando el recurrente sea el servidor público o el particular, se ordenará al ente público en el que se preste o haya prestado sus servicios, lo restituya de inmediato en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones impugnadas, en los términos de la sentencia respectiva, sin perjuicio de lo que establecen otras leyes.

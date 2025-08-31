@@ -12,4 +12,5 @@ VIII. Rendir los datos que le sean requeridos en las autovisitas, así como en l
 IX. Ajustar su conducta a los lineamientos establecidos en esta Ley, el Código de Ética y el Reglamento Interior del Poder Judicial;
 X. Revisar diariamente el Sistema de Gestión Judicial y efectuar las notificaciones correspondientes;
 XI. Coordinar sus actividades con el Jefe de Unidad de Causa y de Unidad de Sala, para efectuar las notificaciones en los términos que indica la Ley Federal del Trabajo y esta Ley; y
-XII. Las que le confiera esta Ley, la Ley Federal del Trabajo, los acuerdos emitidos por el Pleno del Consejo de la Judicatura, las que le asigne el Juez, el Secretario Instructor o el Jefe de Unidad de Causa y demás disposiciones jurídicas aplicables.
+(REFORMADA, P.O. 30 DE AGOSTO DE 2025)
+XII. Las que le confiera esta Ley, la Ley Federal del Trabajo, la Ley de los Trabajadores al Servicio del Estado, los acuerdos emitidos por los Plenos del Tribunal Superior de Justicia y del Órgano de Administración Judicial, las que le asigne el o la Juez, la o el Secretario Instructor o la o el Jefe de Unidad de Causa y demás disposiciones jurídicas aplicables.

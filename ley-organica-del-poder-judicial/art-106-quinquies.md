@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
+Artículo 106 Quinquies. El Tribunal de Disciplina Judicial desahogará el procedimiento de responsabilidades administrativas en primera instancia a través de comisiones conformadas por tres Magistradas o Magistrados, que fungirán como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones podrán ser impugnadas ante su Pleno, que resolverá por mayoría de tres votos, en los términos que señale esta Ley.
+Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de estas.

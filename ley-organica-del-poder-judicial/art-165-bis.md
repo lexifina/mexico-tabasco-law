@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
+Artículo 165 Bis. La Coordinación de Auditoría tendrá como función realizar las auditorías o revisiones conforme al Programa Anual de Auditoría que permita comprobar el cumplimiento de los ingresos, egresos, manejos, custodias y aplicación de recursos de que disponen los órganos del Poder Judicial y vigilar que los estados financieros sean presentados de acuerdo a la normatividad aplicable. Además de, organizar y realizar los actos de entrega-recepción que se lleven a efecto en el Poder Judicial.

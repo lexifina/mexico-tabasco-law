@@ -8,5 +8,5 @@ IV. Jefe de Unidad de Sala;
 V. Notificador;
 (REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2020)
 VI. Director General de Administración; y
-(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2020)
-VII. Demás personal que el Pleno del Consejo determine y el presupuesto permita.
+(REFORMADA, P.O. 30 DE AGOSTO DE 2025)
+VII. Demás personal que el Pleno del Órgano de Administración Judicial determine y el presupuesto permita.

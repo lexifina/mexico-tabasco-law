@@ -17,4 +17,5 @@ n) Inseminación Artificial y Esterilidad Provocada;
 ñ) Corrupción de Menores e Incapaces;
 o) Pornografía Infantil; y
 p) Comunicación de Contenido Sexual con Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para Comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
-El número de jueces que atenderá estos asuntos y su sede será determinado por el Consejo de la Judicatura.
+(REFORMADO, P.O. 30 DE AGOSTO DE 2025)
+El número de Jueces o Juezas que atenderán estos asuntos y su sede será determinada por el Órgano de Administración Judicial.
