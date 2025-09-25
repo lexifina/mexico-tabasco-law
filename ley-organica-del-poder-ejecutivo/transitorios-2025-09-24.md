@@ -1,0 +1,5 @@
+P.O. 24 DE SEPTIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL DECRETO 137 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 11, FRACCIONES VI Y VII; 27, FRACCIONES II, XLVII Y XLVIII; 35, FRACCIONES II, VI, IX, XI, XIII, XVI, XVII, XVIII, XXII, XXV, XXVI, XXVIII, XXIX, XXXV Y XXXVI; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 11; LA FRACCIÓN XLIX AL ARTÍCULO 27; Y LA FRACCIÓN XXXVII AL ARTÍCULO 35, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en cualquier ordenamiento se hagan referencias a las Unidades de Asuntos Jurídicos y Transparencia, Unidades Jurídicas, Direcciones de Asuntos Jurídicos, Direcciones de Asuntos Jurídicos y Transparencia, o cualquier otra denominación equivalente, se entenderá hecha a las "Unidades de Apoyo Jurídico".
