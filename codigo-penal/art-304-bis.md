@@ -1,3 +1,4 @@
+(DEROGADO TERCER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2025)
 (ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)
 Artículo 304 Bis.- Además de las penas previstas en el artículo anterior, el Juez podrá imponer alguna o algunas de las sanciones siguientes:
 I.- La realización de las acciones necesarias para establecer las condiciones de los elementos naturales que constituyan los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
