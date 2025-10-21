@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 18 DE OCTUBRE DE 2025)
+Artículo 65 Ter. El Consejo Local, para el cumplimiento de sus atribuciones, podrá crear comisiones de carácter permanente o temporal, que se organizarán de conformidad con lo dispuesto en las disposiciones jurídicas que al efecto emita.
+Dichas comisiones podrán contar con la asesoría de expertos y usuarios de los archivos históricos, así como miembros de las organizaciones de la sociedad civil.
+Los miembros de las comisiones no recibirán emolumento, ni remuneración alguna por su participación en las mismas.
