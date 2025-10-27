@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)
+Artículo 98 Bis. El Congreso a través de la Dirección de Asuntos Jurídicos, investigará y sustanciará, los procedimientos relativos a las faltas administrativas no graves cometidas por los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución del Estado y una vez concluido el procedimiento lo remitirá a la Junta de Coordinación Política, para que emita el acuerdo o dictamen correspondiente el cual será sometido a la consideración del Pleno.
