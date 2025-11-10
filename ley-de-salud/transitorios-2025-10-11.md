@@ -1,0 +1,7 @@
+P.O. 11 DE OCTUBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL DECRETO 148 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 72, 73, 74, 75, 76, 77, 78 Y 79; SE ADICIONAN LOS ARTÍCULOS 79 BIS, 79 TER Y 79 QUÁTER, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor a los treinta días a partir de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+TERCERO. La ejecución y cumplimiento de las disposiciones contenidas en el presente Decreto se realizarán de forma gradual y progresiva, considerando los recursos disponibles.
+CUARTO. El titular del Poder Ejecutivo del Estado, dentro de un plazo que no exceda de 180 días naturales a partir de la entrada en vigor del presente Decreto deberá emitir las disposiciones reglamentarias que permitan proveer en la esfera administrativa lo previsto en el presente Decreto y actualizar las ya existentes con el fin de su armonización.
+QUINTO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, incluyendo las modificaciones a la estructura orgánica, que en su caso sea necesaria, por lo que no se autorizarán ampliaciones al presupuesto para la dependencia o entidad que las lleve a cabo, ni en el presente ejercicio fiscal, ni en subsecuentes.

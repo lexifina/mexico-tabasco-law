@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)
+ARTÍCULO 79 Quater.- En el marco del Sistema Nacional de Salud, se observarán o elaborarán programas para la atención de los familiares y el círculo social cercano de las personas que experimentan dificultades psicoemocionales o condiciones de salud mental, sin que puedan traducirse en la afectación de la voluntad y preferencias de estas últimas. Los programas podrán versar sobre canalizaciones a servicios, psicoterapias breves, promoción de apoyos grupales, entre otros.

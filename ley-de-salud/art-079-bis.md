@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)
+ARTÍCULO 79 Bis.- Todo tratamiento e internamiento de la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones, deberá prescribirse previo consentimiento informado.
+La persona con trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones, es quien ostenta el derecho a consentir o denegar el permiso para cualquier tratamiento o internamiento, por lo que deberá presumirse que todos los pacientes tienen capacidad de discernir y deberán agotarse los esfuerzos para permitir que una persona acepte voluntariamente el tratamiento o el internamiento.
