@@ -1,11 +1,16 @@
 (REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)
 ARTICULO 63 Quáter.- El Tribunal de Justicia Administrativa se compone de una Sala Superior, que estará integrada por tres personas, y cinco salas unitarias. Funcionará en Pleno o en Salas. De las salas unitarias, una fungirá como sala Especializada en la resolución de los procedimientos a que se refiere el párrafo segundo del artículo anterior.
-(REFORMADO, P.O. 20 DE AGOSTO DE 2025)
-Para ser magistrado o magistrada de la Sala Superior, deberá tener 35 años de edad y contar con título profesional de licenciatura en derecho con al menos diez años de antigüedad al día de la designación, y para ser magistrada o magistrado de las salas unitarias, deberá tener 30 años de edad y contar con título profesional de licenciatura en derecho por lo menos con cinco años de antigüedad. En ambos casos, además, deberán cumplir con los siguientes requisitos:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2025)
+Para ser magistrado o magistrada de la Sala Superior, deberá tener 30 años de edad y contar con título profesional de licenciatura en derecho, preferentemente con diez años de antigüedad al día de la designación, y para ser magistrada o magistrado de las salas unitarias, deberá tener 30 años de edad y contar con título profesional de licenciatura en derecho por lo menos con cinco años de antigüedad. En ambos casos, además, deberán cumplir con los siguientes requisitos:
+(REFORMADA, P.O. 20 DE AGOSTO DE 2025)
 I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+(REFORMADA, P.O. 20 DE AGOSTO DE 2025)
 II. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
+(REFORMADA, P.O. 20 DE AGOSTO DE 2025)
 III. Haber residido en el país durante el año anterior al día de la designación;
+(REFORMADA, P.O. 20 DE AGOSTO DE 2025)
 IV. No haber sido en la entidad, titular de una Secretaría o equivalente en la Administración Pública, de la Fiscalía General del Estado de Tabasco, ni senador, senadora, diputado o diputada federal o local, durante el año previo al día de la designación; y
+(REFORMADA, P.O. 20 DE AGOSTO DE 2025)
 V. No haber sido sancionado, por sentencia firme, por la comisión dolosa de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexual, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o haber sido declarada persona deudora alimentaria morosa.
 Las magistradas y los magistrados de la Sala Superior serán designados por la persona titular del Poder Ejecutivo, observando en todo momento el principio de paridad de género, y ratificados por el voto de las dos terceras partes de las y los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Durarán en su encargo siete años, pudiendo ser designados para un solo periodo más.
 Las magistradas y los magistrados de Sala Unitaria serán designados por la persona titular del Poder Ejecutivo, observando en todo momento el principio de paridad de género, y ratificados por la mayoría de las y los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Durarán en su encargo siete años, pudiendo ser designados para un solo periodo más.
