@@ -69,23 +69,95 @@ Gubernamentales.13.69 UMA
 c) Escuela de Iniciación Artística Asociada al Instituto Nacional de Bellas Artes:
 (a) Inscripción anual.4.11 UMA
 (b) Cuota mensual.2.74 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.1) Con beca del 50%.1.37 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.2) Con beca del 100%.0.00 UMA
+(b.1) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
+(b.2) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 d) Talleres Libres Artísticos:
 (a) Inscripción semestral por taller.4.11 UMA
 (REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
 (b) Curso de verano por taller.2.74 UMA
 (REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
 (c) Cuota mensual por taller.2.74 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(c.1) Con beca del 50%.1.37 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(c.2) Con beca del 100%.0.00 UMA
+(c.1) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
+(c.2) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 e) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 f) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 g) Uso de espacio para cafetería por mes.13.69 UMA
+(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)
+h) Propedéutico en Danza Clásica.
+(a) Cuota mensual.5.48 UMA
+(b) Inscripción semestral.5.48 UMA
+(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)
+i) Licenciatura en Danza Clásica.
+(a) Inscripción anual.6.85 UMA
+(b) Cuota mensual.8.21 UMA
+(c) Examen de admisión.2.05 UMA
+(d) Examen Extraordinario primera
+oportunidad.1.78 UMA
+(e) Examen Extraordinario segunda
+oportunidad.2.46 UMA
+(f) Constancia simple.0.41 UMA
+(g) Constancia con calificaciones.0.68 UMA
+(h) Examen de posicionamiento o ubicación.2.74 UMA
+(i) Certificado de estudios.4.11 UMA
+(j) Duplicado de estudios totales.4.79 UMA
+(k) Acta de certificación de documentos
+oficiales.10.27 UMA
+(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)
+j) Propedéutico en Música.
+(a) Inscripción semestral.5.48 UMA
+(b) Cuota mensual.5.48 UMA
+(c) Examen Extraordinario primera
+oportunidad.1.78 UMA
+(d) Examen Extraordinario segunda
+oportunidad.2.46 UMA
+(e) Constancia simple.0.41 UMA
+(f) Constancia con calificaciones.0.68 UMA
+(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)
+k) Iniciación Musical.
+(a) inscripción semestral.3.43 UMA
+(b) Cuota mensual.8.21 UMA
+(c) Examen Extraordinario primera
+oportunidad.1.78 UMA
+(d) Examen Extraordinario segunda
+oportunidad.2.46 UMA
+(e) Constancia simple.0.41 UMA
+(f) Constancia con calificaciones.0.68 UMA
+(g) Examen de posicionamiento o
+ubicación.3.43 UMA
+(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)
+l) Técnico Superior Universitario en Música.
+(a) Inscripción semestral.3.43 UMA
+(b) Cuota mensual.8.21 UMA
+(c) Examen Extraordinario primera
+oportunidad.1.78 UMA
+(d) Examen Extraordinario segunda
+oportunidad.2.46 UMA
+(e) Constancia simple.0.41 UMA
+(f) Constancia con calificaciones.0.68 UMA
+(g) Examen de posicionamiento
+ubicación.2.74 UMA
+(h) Certificado de estudios.4.11 UMA
+(i) Duplicado de estudios totales.4.79 UMA
+(j) Acta de certificación de documentos
+oficiales.10.27 UMA
+(k) Notas al programa.68.46 UMA
+(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)
+m) Licenciatura en Música.
+(a) Inscripción semestral.3.43 UMA
+(b) Cuota mensual.8.21 UMA
+(c) Examen Extraordinario primera
+oportunidad.1.78 UMA
+(d) Examen Extraordinario segunda
+oportunidad.2.46 UMA
+(e) Constancia simple.0.41 UMA
+(f) Constancia con calificaciones.0.68 UMA
+(g) Examen de posicionamiento o
+ubicación.2.74 UMA
+(h) Certificado de estudios.4.11 UMA
+(i) Duplicado de estudios totales.4.79 UMA
+(j) Acta de certificación de documentos
+oficiales.10.27 UMA
+(k) Notas al programa.68.46 UMA
 III. Por los servicios prestados en la Biblioteca Pública del Estado "José María Pino Suárez":
 a) Uso del Auditorio denominado "Jesús Ezequiel
 de Dios" por día:95.84 UMA
@@ -118,10 +190,8 @@ IV. Por los servicios prestados en el Centro de Estudios e Investigación de las
 a) Licenciatura en Promotor Cultural en Educación Artística:
 (a) Inscripción anual.6.85 UMA
 (b) Cuota mensual.6.85 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.1) Con beca del 50%.3.42 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.2) Con beca del 100%.0.00 UMA
+(b.1) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
+(b.2) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 (c) Ficha de pre-inscripción anual.2.05 UMA
 (d) Examen Extraordinario primera oportunidad.1.78 UMA
 (e) Examen Extraordinario segunda oportunidad.2.46 UMA
@@ -135,8 +205,8 @@ a) Licenciatura en Promotor Cultural en Educación Artística:
 b) Licenciatura en Educación Artística:
 (a) Inscripción anual.6.85 UMA
 (b) Cuota mensual.11.01 UMA
-(b.1) Con beca del 50%.5.50 UMA
-(b.2) Con beca del 100%.0.00 UMA
+(b.1) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
+(b.2) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 (c) Ficha de pre-inscripción anual.2.05 UMA
 (d) Examen Extraordinario primera oportunidad.1.78 UMA
 (e) Examen Extraordinario segunda oportunidad.2.46 UMA
@@ -166,125 +236,7 @@ lo acredite como tal.0.69 UMA
 (c) Adulto mayor con la tarjeta expedida
 por el Instituto Nacional de las Personas
 Adultas Mayores.0.69 UMA
-VII. Por los servicios prestados en el Centro Cultural Ágora:
-a) Uso del Auditorio por día:95.84 UMA
-Con la finalidad de promover el esparcimiento cultural en el Estado de Tabasco, se fijan las siguientes tarifas siempre que las instalaciones del Auditorio del Centro Cultural Ágora sean solicitadas para su uso por:
-(a) Escuelas privadas o Asociaciones
-Religiosas debidamente constituidas y
-registradas ante la autoridad competente.68.46 UMA
-(b) Academias o Instituciones de Arte.47.92 UMA
-(c) Escuelas públicas o Instituciones
-Gubernamentales.41.07 UMA
-b) Uso del Auditorio para ensayo por día:34.23 UMA
-Con la finalidad de promover el esparcimiento cultural en el Estado de Tabasco, se fijan las siguientes tarifas siempre que las instalaciones del Auditorio del Centro Cultural Ágora sean solicitadas para su uso por:
-(a) Escuelas privadas o Asociaciones
-Religiosas debidamente constituidas y
-registradas ante la autoridad competente.27.38 UMA
-(b) Academias o Instituciones de Arte.20.54 UMA
-(c) Escuelas públicas o Instituciones
-Gubernamentales.13.69 UMA
-c) Propedéutico en Danza Clásica.
-(a) Cuota mensual.5.48 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(a.1) Con beca del 50%.2.74 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(a.2) Con beca del 100%.0.00 UMA
-(b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(c) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(d) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(e) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
-(f) Inscripción semestral.5.48 UMA
-d) Licenciatura en Danza Clásica.
-(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)
-(a) Inscripción anual6.85 UMA
-(b) Cuota mensual.8.21 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.1) Con beca del 50%.4.10 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.2) Con beca del 100%.0.00 UMA
-(c) Examen de admisión.2.05 UMA
-(d) Examen Extraordinario primera oportunidad.1.78 UMA
-(e) Examen Extraordinario segunda oportunidad.2.46 UMA
-(f) Constancia simple.0.41 UMA
-(g) Constancia con calificaciones.0.68 UMA
-(h) Examen de posicionamiento o ubicación.2.74 UMA
-(i) Certificado de estudios.4.11 UMA
-j) Duplicado de estudios totales.4.79 UMA
-(k) Acta de certificación de documentos oficiales.10.27 UMA
-(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(n) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-e) Propedéutico en Música.
-(a) Inscripción semestral.5.48 UMA
-(b) Cuota mensual.5.48 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.1) Con beca del 50%.2.74 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.2) Con beca del 100%.0.00 UMA
-(c) Examen Extraordinario primera oportunidad.1.78 UMA
-(d) Examen Extraordinario segunda oportunidad.2.46 UMA
-(e) Constancia simple.0.41 UMA
-(f) Constancia con calificaciones.0.68 UMA
-f) Iniciación Musical.
-(a) Inscripción semestral.3.43 UMA
-(b) Cuota mensual.8.21 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.1) Con beca del 50%.4.20 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.2) Con beca del 100%.0.00 UMA
-(c) Examen Extraordinario primera oportunidad.1.78 UMA
-(d) Examen Extraordinario segunda oportunidad.2.46 UMA
-(e) Constancia simple.0.41 UMA
-(f) Constancia con calificaciones.0.68 UMA
-(g) Examen de posicionamiento o ubicación.3.43 UMA
-g) Técnico Superior Universitario en Música.
-(a) Inscripción semestral.3.43 UMA
-(b) Cuota mensual.8.21 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.1) Con beca del 50%.4.10 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.2) Con beca del 100%.0.00 UMA
-(c) Examen Extraordinario primera oportunidad.1.78 UMA
-(d) Examen Extraordinario segunda oportunidad.2.46 UMA
-(e) Constancia simple.0.41 UMA
-(f) Constancia con calificaciones.0.68 UMA
-(g) Examen de posicionamiento o ubicación.2.74 UMA
-(h) Certificado de estudios.4.11 UMA
-(i) Duplicado de estudios totales.4.79 UMA
-j) Acta de certificación de documentos oficiales.10.27 UMA
-(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(n) Notas al programa.68.46 UMA
-h) Licenciatura en Música.
-(a) Inscripción semestral.3.43 UMA
-(b) Cuota mensual.8.21 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.1) Con beca del 50%.4.10 UMA
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
-(b.2) Con beca del 100%.0.00 UMA
-(c) Examen Extraordinario primera oportunidad.1.78 UMA
-(d) Examen Extraordinario segunda oportunidad.2.46 UMA
-(e) Constancia simple.0.41 UMA
-(f) Constancia con calificaciones.0.68 UMA
-(g) Examen de posicionamiento o ubicación.2.74 UMA
-(h) Certificado de estudios.4.11 UMA
-(i) Duplicado de estudios totales.4.79 UMA
-(j) Acta de certificación de documentos oficiales.10.27 UMA
-(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(n) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-(ñ) Notas al programa.68.46 UMA
-i) Uso de pérgola por día.29.59 UMA
-j) Uso de salones grandes de danza por día.9.47 UMA
-k) Uso de salones chicos de danza por día.7.10 UMA
-l) Uso de aulas de clases con capacidad de
-30 personas, por día.9.47 UMA
-m) Uso de aulas de clases con capacidad de
-20 personas, por día.7.10 UMA
-n) Uso de espacio para cafetería por mes.27.38 UMA
+VII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 VIII. Por los servicios prestados en el Museo de Historia Natural "José Narciso Rovirosa Andrade"
 a) Entrada General.
 (a) Estudiante con credencial vigente que

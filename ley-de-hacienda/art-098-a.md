@@ -126,10 +126,12 @@ kk) Semental sin registro (pz).35.50 UMA
 ll) Hembra para pie de cría (pz).17.75 UMA
 mm) Hembra de desecho (kg).0.35 UMA
 nn) Semental adulto de desecho (kg).0.41 UMA
-ññ) Ovinos: macho de destete (pz).14.20 UMA
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)
+ññ) Ovinos: macho de destete (pz).11.49 UMA
 oo) Semental con registro (pz).59.17 UMA
 pp) Semental sin registro (pz).35.50 UMA
-qq) Borrega primala sin montar (pz).14.20 UMA
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)
+qq) Borrega primala sin montar (pz).11.49 UMA
 rr) Hembra de desecho (kg).0.33 UMA
 ss) Semental adulto de desecho (kg).0.33 UMA
 tt) Porcinos: lechón de destete (pz).8.87 UMA

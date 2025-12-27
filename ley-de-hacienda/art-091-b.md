@@ -17,5 +17,3 @@ c) Plantas para arborización, paisaje, sombra, etc.0.060 UMA
 (b) Con descuento del 40%.0.036 UMA
 (c) Con descuento del 60%.0.024 UMA
 d) Planta clonada.0.103 UMA
-II. Servicio de asesoría técnica.14.79 UMA
-III. Servicio de asesoría técnica especializada.29.58 UMA

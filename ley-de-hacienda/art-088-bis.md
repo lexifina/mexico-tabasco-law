@@ -14,7 +14,7 @@ VIII. Teatro al Aire Libre del Parque Tabasco Dora María.439.37 UMA
 IX. Palenque de Gallos del Parque Tabasco Dora María.732.28 UMA
 X. Estacionamiento I, II y III del Parque Tabasco Dora
 María, por cada uno.219.68 UMA
-XI. Casa de la Laguna.219.68 UMA
+XI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 XII. Zona Rodeo del Parque Tabasco Dora María.219.68 UMA
 XIII. Bailódromo del Parque Tabasco Dora María.219.68 UMA
 XIV. Cualquier espacio interior con medidas de 9 metros10.00 UMA
@@ -25,6 +25,11 @@ alguno de los inmuebles señalados en las fracciones anteriores.
 XVI. Los estacionamientos I, II y III del Parque0.46 UMA
 Tabasco Dora María, por vehículo, cuando no se actualice
 el supuesto de la fracción X del presente artículo.
+(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2025)
+XVII. Por el uso de estacionamiento de Plaza Juárez al público en general por vehículo, cuando se actualicen los siguientes supuestos:
+a) Por pensión mensual.7.95 UMA
+b) Por 24 horas.3.12 UMA
+c) Por hora o fracción.0.13 UMA
 Para el caso de los derechos contemplados en las fracciones I a la XV del presente artículo, se sujetará a lo siguiente:
 a) El contribuyente adquirente del servicio deberá garantizar, con un 40 por ciento del monto del derecho que corresponda, el buen uso y cuidado de los bienes proporcionados. Dicha garantía se efectuará a través de un depósito de dinero ante la Secretaría;
 b) Al finalizar la prestación del servicio, la Secretaría a través de la unidad competente verificará el estado de los bienes de que se trate con la finalidad de constatar que no existan daños, deterioros o detrimentos distintos a los causados por el paso del tiempo;
