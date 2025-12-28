@@ -1,4 +1,0 @@
-P.O. 13 DE ABRIL DE 2022.
-[N. DE E. TRANSITORIOS DEL DECRETO 061 POR EL QUE "SE ADICIONA EL CAPÍTULO X, DENOMINADO "DELITOS COMETIDOS POR PERSONAS SERVIDORAS PÚBLICAS AL TÍTULO QUINTO, SECCIÓN TERCERA DEL LIBRO SEGUNDO Y SE ADICIONA EL ARTÍCULO 285 BIS AL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
-PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.

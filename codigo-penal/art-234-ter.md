@@ -1,1 +1,0 @@
-Artículo 234 Ter.- (DEROGADO, P.O. 12 DE JUNIO DE 2019)

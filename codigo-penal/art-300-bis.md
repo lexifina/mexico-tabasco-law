@@ -1,3 +1,0 @@
-(ADICIONADO, P.O. 6 DE OCTUBRE DE 2012)
-Artículo 300 Bis.- A quien siendo titular, propietario o responsable de una construcción de obra, anuncio o establecimiento mercantil en estado de clausura, que explote comercialmente, realice o promueva actos de comercio, construcción o prestación de un servicio, aun cuando los sellos permanezcan sin alteración alguna, se le sancionará con la misma pena establecida en el artículo anterior.
-A quien siendo titular o propietario de una casa habitación en construcción, que quebrante los sellos de clausura, se le aplicarán de seis meses a dos años de prisión.

@@ -1,1 +1,0 @@
-Artículo 185 Bis 1.- (DEROGADO, P.O. 26 DE MARZO DE 2022)

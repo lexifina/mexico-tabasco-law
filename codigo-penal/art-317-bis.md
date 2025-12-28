@@ -1,8 +1,0 @@
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE MAYO DE 2019)
-CAPITULO VII
-PRESTACION INDEBIDA DEL SERVICIO DE TRANSPORTE PUBLICO
-(ADICIONADO, P.O. 18 DE MAYO DE 2019)
-Artículo 317 Bis.- Al que por sí o por interpósita persona, preste el servicio de transporte público de pasajeros, de carga, mixto o especializado, en cualquiera de sus modalidades, sin contar con la concesión, autorización o permiso de la autoridad competente, se le impondrá prisión de dos a seis años y multa de quinientos a mil días multa; además de las sanciones administrativas que correspondan.
-Las mismas penas se impondrán al propietario del vehículo mediante el cual se realice, contrate o permita la prestación de dicho servicio.
-Además de las penas previstas en este artículo, se le aplicarán las sanciones que corresponden a los delitos establecidos en los títulos Décimo Segundo, Capítulo II, y Décimo Tercero, ambos de la Sección Tercera del Libro Segundo de este Código, a quien para la prestación del servicio de transporte público, utilice documentos u otros elementos falsificados, alterados, dados de baja, o que correspondan a otro vehículo, relativos a concesiones, permisos o autorizaciones, simulando cromática y numeraria de unidades de transporte público.
-Si el delito es cometido o participa en su comisión el representante, socio o líder de una persona jurídica colectiva concesionaria o permisionaria del servicio de transporte público, o algún servidor público, las penas se aumentarán en una mitad a las que le correspondan por dicho delito. Además, se impondrá la revocación o cancelación de las concesiones, permisos y autorizaciones que para prestar dicho servicio hayan sido otorgados por la autoridad estatal.

@@ -1,2 +1,0 @@
-(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 185 BIS 1], P.O. 26 DE MARZO DE 2022)
-Artículo 205 novenus.- A las autoridades en general y los servidores públicos de los puntos de verificación e inspección que se le (sic) compruebe que intervinieron o participaron en las operaciones para la comisión del delito de abigeato, si no tomaron las medidas a las que estén obligadas, se les impondrá una pena de nueve a catorce años de prisión y de seiscientos a mil días multa, más la inhabilitación para desempeñar cargos públicos por el doble de la pena de prisión impuesta.

@@ -1,7 +1,0 @@
-P.O. 8 DE DICIEMBRE DE 2001.
-ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-ARTÍCULO SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-ARTÍCULO TERCERO.- Se suprime la hipótesis prevista en la fracción IV del artículo 55 de la Ley que regula la venta, distribución y consumo de bebidas alcohólicas, relativa a la venta y distribución de bebidas alcohólicas fuera de horario y se deja únicamente como delito la venta, distribución y consumo de bebidas alcohólicas en días inhábiles.
-ARTÍCULO CUARTO.- Se constituye como infracción administrativa la venta y distribución de bebidas alcohólicas fuera de los horarios autorizados.
-ARTÍCULO QUINTO.- Con excepción de la hipótesis relativa a la venta, distribución de bebidas alcohólicas fuera de horario, se mantiene la vigencia de las conductas ilícitas contenidas en los artículos 54, 55, 56 y 57 de la Ley que regula la venta, distribución y consumo de bebidas alcohólicas en virtud de que sólo aquella se despenaliza. En consecuencia, las conductas ilícitas cometidas durante la vigencia de la Ley que regula la venta, distribución y consumo de bebidas alcohólicas, se castigarán conforme a sus disposiciones, salvo que las contenidas en el presente Decreto favorezcan al o a los inculpados o que éstos manifiesten su voluntad de acogerse a las mismas.
-ARTÍCULO SEXTO.- Remítase al Ejecutivo Estatal, para su promulgación correspondiente.

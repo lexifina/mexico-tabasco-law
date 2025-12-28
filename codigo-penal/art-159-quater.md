@@ -1,1 +1,0 @@
-Artículo 159 Quater.- (DEROGADO, P.O. 6 DE OCTUBRE DE 2012)

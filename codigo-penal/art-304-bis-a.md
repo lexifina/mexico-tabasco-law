@@ -1,2 +1,0 @@
-(REFORMADO, P.O. 28 DE MARZO DE 2020)
-Artículo 304 Bis-A.- Al servidor público que autorice o permita obras o actividades que contravengan las disposiciones legales aplicables y que ocasionen o puedan ocasionar daños al ambiente, se les aplicará de dos a ocho años de prisión y de trescientos a veinte mil días multa; así como su destitución e inhabilitación hasta por un tiempo igual al que se le hubiera fijado como pena privativa de la libertad.
