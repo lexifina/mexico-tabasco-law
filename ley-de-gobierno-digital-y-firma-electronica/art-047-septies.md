@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)
+ARTÍCULO 47 SEPTIES. La Llave Tabasco será personal e intransferible. Los Sujetos obligados serán responsables de su adecuada integridad, seguridad y protección institucional, sin perjuicio de la responsabilidad del usuario sobre su uso. Para efectuar trámites y servicios ante la Ventanilla Digital Estatal bastará con que las personas usuarias ingresen la Llave Tabasco.

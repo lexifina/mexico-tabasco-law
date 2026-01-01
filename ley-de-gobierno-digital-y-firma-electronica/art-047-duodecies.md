@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)
+ARTÍCULO 47 DUODECIES. La implementación de la Ventanilla Digital Estatal, no excluye ni limita la posibilidad de la realización de trámites y servicios de manera presencial directamente ante los Sujetos obligados. No obstante, los Sujetos obligados deberán progresivamente integrar la totalidad de sus trámites y servicios a la Ventanilla Digital Estatal, con apego al principio de multicanalidad.

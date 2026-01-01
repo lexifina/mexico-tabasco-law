@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)
+ARTÍCULO 47 NOVODECIES. Los documentos electrónicos que se integren a la Ventanilla Digital Estatal, producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a estos.
+La Ventanilla Digital Estatal deberá considerar mecanismos confiables de seguridad, disponibilidad, integridad, autenticidad, confidencialidad y custodia; como controles de acceso, bitácoras electrónicas, medidas criptográficas, evaluaciones de riesgo y auditorias técnicas, con base en la legislación en materia de gobierno digital.
