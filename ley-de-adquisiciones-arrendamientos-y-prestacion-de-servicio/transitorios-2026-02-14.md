@@ -1,0 +1,5 @@
+P.O. 14 DE FEBRERO DE 2026.
+[N. DE E. TRANSITORIOS DEL DECRETO 232 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES XXIV Y XXV; 17, PÁRRAFO SEGUNDO; 25, FRACCIÓN I; 27, FRACCIONES VIII BIS, XXII Y XXIII; 32, FRACCIÓN III; 36, PÁRRAFO TERCERO. SE ADICIONAN LAS FRACCIONES XXVI, XXVII Y XXVIII Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 2; LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 22; UNA FRACCIÓN XXIV AL ARTÍCULO 27; LOS ARTÍCULOS 40 BIS Y 42 BIS; UN PÁRRAFO SEGUNDO AL ARTÍCULO 43. TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+TERCERO. En un plazo que (sic) no mayor a noventa días naturales a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco y, en su caso, a las disposiciones que resulten necesarias para el cumplimiento del presente Decreto.
