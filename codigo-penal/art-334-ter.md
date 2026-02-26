@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE JULIO DE 2020)
+Artículo 334 Ter.- Se impondrá de tres a siete años de prisión y de cuatrocientos a mil días multa a quien haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, contacte a una persona menor de dieciocho años de edad, a quien no tenga capacidad de comprender el significado del hecho o a persona que no tenga capacidad para resistirlo y le requiera imágenes, audio o video de actividades sexuales explícitas, actos de connotación sexual, o le solicite un encuentro sexual.

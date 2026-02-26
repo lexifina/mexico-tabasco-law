@@ -1,0 +1,1 @@
+Artículo 185 Ter.- (DEROGADO, P.O. 26 DE MARZO DE 2022)

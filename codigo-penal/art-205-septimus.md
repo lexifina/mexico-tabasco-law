@@ -1,0 +1,2 @@
+(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTÍCULO 185], P.O. 26 DE MARZO DE 2022)
+Artículo 205 séptimus.- Al servidor público que participe en la comisión del delito de abigeato, se le impondrá un tercio más de las penas previstas en los artículos anteriores, además de destitución e inhabilitación para desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público por el doble de la pena de prisión que se le imponga.

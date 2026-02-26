@@ -1,0 +1,1 @@
+Artículo 234 Quater.- (DEROGADO, P.O. 12 DE JUNIO DE 2019)

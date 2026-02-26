@@ -1,0 +1,4 @@
+P.O. 1 DE JUNIO DE 2011.
+DECRETO No. 092, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6 DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, salvo para la competencia en materia de narcomenudeo.
+SEGUNDO.- En materia de narcomenudeo, la entidad conocerá de éste delito a partir del 20 de agosto de 2012, en cumplimiento a lo previsto en el artículo transitorio primero, párrafo tercero, del Decreto, publicado en el Diario Oficial de la Federación del 20 de agosto de 2009, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales. Mientras tanto se realizarán las acciones necesarias a afectos (sic) de darle el debido cumplimiento.
