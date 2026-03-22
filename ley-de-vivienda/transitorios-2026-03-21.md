@@ -1,0 +1,4 @@
+P.O. 21 DE MARZO DE 2026.
+[N. DE E. TRANSITORIOS DEL DECRETO 240 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 2; LAS FRACCIONES II Y XII DEL ARTÍCULO 9; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 12; EL ARTÍCULO 49; LAS FRACCIONES IV Y V DEL ARTÍCULO 66 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 93, Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 66, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO.- Se deroga toda disposición de igual o menor jerarquía que se oponga al presente Decreto.
