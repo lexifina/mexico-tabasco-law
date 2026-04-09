@@ -17,7 +17,9 @@ IX. Delitos contra el patrimonio de las personas, previstos en el Título Décim
 X. Hostigamiento sexual, previsto en los artículos 159 Bis y 159 Bis 1, salvo cuando se trate de menores o incapaces;
 (REFORMADA, P.O. 15 DE DICIEMBRE DE 2021)
 XI. Amenazas, previsto en el artículo 161;
-(REFORMADA, P.O. 15 DE DICIEMBRE DE 2021)
-XII. Discriminación, previsto en el artículo 161 Bis, y
-(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2021)
-XIII. Delitos contra la intimidad y la imagen personal, previstos en los artículos 163 al 163 Septies.
+(REFORMADA, P.O. 8 DE ABRIL DE 2026)
+XII. Discriminación, previsto en el artículo 161 Bis;
+(REFORMADA, P.O. 8 DE ABRIL DE 2026)
+XIII. Delitos contra la intimidad y la imagen personal, previstos en los artículos 163 al 163 Septies; y
+(ADICIONADA, P.O. 8 DE ABRIL DE 2026)
+XIV. Delito de acecho previsto en el artículo 161-A y 161-B, con las excepciones previstas en su tercer párrafo.
