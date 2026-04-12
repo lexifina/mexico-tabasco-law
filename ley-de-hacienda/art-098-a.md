@@ -148,9 +148,7 @@ bbb) Pollita de 60 días (pz).0.39 UMA
 (ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)
 ccc) Cayuco: de fibra de vidrio de 5 mts. de
 dos puntas (pz).66.95 UMA
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)
-ddd) Cayuco: de fibra de vidrio de 5 mts.
-de espejo para motor (pz).83.69 UMA
+ddd) (DEROGADO, P.O. 11 DE ABRIL DE 2026)
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)
 VII. En materia de acuacultura, la comercialización de productos se realizará de la forma siguiente:
 a) Paq. de 100 alevines sin hormonar.1.00 UMA
@@ -159,6 +157,12 @@ c) Paq. de 100 crías de 2" sin hormonar.3.00 UMA
 d) Paq. de 100 crías de 2" hormonado.4.00 UMA
 e) Paq. de 100 juveniles de 4" sin hormonar.6.00 UMA
 f) Paq. de 100 juveniles de 4" hormonado.8.00 UMA
+(ADICIONADO, P.O. 11 DE ABRIL DE 2026)
+g) Cayuco: de fibra de vidrio de 4.99 metros con
+espejo para motor.102.5 UMA
+(ADICIONADO, P.O. 11 DE ABRIL DE 2026)
+h) Cayuco: de fibra de vidrio de 6 metros con
+espejo para motor.115.0 UMA
 (ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2020)
 VIII. Asesoría técnica por hora (incluye traslado).5.75 UMA
 IX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2020)

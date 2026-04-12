@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 11 DE ABRIL DE 2026)
+Artículo 62 Quaterdecies. El pago de este impuesto deberá efectuarse mediante declaración mensual, que los contribuyentes presentarán ante la Secretaría, a más tardar el día 20 del mes inmediato siguiente a aquel en que se haya realizado la extracción de materiales pétreos del suelo o subsuelo, considerándose dicho pago como definitivo por el periodo correspondiente.

@@ -25,9 +25,10 @@ alguno de los inmuebles señalados en las fracciones anteriores.
 XVI. Los estacionamientos I, II y III del Parque0.46 UMA
 Tabasco Dora María, por vehículo, cuando no se actualice
 el supuesto de la fracción X del presente artículo.
-(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2025)
-XVII. Por el uso de estacionamiento de Plaza Juárez al público en general por vehículo, cuando se actualicen los siguientes supuestos:
-a) Por pensión mensual.7.95 UMA
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ABRIL DE 2026)
+XVII. Por el uso del estacionamiento de Plaza de Armas al público en general por vehículo, cuando se actualicen los siguientes supuestos:
+(REFORMADO, P.O. 11 DE ABRIL DE 2026)
+a) Por pensión mensual.7.93 UMA
 b) Por 24 horas.3.12 UMA
 c) Por hora o fracción.0.13 UMA
 Para el caso de los derechos contemplados en las fracciones I a la XV del presente artículo, se sujetará a lo siguiente:

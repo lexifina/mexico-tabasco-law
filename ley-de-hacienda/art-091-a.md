@@ -140,30 +140,21 @@ transformación, modificación, producción de
 materias primas, fabricación, elaboración,
 producción o manufactura de bolsas y popotes
 de plástico.150.0 UMA
-XII. Por el uso de los espacios durante el evento "Convención Internacional de Sostenibilidad: Medio Ambiente y Energía", se pagarán los siguientes conceptos:
-a) Espacio de 2.15m x 4m, esquina;397.74 UMA
-b) Espacio de 2.15m x 4m, centro;309.35 UMA
-c) Espacios publicitarios físicos 1;530.32 UMA
-d) Espacios publicitarios físicos 2;777.80 UMA
-e) Espacios publicitarios físicos 3;1025.28 UMA
-f) Espacios publicitarios físicos 4;1272.76 UMA
-g) Espacios publicitarios físicos 5;1520.24 UMA
-h) Espacios publicitarios físicos 6;1767.72 UMA
-i) Espacios publicitarios físicos 7;2015.20 UMA
-j) Espacios publicitarios físicos 8;2262.68 UMA
-k) Espacios publicitarios digital 1;441.93 UMA
-l) Espacios publicitarios digital 2;636.38 UMA
-m) Espacios publicitarios digital 3;830.83 UMA
-n) Espacios publicitarios digital 4;1025.28 UMA
-o) Espacios publicitarios digital 5;1219.73 UMA
-p) Espacios publicitarios digital 6;1414.18 UMA
-q) Espacios publicitarios digital 7;1608.63 UMA
-r) Espacios publicitarios digital 8;1803.08 UMA
-XIII. Derechos por trámites en materia de aprovechamiento de recursos naturales de competencia del Estado.
-a) Por el aprovechamiento y extracción de
-recursos naturales de competencia
-estatal, material pétreo por metro cúbico.0.18 UMA
-b) Por el aprovechamiento y extracción de
-recursos naturales por competencia estatal
-como arena, arcilla, suelo o cualquier otro
-material, por metro cúbico.0.10 UMA
+(REFORMADA, P.O. 11 DE ABRIL DE 2026)
+XII. Por el uso de los espacios durante el evento "Convención Internacional de Sostenibilidad: Energía y Medio Ambiente", se pagarán los siguientes conceptos:
+a) Espacio de 3m x 3m en zona comercial:
+(a) Apartado;153.44 UMA
+(b) Abono;153.44 UMA
+(c) Finiquito;153.44 UMA
+(d) Pago anticipado (pago total).298.36 UMA
+b) Espacio de 3m x 3m, zona gastronómica;221.65 UMA
+c) Gafete expositor por día;6.82 UMA
+d) Gafete estudiante/docente por día;2.13 UMA
+e) Acceso general por día;8.53 UMA
+Corresponde a la Secretaría de Medio Ambiente y Desarrollo Sostenible expedir los lineamientos o reglas de operación, con los requisitos y mecánica operativa del evento "Convención Internacional de Sostenibilidad: Energía y Medio Ambiente".
+(REFORMADA, P.O. 11 DE ABRIL DE 2026)
+XIII. Por los servicios prestados por el Vivero Forestal "El Dorado" en materia de desarrollo forestal, se causarán y pagarán los siguientes derechos:
+a) Plantas frutales.0.2216 UMA
+b) Plantas maderables.0.0579 UMA
+c) Plantas ornamentales.0.2557 UMA
+d) Plantas medicinales.0.1704 UMA
