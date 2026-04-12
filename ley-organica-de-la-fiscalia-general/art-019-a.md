@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 11 DE ABRIL DE 2026)
+ARTÍCULO 19 A. El Centro de Justicia para las Mujeres en el Estado de Tabasco.
+El Centro de Justicia para las Mujeres en el Estado de Tabasco es la unidad administrativa de la Fiscalía General del Estado encargada de brindar atención integral, especializada, multidisciplinaria e interinstitucional a mujeres víctimas de violencias, así como a sus hijas e hijos, con el objeto de garantizar el acceso a la justicia, la protección de sus derechos humanos y su empoderamiento.
+La organización, estructura, funcionamiento y mecanismos de coordinación interinstitucional del Centro de Justicia para las Mujeres en el Estado de Tabasco se establecerán en el Reglamento Interior de la Fiscalía General del Estado y demás instrumentos jurídicos y administrativos correspondientes.
