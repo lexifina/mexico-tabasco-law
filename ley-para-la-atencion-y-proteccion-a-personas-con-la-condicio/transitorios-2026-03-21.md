@@ -1,0 +1,5 @@
+P.O. 21 DE MARZO DE 2026.
+[N. DE E. TRANSITORIOS DEL DECRETO 242 POR EL QUE SE REFORMAN: EL PRIMER PÁRRAFO Y LAS FRACCIONES XII, XIV, XX Y XXI DEL ARTÍCULO 9; LAS FRACCIONES IV Y V, DEL ARTICULO 12; LAS FRACCIONES IV, V, VIII Y IX DEL ARTÍCULO 15; Y SE ADICIONAN LAS FRACCIONES I BIS, I TER, XI BIS, XI TER AL ARTÍCULO 2; LAS FRACCIONES VIII BIS Y XXII AL ARTÍCULO 9, Y LAS FRACCIONES IV BIS Y IV TER AL ARTÍCULO 13, TODOS DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TABASCO".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado de Tabasco.
+ARTÍCULO SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+ARTÍCULO TERCERO.- La persona titular del Poder Ejecutivo del Estado, dentro del plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá expedir las disposiciones reglamentarias correspondientes, así como establecer la fecha a partir de la cual comenzará a implementarse el Registro y las demás acciones a que se refiere el presente Decreto.
