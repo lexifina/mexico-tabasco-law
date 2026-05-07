@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE MAYO DE 2026)
+Artículo 188 bis.- Las penas a que se refiere el artículo 187, más una mitad más, se aplicarán a la persona que habiendo recibido dinero, títulos o valores para ser resguardados o administrados a favor de una persona adulta mayor, los distraiga para sí o no los destine en todo o en parte al objeto para el cual fueron puestos a su disposición o disponga de ellos en provecho propio o de tercero. En estos casos, el delito se perseguirá de oficio. Si además, resulta delito diverso, se estará a las reglas del concurso de delitos.
