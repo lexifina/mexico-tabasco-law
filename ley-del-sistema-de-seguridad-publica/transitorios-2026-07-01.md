@@ -1,0 +1,7 @@
+P.O. 1 DE JULIO DE 2026.
+[N. DE E. TRANSITORIOS DEL DECRETO 276 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN V; 18, FRACCIÓN V; 30, FRACCIÓN VI; 37, FRACCIÓN IV; 38, FRACCIÓN I; 39, FRACCIÓN XII; 46, PÁRRAFO PRIMERO Y LA FRACCIÓN I; 47; 48; 71, PÁRRAFO PRIMERO; 75, FRACCIÓN III; 122, FRACCIÓN II; 125, FRACCIÓN III Y SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 2. TODOS, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO.- Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
+TERCERO.- En un plazo no mayor a ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones normativas necesarias para dar cumplimiento a lo dispuesto en el mismo.
+CUARTO.- En tanto se realicen las adecuaciones conducentes, todas las referencias hechas a la Policía Estatal, órgano desconcentrado de la Secretaría de Seguridad y Protección Ciudadana, se entenderán como Guardia Estatal.
+QUINTO.- La Unidad de Apoyo Jurídico u homólogo de la Guardia Estatal, se ajustará a las disposiciones establecidas por la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y el Reglamento Interior de la Secretaría de Seguridad y Protección Ciudadana, por lo que la Guardia Estatal deberá realizar las gestiones conducentes ante las Secretarías competentes para efecto de llevar a cabo las transferencias de plazas.
