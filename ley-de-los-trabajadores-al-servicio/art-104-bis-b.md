@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)
-ARTICULO 104 BIS-B.- El Procurador de la Defensa de los Trabajadores al Servicio del Estado, será nombrado por el Gobernador del Estado, a propuesta mediante terna, del Secretario de Gobierno. Los Procuradores Auxiliares serán designados por el Secretario de Gobierno.
+(REFORMADO, P.O. 1 DE JULIO DE 2026)
+ARTICULO 104 BIS-B.- El Procurador o Procuradora de la Defensa de los Trabajadores al Servicio del Estado, será nombrado o nombrada por el Gobernador o Gobernadora del Estado, a propuesta mediante terna, del Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado. Los Procuradores y Procuradoras Auxiliares serán designados por el Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado.
