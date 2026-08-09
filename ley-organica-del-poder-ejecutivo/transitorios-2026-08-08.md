@@ -1,0 +1,6 @@
+P.O. 8 DE AGOSTO DE 2026.
+[N. DE E. TRANSITORIOS DEL DECRETO 280 POR EL QUE "SE ADICIONA LA FRACCIÓN XXXIV BIS Y SE REFORMA LA FRACCIÓN XXXV DEL ARTÍCULO 28 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+TERCERO.- El Ejecutivo del Estado, por conducto de las autoridades competentes, deberá expedir o adecuar las disposiciones reglamentarias necesarias para la debida aplicación del presente Decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+CUARTO.- Las personas físicas y jurídicas que realicen actividades de producción, acopio, transporte, comercialización o movilización de productos plataneros contarán con un plazo de noventa días naturales, contados a partir de la entrada en vigor de las disposiciones reglamentarias a que se refiere el artículo transitorio tercero del presente Decreto, para adecuar sus procedimientos y cumplir con las obligaciones previstas en el mismo.
