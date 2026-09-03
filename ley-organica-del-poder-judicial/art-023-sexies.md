@@ -1,10 +1,26 @@
 (ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
 Artículo 23 Sexies. La persona titular de la Unidad de Servicios Psicológicos tendrá las obligaciones y facultades siguientes:
-I. Elaborar con el apoyo de la Dirección Jurídica un manual de operaciones que deberá mantener actualizado, a fin de unificar los criterios y procedimientos a seguir en los asuntos de su competencia; someterlo a la consideración del Pleno del Tribunal Superior de Justicia, para su aprobación y vigilar su estricto cumplimiento;
-II. Dirigir, coordinar y representar a la unidad a su cargo;
-III. Auxiliar en el ámbito de su competencia, cuando le sea requerido, a los Plenos del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Órgano de Administración Judicial, así como a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia;
-IV. Coordinar y distribuir equitativamente con el personal a su cargo, las evaluaciones psicológicas y asistencia especializada en materia familiar, civil o penal, que le sean solicitadas por las y los jueces;
-V. Remitir a quien corresponda, los dictámenes periciales elaborados por los especialistas del área, para lo cual deberá vigilar que los mismos se realicen con apego a las normas relativas a la prueba pericial, según el ordenamiento del ramo, usando un lenguaje comprensible para quienes no tengan conocimientos técnicos;
-VI. Mantener una eficiente organización y sigilo de los archivos que se lleven en la unidad;
-VII. Vigilar que en la elaboración de dictámenes periciales en donde intervienen niñas, niños y adolescentes, se utilicen las técnicas adecuadas para salvaguardar el interés superior de la infancia y se cumplan los lineamientos establecidos en los tratados; y
-VIII. Las demás que le atribuya la normatividad aplicable, la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia o su Pleno.
+(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)
+I. Dirigir, coordinar, administrar y representar a la Unidad de Servicios Psicológicos a su cargo;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2026)
+II. Supervisar de manera constante que la aplicación de valoraciones psicológicas, peritajes y procesos terapéuticos se brinden de manera eficiente, oportuna y con altos estándares de calidad;
+(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)
+III. Elaborar, en colaboración con la Coordinación de Planeación, el manual de operaciones de la Unidad, manteniéndolo actualizado a fin de unificar criterios y procedimientos; someterlo a la consideración del Pleno del Órgano de Administración para su aprobación y vigilar su estricto cumplimiento;
+(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)
+IV. Coordinar y distribuir equitativamente entre el personal adscrito, las valoraciones, asistencias especializadas, peritajes y requerimientos ordenados por las autoridades jurisdiccionales y áreas competentes;
+(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)
+V. Revisar y remitir a la autoridad correspondiente los dictámenes periciales e informes emitidos por los especialistas de la Unidad, vigilando que se realicen con apego a las normas aplicables, bajo un lenguaje comprensible para quienes no tengan conocimientos técnicos;
+(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)
+VI. Garantizar el uso de técnicas que salvaguarden el interés superior de la infancia en casos donde intervengan niñas, niños y adolescentes;
+(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2026)
+VII. Auxiliar en el ámbito de su competencia, a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia, así como a los Plenos del Poder Judicial;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2026)
+VIII. Brindar y gestionar las condiciones necesarias y adecuadas, para garantizar entornos de prevención y seguridad en la prestación de los servicios de la Unidad;
+(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)
+IX. Colaborar en los procesos de revinculación filial y convivencias, que le soliciten las autoridades jurisdiccionales y áreas competentes;
+(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2026)
+X. Mantener una eficiente organización, control, sigilo y confidencialidad de los archivos, expedientes e información técnica derivados de las intervenciones de la Unidad;
+(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2026)
+XI. Promover, diseñar e impulsar acciones de capacitación, actualización y desarrollo dirigidas al fortalecimiento del personal y de los servicios de la Unidad; y
+(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2026)
+XII. Las demás que le atribuya la normatividad aplicable, la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia, así como los Plenos del Poder Judicial.

@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
-Artículo 259 Sexies. En caso de que el Tribunal de Disciplina Judicial tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en esta Ley, admitirán dicho recurso y darán vista al probable infractor para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.
+(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2026)
+Artículo 259 Sexies. En caso de que el Tribunal de Disciplina Judicial tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en esta Ley, admitirán dicho recurso y darán vista al presunto responsable para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.

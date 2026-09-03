@@ -1,3 +1,13 @@
-(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)
-Artículo 160 Quater. La persona titular del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial del Estado será designada por el Pleno del Órgano de Administración Judicial.
-La estructura, organización y funcionamiento del centro de acceso a la justicia alternativa se regirá por un reglamento interior, aprobado por el Pleno del Órgano de Administración Judicial. Dicho reglamento cumplirá con las disposiciones previstas en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, la Ley General de Mecanismos Alternativos de Solución de Controversias, la Ley de Acceso a la Justicia Alternativa para el estado de Tabasco en lo que corresponda a la materia civil, familiar y mercantil y demás ordenamientos aplicables.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2026)
+Artículo 160 Quáter. El Consejo Académico tendrá las facultades siguientes:
+I. Opinar sobre los planes y programas de estudio que imparta la Universidad Judicial;
+II. Emitir recomendaciones para el fortalecimiento de la calidad académica y la actualización permanente de los programas educativos;
+III. Proponer líneas de investigación jurídica, judicial, interdisciplinaria y de innovación institucional;
+IV. Opinar sobre la creación, modificación o supresión de programas académicos;
+V. Evaluar el desarrollo y desempeño de las actividades académicas y de investigación de la Universidad Judicial;
+VI. Promover mecanismos de vinculación académica con instituciones educativas, organismos públicos y centros de investigación nacionales e internacionales;
+VII. Opinar sobre los criterios para la certificación, evaluación y profesionalización de las personas servidoras públicas judiciales;
+VIII. Impulsar la publicación de obras jurídicas, investigaciones, revistas, estudios y materiales académicos especializados;
+IX. Proponer estrategias para el fortalecimiento de la educación digital, híbrida y a distancia;
+X. Emitir opiniones técnicas sobre los asuntos académicos que le sean sometidos por el Rector o Rectora o por el Pleno del Órgano de Administración Judicial; y
+XI. Las demás que establezcan esta Ley, el Reglamento Interior del Poder Judicial, el Reglamento Interior de la Universidad Judicial y demás disposiciones aplicables.
