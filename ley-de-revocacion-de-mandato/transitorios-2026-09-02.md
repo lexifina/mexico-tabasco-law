@@ -1,0 +1,5 @@
+P.O. 2 DE SEPTIEMBRE DE 2026.
+[N. DE E. TRANSITORIOS DEL DECRETO 285 POR EL QUE "SE REFORMA EL ARTÍCULO 40, PÁRRAFO SEGUNDO, DE LA LEY DE REVOCACIÓN DE MANDATO DEL ESTADO DE TABASCO".]
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO. El Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco podrá emitir los acuerdos que estime necesarios para la organización, integración de la estructura, desarrollo, cómputo, vigilancia y fiscalización del proceso electoral del año 2028, garantizando el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales estatales observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las y los representantes de los partidos políticos ante el Consejo Estatal no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
