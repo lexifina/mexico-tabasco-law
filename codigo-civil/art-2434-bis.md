@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2026)
+ARTICULO 2434 Bis.- Actos jurídicos simulados o procedimientos jurisdiccionales colusorios en perjuicio de acreedores alimentarios
+Los actos jurídicos simulados, así como los procedimientos jurisdiccionales promovidos de manera colusoria, celebrados con el propósito de ocultar, disminuir o comprometer el patrimonio del deudor alimentario para eludir el cumplimiento de obligaciones alimentarias, serán inoponibles frente a las personas acreedoras alimentarias, previa declaración de la autoridad jurisdiccional competente, conforme a las disposiciones legales aplicables.
