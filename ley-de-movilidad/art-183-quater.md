@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)
+Artículo 183 Quáter.- El título de concesión se otorgará por un plazo máximo inicial de hasta treinta años, prorrogable por un periodo equivalente al autorizado, a solicitud del concesionario, siempre que subsistan las causas de interés público que le dieron origen a la concesión y se cumplan los siguientes requisitos:
+I. Cumplir con las obligaciones derivadas del título de concesión;
+II. Requerir la amortización de inversiones adicionales justificadas y autorizadas por la SOTOP, no previstas en el modelo financiero original; y
+III. Acreditar retrasos sustanciales en la ejecución de la obra o el inicio de la operación por causas no imputables al concesionario, como el proceso de liberación de los derechos de vía.
+La SOTOP contestará en definitiva la solicitud de prórroga a que se refiere el párrafo anterior, dentro de un plazo de sesenta días naturales contados a partir de la fecha de presentación de la misma, y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento y las demás proyecciones financieras y operativas que consideren la rentabilidad de la concesión.

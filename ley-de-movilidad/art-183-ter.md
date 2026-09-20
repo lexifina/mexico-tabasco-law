@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)
+Artículo 183 Ter.- Para otorgar las concesiones la SOTOP se sujetará al concurso público en los términos siguientes:
+I. En un plazo máximo de 90 días hábiles, de oficio o a petición de parte, la SOTOP expedirá convocatoria pública, para la presentación de proposiciones en sobre cerrado, las cuales se abrirán en la fecha programada ante los interesados o notificará los motivos de la improcedencia;
+II. Publicar la convocatoria en el Periódico Oficial del Estado y, en su caso, en la plataforma que para tal efecto se determine;
+III. Las bases del concurso deben incluir, como mínimo, las características técnicas del proyecto o de la construcción de la vía, el plazo de la concesión y los requisitos de calidad de obra y operación. Los criterios de adjudicación considerarán principalmente los precios y tarifas para el usuario, el proyecto técnico y las contraprestaciones ofrecidas por el otorgamiento de la concesión;
+IV. Podrán participar los interesados que demuestren solvencia económica, capacidad técnica, administrativa y financiera, y cumplan con los requisitos de las bases correspondientes;
+V. Desde la apertura de propuestas y durante su estudio y homologación, se informará a los interesados sobre las que se desechen y las causas de tal determinación;
+VI. Emitir el fallo debidamente fundado y motivado con base en el análisis comparativo de las propuestas admitidas, y notificarlo a todos los participantes. La propuesta ganadora estará a disposición de los licitantes durante 10 días hábiles a partir de la notificación del fallo, para que manifiesten lo que a su derecho convenga; y
+VII. Se declarará desierto el concurso y se expedirá una nueva convocatoria cuando ninguna propuesta cumpla con las bases o por caso fortuito o fuerza mayor.

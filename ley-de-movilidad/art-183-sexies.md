@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)
+Artículo 183 Sexies.- El Ejecutivo del Estado, por conducto de la SOTOP, cuando concurran circunstancias de utilidad o interés público, beneficio social o seguridad podrá otorgar concesiones a la JEC o a Entidades Paraestatales del Gobierno del Estado para construir, operar, explotar, conservar y mantener la infraestructura vial estratégica, sin que deban sujetarse al concurso público previsto en el artículo 183 Ter de la presente Ley.
+La JEC o Entidades Paraestatales, previa aprobación de la SOTOP, podrán contratar con terceros la construcción, operación, explotación, conservación y mantenimiento de la infraestructura vial estratégica, quiénes deberán sujetarse al concurso público previsto en el numeral antes indicado.
+La JEC y las Entidades Paraestatales deberán cumplir con los criterios de sustentabilidad ambiental, como el uso de materiales reciclados, el aprovechamiento de energías renovables y la adopción de medidas de mitigación e infraestructura verde que protejan el medio ambiente y el equilibrio ecológico, observando las disposiciones normativas aplicables en materia de protección al medio ambiente y sustentabilidad. Asimismo, se sujetarán a las mismas obligaciones técnicas de construcción, operación, explotación, conservación y mantenimiento que esta Ley y el título de concesión respectivo imponen a los concesionarios.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2026)
+CAPÍTULO III
+De los requisitos, prórrogas y terminación de las Concesiones

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)
+Artículo 183 Dúodecies.- Es de utilidad pública la construcción, mantenimiento, conservación y explotación de la infraestructura vial estratégica. La SOTOP, por sí o a petición de los interesados, efectuará la compraventa o promoverá la expropiación de los terrenos, construcciones y bancos de material necesarios para tal fin. La compraventa o expropiación se llevará a cabo conforme a la legislación aplicable.

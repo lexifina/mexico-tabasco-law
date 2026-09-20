@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2026)
+Artículo 183 Bis.- La construcción, operación, explotación, conservación y mantenimiento de la infraestructura vial estratégica requiere concesión del Poder Ejecutivo a través de la SOTOP y se sujetarán a lo dispuesto en este Título, sus reglamentos y las condiciones de la concesión respectiva.
+Las concesiones se otorgarán a personas físicas o jurídicas colectivas, públicas o privadas, que acrediten la nacionalidad mexicana, mediante el procedimiento de concurso señalado en este Título.
+Para el ejercicio de las atribuciones reguladas en el presente Título, la SOTOP se auxiliará de la JEC, en su carácter de organismo técnico especializado del sector.
+Para otorgar la concesión, la SOTOP incluirá en los requisitos del concurso público y en los títulos de concesión respectivos la obligación de cumplir con criterios de sustentabilidad ambiental, como el uso de materiales reciclados, el aprovechamiento de energías renovables y la adopción de medidas de mitigación e infraestructura verde que protejan el medio ambiente y el equilibrio ecológico.
