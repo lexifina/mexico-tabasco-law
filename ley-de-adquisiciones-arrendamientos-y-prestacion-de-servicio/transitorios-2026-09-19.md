@@ -1,0 +1,6 @@
+P.O. 19 DE SEPTIEMBRE DE 2026.
+[N. DE E. TRANSITORIOS DEL DECRETO 289 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2; 20, PÁRRAFOS PRIMERO Y TERCERO; Y 34, PÁRRAFOS TERCERO Y CUARTO; Y SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 20; EL ARTÍCULO 21 BIS; Y UN PÁRRAFO QUINTO AL ARTÍCULO 34. TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente Decreto.
+TERCERO.- En un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco y, en su caso, a las disposiciones que resulten aplicables.
+CUARTO.- La Secretaría de Administración y Finanzas, en un plazo no mayor a 15 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar la difusión de la lista de bienes y servicios a consolidar para el siguiente ejercicio fiscal, en términos de lo dispuesto en el artículo 20, párrafo quinto del presente ordenamiento.
