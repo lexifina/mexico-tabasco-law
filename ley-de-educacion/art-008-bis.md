@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2026)
+Artículo 8 Bis La educación que impartan el Estado, los municipios, los organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, será inclusiva, con perspectiva de género y de derechos humanos, eliminando toda forma de discriminación, exclusión y violencias, así como las demás condiciones estructurales que puedan implicar barreras para el aprendizaje y la participación, por lo que:
+a) Atenderá las capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de los educandos;
+b) Eliminará las distintas barreras al aprendizaje y a la participación que enfrentan cada uno de los educandos, para lo cual las autoridades educativas, en el ámbito de su competencia, adoptarán medidas en favor de la accesibilidad y los ajustes razonables;
+c) Proveerá de los recursos técnicos-pedagógicos y materiales necesarios para los servicios educativos, y
+d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias, a partir de la decisión y previa valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, por una condición de salud.
