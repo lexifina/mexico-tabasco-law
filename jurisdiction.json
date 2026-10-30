@@ -1,0 +1,11 @@
+{
+  "path": "mx-tab",
+  "code": "MX-TAB",
+  "name": "Tabasco",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-tabasco-law",
+  "build": "built: constitution, codes and laws (121 ordenamientos, 792 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}

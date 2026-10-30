@@ -1,0 +1,634 @@
+day,kind,law,acts,files,branch
+1919-04-05,start,constitucion-1919-04-05-edicion-oficial,constitucion-politica,157,main
+1921-05-25,law,decreto-1921-05-25-edicion-oficial,constitucion-politica,8,main
+1923-05-31,law,decreto-1923-05-28-edicion-oficial,constitucion-politica,8,main
+1925-11-28,law,decreto-1925-11-25-164,constitucion-politica,2,main
+1928-11-27,law,decreto-1928-11-24-439,constitucion-politica,3,main
+1928-12-01,law,decreto-1928-11-28-440,constitucion-politica,2,main
+1930-12-20,law,decreto-1930-12-17-617,constitucion-politica,6,main
+1938-03-31,law,decreto-1938-03-28-210,constitucion-politica,5,main
+1938-09-27,law,decreto-1938-09-24-236,constitucion-politica,2,main
+1941-05-09,law,decreto-1941-05-06-378,constitucion-politica,2,main
+1942-12-05,law,decreto-1942-12-05-470,constitucion-politica,3,main
+1943-10-12,law,decreto-1943-10-09-516,constitucion-politica,2,main
+1943-11-23,law,decreto-1943-11-20-522,constitucion-politica,7,main
+1944-09-16,law,decreto-1944-06-03-550,constitucion-politica,3,main
+1946-09-16,law,decreto-1946-05-04-650,constitucion-politica,82,main
+1947-07-27,start,ley-1947-07-26-714,ley-de-arrendamiento-de-fincas-urbanas,31,main
+1948-06-01,start,ley-1948-05-29-759-suplemento,ley-de-expropiacion,41,main
+1952-05-31,law,decreto-1952-05-31-suplemento-al-no-1011,constitucion-politica,2,main
+1954-08-11,law,decreto-1954-08-11-1240,constitucion-politica,2,main
+1956-11-10,start,ley-1956-11-07-1475-suplemento,ley-del-servicio-civil,95,main
+1959-01-07,law,decreto-1959-01-07-1701-suplemento,ley-de-expropiacion,6,main
+1960-06-04,law,decreto-1960-06-01-1847,constitucion-politica,4,main
+1961-05-13,start,ley-1961-05-13-1946-suplemento,ley-de-cooperacion-para-obras-publicas-municipales,41,main
+1961-05-20,law,decreto-1961-05-17-1947,constitucion-politica,3,main
+1963-01-02,start,ley-1963-01-02-suplemento-al-numero-2117,ley-de-la-campana-contra-las-enfermedades-y-plagas-del-plata,22,main
+1964-07-11,law,decreto-1964-07-08-2275,constitucion-politica,2,main
+1966-02-01,law,decreto-1966-01-29-suplemento-al-no-2438,constitucion-politica,4,main
+1967-02-28,start,ley-1967-02-25-suplemento-al-numero-2550,ley-reglamentaria-de-los-articulos-4-y-5-de-la-constitucion,70,main
+1968-02-17,law,decreto-1968-02-17-2652,constitucion-politica,2,main
+1968-12-25,law,decreto-1968-12-25-2741,ley-reglamentaria-de-los-articulos-4-y-5-de-la-constitucion,3,main
+1969-07-22,law,decreto-1969-07-19-2800,constitucion-politica,3,main
+1969-08-30,law,decreto-1969-08-27-2811,constitucion-politica,2,main
+1970-03-31,law,decreto-1970-03-28-2872,constitucion-politica,2,main
+1971-01-02,start,ley-1970-12-30-2951,ley-de-los-servicios-publicos,9,main
+1971-01-02,law,decreto-1970-12-30-2951,constitucion-politica,89,main
+1971-04-28,law,decreto-1971-04-28-2985,constitucion-politica,3,main
+1971-06-19,law,decreto-1971-06-16-2999,constitucion-politica,10,main
+1971-12-25,law,decreto-1971-12-22-suplemento-al-no-3053,constitucion-politica,2,main
+1972-06-06,law,decreto-1972-06-03-3100,constitucion-politica,2,main
+1974-07-07,law,decreto-1974-07-06-suplemento-al-numero-3318,ley-reglamentaria-de-los-articulos-4-y-5-de-la-constitucion,3,main
+1975-04-05,law,decreto-1975-04-02-3395-suplemento,constitucion-politica,154,main
+1977-10-25,law,decreto-1977-10-22-3662,constitucion-politica,13,main
+1978-05-06,law,decreto-1978-05-03-suplemento-al-no-3717,constitucion-politica,8,main
+1979-03-13,law,decreto-1979-03-10-3806,constitucion-politica,2,main
+1980-02-17,law,decreto-1980-02-16-suplemento-al-no-3905,constitucion-politica,5,main
+1982-02-28,law,decreto-1982-02-27-4108,constitucion-politica,7,main
+1982-12-11,law,decreto-1982-12-08-4199,constitucion-politica,5,main
+1983-01-02,law,decreto-1983-01-01-4206,constitucion-politica,5,main
+1983-04-10,law,decreto-1983-04-09-suplemento-al-no-4234,constitucion-politica,6,main
+1983-06-12,law,decreto-1983-06-11-4252,constitucion-politica,15,main
+1983-07-14,start,ley-1983-07-13-4261,ley-de-planeacion,64,main
+1983-07-14,start,ley-1983-07-13-4261,ley-de-responsabilidad-administrativa-de-los-servidores-publ,92,main
+1983-07-16,start,ley-1983-07-13-4261,ley-organica-y-de-procedimientos-del-consejo-tutelar-para-me,2,main
+1983-07-28,law,decreto-1983-07-13-4261,constitucion-politica,7,main
+1983-12-03,law,decreto-1983-11-30-4301,constitucion-politica,4,main
+1983-12-03,law,decreto-1983-11-30-4301-2,constitucion-politica,2,main
+1983-12-03,law,decreto-1983-11-30-4301-3,constitucion-politica,2,main
+1983-12-29,law,decreto-1983-12-28-4309,constitucion-politica,7,main
+1983-12-29,law,decreto-1983-12-28-4309-2,constitucion-politica,4,main
+1984-08-04,start,ley-1984-08-01-4371,ley-general-de-seguridad-publica-y-transito,55,main
+1984-11-10,start,ley-1984-11-10-suplemento-al-4400,ley-que-crea-el-instituto-de-cultura-de-tabasco,24,main
+1986-12-30,start,ley-1986-12-27-4622,ley-del-sistema-estatal-de-asistencia-social,59,main
+1987-08-27,law,decreto-1987-08-26-4691,constitucion-politica,7,main
+1987-12-22,start,ley-1987-12-19-4724-seccion-e,ley-organica-de-la-universidad-juarez-autonoma-de-tabasco,56,main
+1989-02-13,law,decreto-1989-01-14-suplemento-al-4836,ley-general-de-seguridad-publica-y-transito,34,main
+1990-04-05,start,ley-1990-03-31-4962,ley-de-los-trabajadores-al-servicio,138,main
+1991-01-13,law,decreto-1991-01-12-5044,constitucion-politica,5,main
+1992-01-26,law,decreto-1992-01-25-5152-suplemento,constitucion-politica,2,main
+1992-11-08,law,decreto-1992-11-07-5234,constitucion-politica,2,main
+1993-01-02,start,ley-1992-12-30-5249-suplemento,ley-de-coordinacion-fiscal-y-financiera,22,main
+1993-01-02,start,ley-1992-12-30-5249-suplemento,ley-de-hacienda-municipal,164,main
+1993-01-24,start,ley-1993-01-23-5256-suplemento,ley-de-catastro,84,main
+1993-03-17,law,decreto-1993-03-17-5271,ley-de-hacienda-municipal,4,main
+1993-05-09,law,decreto-1993-05-08-5286,ley-de-responsabilidad-administrativa-de-los-servidores-publ,14,main
+1993-10-10,start,codigo-1993-09-25-5327,codigo-fiscal,196,main
+1994-01-01,law,decreto-1994-01-01-suplemento-al-5355,constitucion-politica,9,main
+1994-04-02,law,decreto-1994-03-30-5380,constitucion-politica,6,main
+1995-01-12,law,decreto-1995-01-11-suplemento-al-5462,constitucion-politica,5,main
+1995-12-31,law,decreto-1995-12-30-5563,ley-de-hacienda-municipal,8,main
+1996-02-15,start,ley-1996-02-14-5576,ley-que-crea-el-instituto-tecnologico-superior-de-comalcalco,25,main
+1996-11-24,start,ley-1996-11-23-5657,ley-que-crea-el-instituto-tecnologico-superior-de-los-rios,28,main
+1996-12-22,law,decreto-1996-12-21-suplemento-al-5665,constitucion-politica,4,main
+1996-12-22,law,decreto-1996-12-21-suplemento-al-5665-2,constitucion-politica,20,main
+1996-12-29,law,decreto-1996-12-28-5667,ley-de-hacienda-municipal,21,main
+1997-02-08,start,codigo-1997-02-05-suplemento-al-5678,codigo-penal,367,main
+1997-03-13,start,ley-1997-02-26-5684,ley-de-educacion,155,main
+1997-03-22,law,decreto-1997-03-19-suplemento-b-al-no-5690,constitucion-politica,5,main
+1997-04-12,start,codigo-1997-04-09-suplemento-al-5696,codigo-civil,3281,main
+1997-04-15,start,codigo-1997-04-12-suplemento-al-5697,codigo-de-procedimientos-civiles,764,main
+1997-04-29,law,decreto-1997-04-26-suplemento-al-5701,constitucion-politica,2,main
+1998-02-22,law,decreto-1998-02-21-suplemento-al-5787,codigo-penal,10,main
+1998-08-06,law,decreto-1998-08-05-suplemento-al-5834,constitucion-politica,16,main
+1998-08-09,law,decreto-1998-08-08-5835-suplemento-b,ley-de-planeacion,4,main
+1998-11-19,start,ley-1998-11-18-5864,ley-organica-del-colegio-de-bachilleres-de-tabasco,51,main
+1998-12-20,law,decreto-1998-12-19-5873,ley-de-hacienda-municipal,20,main
+1999-02-04,law,decreto-1999-02-03-5886,codigo-fiscal,37,main
+1999-05-30,start,ley-1999-05-15-5915,ley-para-la-prevencion-y-tratamiento-de-la-violencia-intrafa,45,main
+1999-06-17,law,decreto-1999-06-16-5924,ley-del-sistema-estatal-de-asistencia-social ley-que-crea-el-instituto-de-cultura-de-tabasco,22,main
+1999-06-17,law,decreto-1999-06-16-5924-suplemento-b,ley-de-planeacion,3,main
+1999-10-28,law,decreto-1999-10-27-5962-suplemento,ley-organica-y-de-procedimientos-del-consejo-tutelar-para-me,2,main
+2000-09-28,start,ley-2000-09-27-6058-suplemento,ley-de-fomento-para-la-investigacion-cientifica-y-desarrollo,50,main
+2000-09-28,law,decreto-2000-09-27-6058-suplemento,ley-de-hacienda-municipal,2,main
+2000-11-19,law,decreto-2000-11-18-6073-suplemento-b,ley-de-catastro,54,main
+2000-11-21,law,decreto-2000-11-18-6073-suplemento-b,codigo-penal,4,main
+2000-11-30,law,decreto-2000-11-29-suplemento-al-6076,constitucion-politica,12,main
+2000-12-10,law,decreto-2000-12-09-6079-suplemento-b,ley-de-los-trabajadores-al-servicio,5,main
+2000-12-30,law,decreto-2000-12-30-suplemento-b-al-6085,constitucion-politica,2,main
+2000-12-31,law,decreto-2000-12-30-6085-suplemento,codigo-fiscal,4,main
+2001-07-26,law,decreto-2001-07-25-6144,constitucion-politica,5,main
+2001-07-26,law,decreto-2001-07-25-6144-2,constitucion-politica,7,main
+2001-11-17,law,decreto-2001-11-14-6176-suplemento,constitucion-politica,8,main
+2001-12-09,law,decreto-2001-12-08-6183-suplemento-b,codigo-penal,5,main
+2001-12-22,start,ley-2001-12-21-004-extraordinario,ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-al,55,main
+2001-12-23,start,ley-2001-12-22-6187-suplemento-c,ley-del-instituto-estatal-de-las-mujeres,31,main
+2002-03-05,law,decreto-2002-03-04-7-extraordinario,ley-de-responsabilidad-administrativa-de-los-servidores-publ,19,main
+2002-03-24,start,ley-2002-03-23-6213-suplemento-b,ley-de-la-comision-estatal-de-conciliacion-y-arbitraje-medic,51,main
+2002-10-10,law,decreto-2002-10-09-suplemento-al-6270,constitucion-politica,6,main
+2002-11-28,law,decreto-2002-11-27-suplemento-6284,constitucion-politica,27,main
+2002-11-29,start,ley-2002-11-29-10-extraordinario,ley-organica-del-tribunal-electoral,76,main
+2002-12-09,law,decreto-2002-11-09-6279-suplemento,codigo-penal,15,main
+2002-12-23,law,decreto-2002-11-23-6283-suplemento,codigo-penal,6,main
+2003-03-30,start,ley-2003-03-29-6319-suplemento-b,ley-reglamentaria-de-la-fraccion-iv-del-articulo-7-de-la-con,29,main
+2003-05-17,start,ley-2003-05-17-6333-suplemento-b,ley-para-la-proteccion-de-las-personas-adultas-mayores-en-el,60,main
+2003-06-17,law,decreto-2003-05-03-6329-suplemento-c,codigo-civil codigo-penal,26,main
+2003-10-09,law,decreto-2003-10-08-6374-suplemento-c,codigo-civil,4,main
+2003-10-16,law,codigo-2003-10-15-6376-suplemento-b,codigo-de-procedimientos-civiles,25,main
+2003-12-02,law,decreto-2003-11-29-6389-suplemento,ley-de-coordinacion-fiscal-y-financiera,5,main
+2003-12-15,law,decreto-2003-11-15-suplemento-c-al-6385,constitucion-politica,14,main
+2004-01-02,start,ley-2003-12-03-6390-suplemento-c,ley-organica-de-los-municipios,269,main
+2004-01-19,start,ley-2003-12-20-6395-suplemento-c,ley-del-notariado,152,main
+2004-04-27,law,decreto-2004-04-24-suplemento-b-al-6431,constitucion-politica,4,main
+2004-06-06,start,ley-2004-04-07-6426-suplemento,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,97,main
+2005-02-27,start,ley-2004-12-29-6502-suplemento-j,ley-de-la-responsabilidad-civil-por-dano-y-deterioro-ambient,26,main
+2005-02-27,law,decreto-2005-02-26-suplemento-6519-d,ley-de-los-trabajadores-al-servicio,3,main
+2005-04-03,start,ley-2005-04-02-suplemento-6529-c,ley-que-garantiza-la-entrega-de-utiles-escolares-en-el-estad,10,main
+2005-05-27,start,ley-2005-04-27-suplemento-6536-c,ley-de-adquisiciones-arrendamientos-y-prestacion-de-servicio,81,main
+2005-06-20,start,,ley-de-usos-de-agua,120,main
+2005-10-13,law,decreto-2005-10-12-6584-suplemento-d,ley-del-instituto-estatal-de-las-mujeres,10,main
+2006-01-01,start,ley-2005-12-31-suplemento-6607-q,ley-de-deuda-publica,54,main
+2006-03-02,start,ley-2006-03-01-6624-suplemento-b,ley-de-condominios,72,main
+2006-03-30,start,ley-2006-03-29-6632-suplemento-e,ley-de-cultura-fisica-y-deporte,94,main
+2006-04-01,start,ley-2006-04-01-6633-suplemento-b,ley-forestal,93,main
+2006-05-28,start,ley-2006-03-29-6632-suplemento-d,ley-general-de-transito-y-vialidad,85,main
+2006-09-13,law,decreto-2006-09-12-18-extraordinario,codigo-penal ley-de-cultura-fisica-y-deporte,6,main
+2006-09-13,law,decreto-2006-09-12-extraordinario-no-18,ley-de-fomento-para-la-investigacion-cientifica-y-desarrollo ley-del-instituto-estatal-de-las-mujeres ley-del-sistema-estatal-de-asistencia-social,8,main
+2006-09-14,law,ley-2006-09-13-6680-suplemento-d,ley-general-de-seguridad-publica-y-transito,51,main
+2006-10-10,law,decreto-2006-10-07-6687-suplemento-d,codigo-civil,5,main
+2006-11-26,law,decreto-2006-11-25-suplemento-6701-c,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,6,main
+2006-12-16,law,decreto-2006-12-13-suplemento-6706-b,ley-organica-de-los-municipios,6,main
+2006-12-17,law,decreto-2006-12-16-suplemento-6707-y,ley-de-los-trabajadores-al-servicio,7,main
+2006-12-31,law,decreto-2006-12-30-6711-suplemento,ley-del-notariado,14,main
+2007-01-01,start,ley-2006-12-30-6711-suplemento-g,ley-de-desarrollo-turistico,76,main
+2007-01-01,law,decreto-2006-03-08-6626-suplemento-b,constitucion-politica,3,main
+2007-01-01,law,decreto-2006-09-08-extraordinario-17,constitucion-politica,7,main
+2007-01-02,start,ley-2006-09-30-6685-suplemento-d,ley-de-desarrollo-social,68,main
+2007-02-18,law,decreto-2007-02-17-6725-suplemento-b,constitucion-politica,5,main
+2007-05-03,law,decreto-2007-05-02-6746-suplemento-d,codigo-civil codigo-de-procedimientos-civiles,18,main
+2007-12-20,law,decreto-2007-12-19-suplemento-6812-j,ley-de-educacion,4,main
+2007-12-23,law,decreto-2007-12-22-suplemento-6813,constitucion-politica,4,main
+2007-12-25,start,ley-2007-12-22-suplemento-6813-b,ley-que-regula-las-casas-de-empeno-en-el-estado-de-tabasco,66,main
+2008-02-17,law,decreto-2008-02-16-suplemento-6829-g,ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-al,5,main
+2008-02-24,law,decreto-2008-02-23-6831-suplemento-j,codigo-civil,2,main
+2008-03-24,law,decreto-2008-02-23-suplemento-6831-k,ley-organica-de-los-municipios,4,main
+2008-05-20,law,decreto-2008-05-17-6855-suplemento-e,codigo-penal,5,main
+2008-07-16,law,decreto-2008-05-17-6855-suplemento-d,codigo-civil codigo-de-procedimientos-civiles,4,main
+2008-10-26,law,decreto-2008-10-25-suplemento-6901-i,ley-de-planeacion,8,main
+2008-10-26,law,decreto-2008-10-25-suplemento-6901-j,ley-organica-de-los-municipios,7,main
+2008-11-02,law,decreto-2008-11-01-suplemento-6903-d,ley-de-educacion,4,main
+2008-11-09,law,decreto-2008-11-08-suplemento-6905-b,constitucion-politica,25,main
+2008-12-13,start,ley-2008-12-12-extraordinario-no-51,ley-de-medios-de-impugnacion-en-materia-electoral,98,main
+2008-12-13,law,ley-2008-12-12-extraordinario-no-51,ley-organica-del-tribunal-electoral,19,main
+2008-12-14,law,decreto-2008-12-13-6915-suplemento-c,ley-de-la-comision-estatal-de-conciliacion-y-arbitraje-medic,33,main
+2008-12-14,law,decreto-2008-12-13-6915-suplemento-e,codigo-civil,11,main
+2008-12-14,law,decreto-2008-12-13-6915-suplemento-f,codigo-penal,5,main
+2008-12-14,law,decreto-2008-12-13-suplemento-6915-d,ley-de-coordinacion-fiscal-y-financiera,18,main
+2008-12-14,law,decreto-2008-12-13-suplemento-6915-e,codigo-de-procedimientos-civiles,27,main
+2008-12-14,law,decreto-2008-12-13-6915-suplemento-g,codigo-civil,18,main
+2008-12-16,law,decreto-2008-12-13-6915-suplemento-k,ley-de-coordinacion-fiscal-y-financiera ley-de-hacienda-municipal,34,main
+2008-12-18,law,decreto-2008-12-17-6916-suplemento-s,ley-de-deuda-publica,20,main
+2008-12-18,law,decreto-2008-12-17-suplemento-6916-v,constitucion-politica,4,main
+2008-12-21,law,decreto-2008-12-20-suplemento-6917-b,ley-de-planeacion,3,main
+2008-12-25,law,decreto-2008-12-24-6918-suplemento,ley-organica-de-los-municipios,11,main
+2008-12-27,law,decreto-2008-12-17-suplemento-6916-r,ley-general-de-transito-y-vialidad,12,main
+2008-12-27,law,decreto-2008-12-24-6918-suplemento-b,ley-de-educacion,6,main
+2009-01-19,start,ley-2008-12-20-suplemento-6917-c,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,70,main
+2009-03-15,law,decreto-2009-03-14-suplemento-6941-h,ley-organica-de-los-municipios,3,main
+2009-03-15,law,decreto-2009-03-14-suplemento-6941-c,ley-organica-del-tribunal-electoral,33,main
+2009-04-30,start,ley-2009-04-29-6954-suplemento-f,ley-de-desarrollo-rural-sustentable,205,main
+2009-05-02,law,decreto-2009-04-29-6954-suplemento-e,ley-de-educacion,7,main
+2009-05-10,law,decreto-2009-05-09-6957-suplemento,ley-de-educacion,4,main
+2009-05-25,start,ley-2009-04-25-6953-suplemento-c,ley-de-derechos-y-cultura-indigena,107,main
+2009-05-28,law,decreto-2009-05-27-6962-suplemento,ley-de-educacion,5,main
+2009-05-30,law,decreto-2009-05-27-6962-suplemento-d,ley-de-educacion,4,main
+2009-10-08,start,ley-2009-10-07-7000-suplemento-f,ley-de-operaciones-inmobiliarias,37,main
+2009-10-08,law,decreto-2009-10-07-7000-suplemento-f,ley-de-coordinacion-fiscal-y-financiera,73,main
+2009-10-25,law,decreto-2009-10-24-7005-suplemento-j,ley-que-crea-el-instituto-tecnologico-superior-de-comalcalco,4,main
+2009-10-25,law,decreto-2009-10-24-7005-suplemento-l,ley-de-usos-de-agua,63,main
+2009-11-12,law,decreto-2009-11-11-7010-suplemento-c,codigo-de-procedimientos-civiles,2,main
+2009-12-27,start,ley-2009-12-26-7023-suplemento-t,ley-para-prevenir-combatir-y-sancionar-la-trata-de-personas,62,main
+2009-12-27,law,decreto-2009-12-26-7023-suplemento-aa,codigo-penal,4,main
+2009-12-27,law,decreto-2009-12-26-7023-suplemento-ee,codigo-civil,4,main
+2009-12-27,law,decreto-2009-12-26-7023-suplemento-x,ley-de-coordinacion-fiscal-y-financiera,3,main
+2009-12-27,law,decreto-2009-12-26-7023-suplemento-y,codigo-fiscal,3,main
+2010-01-01,law,decreto-2009-05-27-6962-suplemento-e,ley-de-educacion,11,main
+2010-01-01,law,decreto-2009-12-26-7023-suplemento-s,ley-general-de-transito-y-vialidad,4,main
+2010-01-01,law,decreto-2009-10-24-7005-suplemento-k,ley-de-educacion,7,main
+2010-01-25,law,decreto-2009-12-26-7023-suplemento-bb,codigo-de-procedimientos-civiles,2,main
+2010-01-25,law,decreto-2009-12-26-7023-suplemento-z,ley-organica-de-los-municipios,2,main
+2010-02-25,law,decreto-2010-02-24-7040-suplemento-j,constitucion-politica,2,main
+2010-03-12,start,ley-2009-12-12-7019-suplemento-b,ley-de-salud,455,main
+2010-04-01,law,decreto-2010-03-31-7050-suplemento,constitucion-politica,4,main
+2010-05-02,law,decreto-2010-05-01-7059-suplemento-e,ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-al,14,main
+2010-05-15,law,decreto-2010-05-14-60-extraordinario,constitucion-politica,2,main
+2010-05-18,law,decreto-2010-05-18-61-extraordinario,ley-de-deuda-publica,13,main
+2010-05-23,start,ley-2010-05-22-7065-suplemento-b,ley-agricola,137,main
+2010-09-30,law,decreto-2010-09-29-7102-suplemento,constitucion-politica,2,main
+2010-12-21,law,decreto-2010-12-18-7125-suplemento-c,constitucion-politica,2,main
+2010-12-21,law,decreto-2010-12-18-7125-suplemento-d,constitucion-politica,2,main
+2010-12-30,law,decreto-2010-12-29-7128-suplemento-b,ley-organica-de-los-municipios,5,main
+2011-01-01,law,decreto-2010-05-22-7065-suplemento-c,ley-de-salud,28,main
+2011-01-01,law,decreto-2010-12-18-7125-suplemento-d,ley-de-salud,10,main
+2011-02-01,start,ley-2011-01-31-66-extraordinario,ley-registral,107,main
+2011-02-13,law,decreto-2011-02-12-7141-suplemento-b,constitucion-politica,27,main
+2011-04-24,law,decreto-2011-04-23-7161-suplemento-b,ley-de-educacion,4,main
+2011-05-22,law,decreto-2011-05-21-7169-suplemento-c,ley-de-salud,4,main
+2011-06-02,start,ley-2011-06-01-7172-suplemento-d,ley-de-desarrollo-pecuario,140,main
+2011-06-02,law,decreto-2011-06-01-7172-suplemento-c,codigo-penal,2,main
+2011-06-02,law,decreto-2011-06-01-7172-suplemento-g,ley-organica-de-los-municipios,9,main
+2011-06-02,law,decreto-2011-06-01-7172-suplemento-j,codigo-penal,3,main
+2011-06-02,law,decreto-2011-06-01-7172-suplemento-k,codigo-penal,7,main
+2011-06-02,law,decreto-2011-06-01-7172-suplemento-l,codigo-penal,2,main
+2011-06-09,law,decreto-2011-06-08-7174-suplemento-c,ley-de-salud,28,main
+2011-06-09,law,decreto-2011-06-08-7174-suplemento-d,ley-de-salud,5,main
+2011-07-01,start,ley-2011-06-01-7172-suplemento-f,ley-sobre-los-derechos-de-las-personas-con-discapacidad,162,main
+2011-08-28,law,decreto-2011-08-27-7197-suplemento-b,codigo-penal ley-que-crea-el-instituto-tecnologico-superior-de-los-rios,19,main
+2011-08-28,law,decreto-2011-08-27-7197-suplemento-i,ley-que-crea-el-instituto-tecnologico-superior-de-comalcalco,11,main
+2011-08-28,law,decreto-2011-08-27-7197-suplemento-c,codigo-penal,2,main
+2011-08-28,law,decreto-2011-08-27-7197-suplemento-d,codigo-penal,4,main
+2011-09-28,law,fe-de-erratas-2011-09-28-7206-suplemento-m,ley-que-crea-el-instituto-tecnologico-superior-de-los-rios,2,main
+2011-09-29,law,decreto-2011-09-28-7206-suplemento-f,codigo-penal,31,main
+2011-09-29,law,decreto-2011-09-28-7206-suplemento-i,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,3,main
+2011-09-29,law,decreto-2011-09-28-7206-suplemento-g,codigo-penal,3,main
+2011-10-23,law,decreto-2011-10-22-7213-suplemento-b,ley-de-educacion,2,main
+2011-10-28,start,ley-2011-09-28-7206-suplemento-b,ley-de-vivienda,104,main
+2011-11-03,law,decreto-2011-11-02-7216-suplemento-j,ley-de-planeacion,30,main
+2011-12-29,start,ley-2011-12-28-7232-suplemento-c,ley-de-remuneraciones-de-los-servidores-publicos,23,main
+2011-12-29,law,decreto-2011-12-28-7232-suplemento-y,ley-de-educacion,4,main
+2012-01-01,start,ley-2011-09-28-7206-suplemento-h,ley-de-valuacion,50,main
+2012-01-27,start,ley-2011-12-28-7232-suplemento-q,ley-de-acuicultura-y-pesca,108,main
+2012-02-25,law,fe-de-erratas-2012-02-25-7249-suplemento-g,ley-de-vivienda,2,main
+2012-03-25,law,decreto-2012-03-24-7257-suplemento-f,codigo-penal,60,main
+2012-04-17,start,ley-2012-04-14-7263-suplemento-b,ley-de-la-juventud,71,main
+2012-06-07,start,ley-2012-06-06-7278-suplemento-d,ley-del-libro-y-bibliotecas-publicas,71,main
+2012-07-08,law,decreto-2012-07-07-7287-suplemento-d,constitucion-politica,11,main
+2012-08-24,law,decreto-2012-05-26-7275-suplemento,ley-de-educacion,25,main
+2012-08-30,start,ley-2012-08-29-7302-suplemento-d,ley-de-acceso-a-la-justicia-alternativa,52,main
+2012-09-28,start,ley-2012-08-29-7302-suplemento-f,ley-de-ejecucion-de-sanciones-penales,168,main
+2012-09-29,law,decreto-2012-09-26-7310-suplemento-c,constitucion-politica,12,main
+2012-10-07,law,decreto-2012-10-06-7313-suplemento-h,codigo-penal,139,main
+2012-10-11,law,decreto-2012-10-10-7314-suplemento-e,ley-de-educacion,4,main
+2012-10-28,law,decreto-2012-10-27-7319-suplemento-c,codigo-de-procedimientos-civiles,3,main
+2012-11-18,law,decreto-2012-11-17-7325-suplemento-p,ley-de-coordinacion-fiscal-y-financiera,3,main
+2012-12-23,law,decreto-2012-12-22-7335-suplemento-s,ley-de-hacienda-municipal,22,main
+2013-01-14,start,ley-2012-12-15-7333-suplemento-v,ley-sobre-las-caracteristicas-y-uso-del-escudo,24,main
+2013-01-21,start,ley-2012-12-22-7335-suplemento-q,ley-de-proteccion-ambiental,324,main
+2013-01-28,start,ley-2012-12-29-7337-suplemento-d,ley-para-la-prevencion-y-gestion-integral-de-los-residuos,120,main
+2013-02-15,law,decreto-2013-02-14-78-extraordinario,ley-de-cultura-fisica-y-deporte ley-de-la-juventud,12,main
+2013-03-24,law,decreto-2013-03-23-7361-suplemento-d,ley-de-cultura-fisica-y-deporte,4,main
+2013-03-29,start,ley-2012-12-29-7337-suplemento-r,ley-de-proteccion-y-fomento-del-patrimonio-cultural,120,main
+2013-04-06,law,decreto-2013-04-06-7365-suplemento-e,ley-de-los-trabajadores-al-servicio,4,main
+2013-04-24,law,decreto-2013-04-24-7370-suplemento-d,ley-de-los-trabajadores-al-servicio,2,main
+2013-05-26,law,decreto-2013-05-25-7379-suplemento-b,ley-de-la-responsabilidad-civil-por-dano-y-deterioro-ambient ley-de-planeacion,15,main
+2013-05-28,law,decreto-2013-05-25-7379-suplemento-b,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,6,main
+2013-08-14,law,decreto-2013-08-13-83-extraordinario,ley-del-sistema-estatal-de-asistencia-social,28,main
+2013-09-14,law,decreto-2013-09-13-84-extraordinario,constitucion-politica,13,main
+2013-09-14,law,decreto-2013-09-13-84-extraordinario-2,constitucion-politica,26,main
+2013-10-13,law,decreto-2013-10-12-7419-suplemento,ley-de-la-juventud,4,main
+2013-11-15,law,decreto-2013-11-14-87-extrapordinaro,ley-de-educacion,5,main
+2013-11-17,law,decreto-2013-11-14-87-extraordinario,ley-de-acceso-a-la-justicia-alternativa ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,7,main
+2013-12-19,law,decreto-2013-12-18-7438-suplemento-l,codigo-civil,2,main
+2013-12-22,law,decreto-2013-12-21-7439-suplemento-b,ley-de-adquisiciones-arrendamientos-y-prestacion-de-servicio,56,main
+2013-12-22,law,decreto-2013-12-21-7439-suplemento-c,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,33,main
+2013-12-22,law,decreto-2013-12-21-7439-suplemento-f,codigo-fiscal,74,main
+2013-12-22,law,decreto-2013-12-21-7439-suplemento-h,ley-de-hacienda-municipal,7,main
+2013-12-22,law,decreto-2013-12-21-7439-suplemento-i,ley-de-coordinacion-fiscal-y-financiera ley-de-deuda-publica,23,main
+2013-12-22,law,decreto-2013-12-21-7439-suplemento-j,ley-de-valuacion,5,main
+2013-12-22,law,decreto-2013-12-21-7439-suplemento-k,ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-al,21,main
+2014-01-17,start,ley-2013-12-18-7438-suplemento-d,ley-para-la-proteccion-y-cuidado-de-los-animales-en-el-estad,44,main
+2014-03-06,law,decreto-2014-03-05-7460-suplemento,codigo-penal,2,main
+2014-03-15,law,decreto-2014-03-12-7462-suplemento-d,ley-de-educacion,132,main
+2014-04-27,law,decreto-2014-04-26-7475-suplemento,codigo-de-procedimientos-civiles,5,main
+2014-05-10,start,ley-2014-05-09-111-extraordinario,ley-de-derechos-humanos,84,main
+2014-05-15,law,decreto-2014-05-14-7480-suplemento-c,constitucion-politica,7,main
+2014-05-18,start,ley-2014-05-17-7481-suplemento-c,ley-de-asociaciones-publico-privadas,168,main
+2014-05-24,law,fe-de-erratas-2014-05-24-7483-suplemento-c,constitucion-politica,2,main
+2014-05-25,law,decreto-2014-05-24-7483-suplemento,ley-sobre-los-derechos-de-las-personas-con-discapacidad,29,main
+2014-06-22,law,decreto-2014-06-21-7491suplemento-e,constitucion-politica,20,main
+2014-07-02,start,ley-2014-07-02-7494-suplemento-c,ley-electoral-y-de-partidos-politicos,386,main
+2014-07-02,law,decreto-2014-07-02-7494-suplemento-c,ley-de-medios-de-impugnacion-en-materia-electoral ley-organica-de-los-municipios ley-organica-del-tribunal-electoral,70,main
+2014-10-05,law,decreto-2014-10-04-7421-suplemento-c,codigo-civil codigo-penal,18,main
+2014-10-12,law,decreto-2014-10-11-7523-suplemento,ley-de-desarrollo-pecuario,3,main
+2014-11-20,start,ley-2014-11-19-7534-suplemento-c,ley-para-la-igualdad-entre-mujeres-y-hombres,35,main
+2014-12-14,start,ley-2014-12-13-7541-suplemento-e,ley-organica-de-la-fiscalia-general,47,main
+2014-12-14,law,decreto-2014-12-13-7541-suplemento-b,codigo-penal,3,main
+2014-12-14,law,decreto-2014-12-13-7541-suplemento-c,ley-de-los-trabajadores-al-servicio,3,main
+2014-12-14,law,decreto-2014-12-13-7541-suplemento-b-2,codigo-penal,2,main
+2014-12-14,law,decreto-2014-12-13-7541-suplemento-c-2,ley-de-los-trabajadores-al-servicio,4,main
+2014-12-19,start,ley-2014-11-19-7534-suplemento-c,ley-que-establece-los-procedimientos-de-entrega-y-recepcion,49,main
+2015-01-01,start,ley-2014-12-31-7546-suplemento-d,ley-de-proteccion-civil,89,main
+2015-01-01,law,decreto-2014-12-24-7544-suplemento-c,codigo-civil codigo-fiscal ley-de-coordinacion-fiscal-y-financiera,129,main
+2015-01-01,law,decreto-2014-12-24-7544-suplemento-d,ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-al ley-que-regula-las-casas-de-empeno-en-el-estado-de-tabasco,82,main
+2015-01-01,law,decreto-2014-12-31-7546-suplemento-g,codigo-de-procedimientos-civiles,6,main
+2015-01-01,law,decreto-2014-12-31-7546-suplemento-g,codigo-civil,34,main
+2015-02-17,law,decreto-2015-02-14-7559-suplemento-e,constitucion-politica,11,main
+2015-02-22,law,decreto-2015-02-21-7561-suplemento-e,codigo-penal ley-de-usos-de-agua,12,main
+2015-04-16,law,decreto-2015-04-15-7576-suplemento-c,ley-de-vivienda,39,main
+2015-04-24,start,ley-2015-03-25-7570-suplemento-b,ley-del-servicio-de-defensoria-publica,55,main
+2015-05-20,law,decreto-2015-05-20-7586-suplemento-b,ley-de-salud,13,main
+2015-05-21,start,ley-2015-05-20-7586-suplemento-b,ley-de-fomento-a-la-lectura-y-el-libro,31,main
+2015-05-21,law,decreto-2015-05-20-7586-suplemento-b,ley-general-de-transito-y-vialidad,4,main
+2015-06-29,start,ley-2014-12-31-7546-suplemento-f,ley-para-la-proteccion-de-personas-que-intervienen-en-el-pro,32,main
+2015-07-30,law,decreto-2015-07-29-7606-suplemento-b,ley-de-los-trabajadores-al-servicio ley-de-proteccion-ambiental ley-de-proteccion-civil,10,main
+2015-08-02,law,decreto-2015-08-01-7607-suplemento-b,constitucion-politica,16,main
+2015-08-11,start,ley-2015-06-27-7597-suplemento-c,ley-del-sistema-de-seguridad-publica,211,main
+2015-10-04,law,decreto-2015-10-03-7625-suplemento,constitucion-politica,181,main
+2015-10-29,law,decreto-2015-10-28-7632-suplemento-c,ley-de-los-trabajadores-al-servicio,2,main
+2015-11-27,start,ley-2015-10-28-7632-suplemento-c,ley-para-la-administracion-y-destino-de-bienes-asegurados-ab,67,main
+2015-12-17,start,ley-2015-12-16-7646-suplemento-e,ley-de-presupuesto-y-responsabilidad-hacendaria,91,main
+2015-12-24,start,ley-2015-12-23-7648-suplemento-c,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,153,main
+2015-12-24,start,ley-2015-12-23-7648-suplemento-h,ley-para-la-atencion-y-proteccion-a-personas-con-la-condicio,18,main
+2015-12-24,law,decreto-2015-12-23-7648-suplemento-c,ley-del-sistema-estatal-de-asistencia-social,9,main
+2015-12-24,law,decreto-2015-12-23-7648-suplemento-f,ley-general-de-transito-y-vialidad ley-sobre-los-derechos-de-las-personas-con-discapacidad,8,main
+2015-12-24,law,decreto-2015-12-23-7648-suplemento-i,codigo-penal,65,main
+2015-12-24,law,decreto-2015-12-23-7648-suplemento-k,codigo-civil,8,main
+2015-12-24,law,decreto-2015-12-23-7648-suplemento-n,ley-de-salud,12,main
+2016-01-01,start,ley-2015-12-31-121-extraordinario,ley-de-seguridad-social,140,main
+2016-01-01,law,decreto-2015-12-30-7650-suplemento-q,codigo-fiscal,9,main
+2016-01-02,start,ley-2015-12-30-7650-suplemento-t,ley-de-hacienda,125,main
+2016-01-14,law,decreto-2016-01-13-7654-suplemento,codigo-civil,9,main
+2016-01-31,start,ley-2015-12-02-7642-suplemento-c,ley-de-atencion-a-victimas,66,main
+2016-03-19,law,decreto-2016-03-19-no-7673-suplemento-e,ley-de-medios-de-impugnacion-en-materia-electoral ley-electoral-y-de-partidos-politicos ley-organica-de-los-municipios ley-organica-del-tribunal-electoral,9,main
+2016-03-20,law,decreto-2016-03-19-7673-suplemento-e,ley-de-coordinacion-fiscal-y-financiera,4,main
+2016-04-03,law,decreto-2016-04-02-no-7677-suplemento,ley-que-establece-los-procedimientos-de-entrega-y-recepcion,3,main
+2016-05-15,start,ley-2016-05-14-no-7689-suplemento-c,ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado,43,main
+2016-05-15,law,decreto-2016-05-14-7689-suplemento-c,ley-organica-de-los-municipios,4,main
+2016-05-22,law,decreto-2016-05-21-no-7691-suplemento-c,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,21,main
+2016-05-29,start,ley-2016-05-28-no-7693-suplemento-b,ley-organica-del-poder-judicial,334,main
+2016-09-15,law,decreto-2016-09-14-no-7724-suplemento-c,ley-del-sistema-de-seguridad-publica,4,main
+2016-12-10,law,decreto-2016-12-07-7748-suplemento-c,codigo-penal,5,main
+2016-12-13,law,decreto-2016-12-12-125-extraordinario,constitucion-politica,183,main
+2016-12-27,law,decreto-2016-12-24-7753-suplemento-c,codigo-fiscal ley-de-hacienda ley-registral,119,main
+2016-12-31,start,ley-2016-12-28-7754-suplemento,ley-de-coordinacion-para-el-establecimiento-y-desarrollo-de,28,main
+2017-03-09,law,decreto-2017-03-08-7774-b,ley-de-deuda-publica ley-de-presupuesto-y-responsabilidad-hacendaria,75,main
+2017-03-09,law,decreto-2017-03-08-7774-suplemento-b,ley-de-asociaciones-publico-privadas,5,main
+2017-03-23,law,decreto-2017-03-22-7778-b,ley-organica-del-poder-judicial,51,main
+2017-04-20,law,decreto-2017-04-19-7786,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,2,main
+2017-06-25,start,ley-2017-06-24-7805-suplemento-b,ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-de,57,main
+2017-06-29,law,decreto-2017-06-28-7806-suplemento,constitucion-politica,25,main
+2017-06-29,law,decreto-2017-06-28-7806-suplemento-b,constitucion-politica,9,main
+2017-06-29,law,decreto-2017-06-28-7806-suplemento-2,constitucion-politica,2,main
+2017-06-30,law,decreto-2016-07-27-no-7710-suplemento-c,ley-electoral-y-de-partidos-politicos,3,main
+2017-06-30,law,ley-2016-07-27-no-7710-suplemento-c,ley-organica-de-los-municipios,14,main
+2017-06-30,law,decreto-2016-07-27-no-7710-suplemento-c,ley-organica-de-los-municipios,3,main
+2017-06-30,law,decreto-2017-03-08-7774-suplemento-b,ley-organica-de-los-municipios,5,main
+2017-06-30,law,decreto-2017-04-08-7783-suplemento,ley-organica-de-los-municipios,5,main
+2017-07-02,law,decreto-2017-07-01-7807-suplemento-c,codigo-civil codigo-de-procedimientos-civiles,37,main
+2017-07-06,law,decreto-2017-07-05-7808-suplemento,codigo-civil codigo-de-procedimientos-civiles codigo-fiscal codigo-penal ley-agricola ley-de-acuicultura-y-pesca ley-de-adquisiciones-arrendamientos-y-prestacion-de-servicio ley-de-asociaciones-publico-privadas ley-de-catastro ley-de-condominios ley-de-derechos-y-cultura-indigena ley-de-desarrollo-pecuario ley-de-desarrollo-rural-sustentable ley-de-educacion ley-de-hacienda ley-de-hacienda-municipal ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores-al-servicio ley-de-medios-de-impugnacion-en-materia-electoral ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-operaciones-inmobiliarias ley-de-proteccion-ambiental ley-de-proteccion-y-fomento-del-patrimonio-cultural ley-de-remuneraciones-de-los-servidores-publicos ley-de-salud ley-de-seguridad-social ley-de-usos-de-agua ley-del-libro-y-bibliotecas-publicas ley-del-notariado ley-electoral-y-de-partidos-politicos ley-forestal ley-general-de-transito-y-vialidad ley-organica-de-los-municipios ley-organica-del-tribunal-electoral ley-para-la-prevencion-y-tratamiento-de-la-violencia-intrafa ley-para-la-proteccion-de-las-personas-adultas-mayores-en-el ley-para-la-proteccion-y-cuidado-de-los-animales-en-el-estad ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-al ley-que-regula-las-casas-de-empeno-en-el-estado-de-tabasco ley-sobre-las-caracteristicas-y-uso-del-escudo ley-sobre-los-derechos-de-las-personas-con-discapacidad,269,main
+2017-07-16,start,ley-2017-07-15-7811-suplemento-b,ley-de-fiscalizacion-superior,106,main
+2017-07-16,start,ley-2017-07-15-7811-suplemento-b,ley-de-justicia-administrativa,193,main
+2017-07-16,law,decreto-2017-07-15-7811-suplemento-b,ley-de-responsabilidad-administrativa-de-los-servidores-publ,52,main
+2017-08-24,law,decreto-2017-08-23-7822-suplemento-b,codigo-penal ley-organica-de-la-fiscalia-general,48,main
+2017-09-17,start,ley-2017-09-16-7829-suplemento,ley-de-bienes,111,main
+2017-11-19,law,decreto-2017-11-18-7847-suplemento-c,ley-organica-de-los-municipios ley-organica-del-poder-judicial,27,main
+2017-11-19,law,decreto-2017-11-18-7847-suplemento-c-2,ley-organica-de-los-municipios,39,main
+2017-12-10,law,decreto-2017-12-09-7853-suplemento-e,codigo-fiscal ley-de-adquisiciones-arrendamientos-y-prestacion-de-servicio ley-de-coordinacion-fiscal-y-financiera ley-de-hacienda ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-presupuesto-y-responsabilidad-hacendaria,37,main
+2017-12-21,law,decreto-2017-12-20-7856-suplemento-f,ley-del-sistema-estatal-de-asistencia-social,7,main
+2017-12-23,law,decreto-2017-12-20-7856-suplemento-f,codigo-penal,2,main
+2017-12-31,law,decreto-2017-12-30-7859-suplemento-c,codigo-penal,7,main
+2018-03-08,start,ley-2018-03-07-7878-suplemento-b,ley-de-gobierno-digital-y-firma-electronica,66,main
+2018-03-23,start,ley-2017-12-23-7857-suplemento-k,ley-de-control-constitucional-reglamentaria-del-articulo-61,92,main
+2018-04-12,law,decreto-2018-04-11-7888-suplemento,ley-que-crea-el-instituto-tecnologico-superior-de-comalcalco,9,main
+2018-05-31,law,decreto-2018-05-30-7902-suplemento-b,ley-de-derechos-humanos ley-de-desarrollo-rural-sustentable ley-de-educacion ley-de-presupuesto-y-responsabilidad-hacendaria ley-del-instituto-estatal-de-las-mujeres ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio ley-organica-de-los-municipios ley-para-la-igualdad-entre-mujeres-y-hombres,43,main
+2018-10-14,law,decreto-2018-10-13-7941-suplemento,ley-de-adquisiciones-arrendamientos-y-prestacion-de-servicio ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,11,main
+2018-10-14,law,decreto-2018-10-13-7941-suplemento-b,constitucion-politica,8,main
+2018-10-14,law,decreto-2018-10-13-7941-suplemento-c,constitucion-politica,2,main
+2018-10-18,law,decreto-2018-10-17-7942-suplemento-b,ley-de-planeacion ley-organica-de-los-municipios,17,main
+2018-11-08,law,decreto-2018-11-07-7948-suplemento,ley-organica-de-la-fiscalia-general,2,main
+2018-11-18,law,decreto-2018-11-17-7951-suplemento-c,ley-del-sistema-de-seguridad-publica,4,main
+2018-11-25,law,decreto-2018-11-24-7953-suplemento,ley-del-notariado,2,main
+2018-12-06,law,decreto-2018-12-05-7956-suplemento-d,codigo-penal,2,main
+2018-12-25,law,decreto-2018-12-22-7961-suplemento-g,ley-de-coordinacion-fiscal-y-financiera ley-de-hacienda,8,main
+2018-12-27,law,decreto-2018-12-26-7962-suplemento-z,ley-de-los-trabajadores-al-servicio,2,main
+2018-12-31,law,decreto-2018-12-15-7959-suplemento-c,constitucion-politica,3,main
+2019-01-01,law,decreto-2018-10-20-7943-suplemento,ley-de-desarrollo-social ley-del-sistema-estatal-de-asistencia-social ley-sobre-los-derechos-de-las-personas-con-discapacidad,18,main
+2019-01-10,law,decreto-2019-01-02-7964-suplemento,ley-del-sistema-estatal-de-asistencia-social,10,main
+2019-02-24,law,decreto-2019-02-23-7979-suplemento,ley-del-sistema-de-seguridad-publica,21,main
+2019-03-17,law,decreto-2019-03-16-7985-suplemento-c,ley-de-hacienda,4,main
+2019-03-19,law,decreto-2019-03-16-7985-suplemento-c,ley-organica-del-poder-judicial,12,main
+2019-03-31,law,decreto-2019-03-30-7989-suplemento-b,ley-de-presupuesto-y-responsabilidad-hacendaria,20,main
+2019-04-18,law,decreto-2019-04-17-7994-suplemento-c,ley-de-adquisiciones-arrendamientos-y-prestacion-de-servicio ley-de-salud,94,main
+2019-05-02,law,decreto-2019-05-01-7998,constitucion-politica ley-de-planeacion ley-de-presupuesto-y-responsabilidad-hacendaria,46,main
+2019-05-05,law,decreto-2019-05-04-7999-suplemento-d,ley-de-la-comision-estatal-de-conciliacion-y-arbitraje-medic ley-de-proteccion-civil ley-de-seguridad-social ley-de-usos-de-agua ley-del-instituto-estatal-de-las-mujeres ley-que-crea-el-instituto-tecnologico-superior-de-los-rios,18,main
+2019-05-09,law,decreto-2019-05-08-8000-suplemento-d,ley-de-proteccion-ambiental ley-para-la-prevencion-y-gestion-integral-de-los-residuos,19,main
+2019-05-19,law,decreto-2019-05-18-8003-suplemento-j,codigo-civil codigo-penal ley-de-los-derechos-de-ninas-ninos-y-adolescentes,38,main
+2019-05-19,law,decreto-2019-05-18-8003-suplemento-j-2,codigo-penal,9,main
+2019-06-02,law,decreto-2019-06-01-8007-suplemento-b,ley-de-desarrollo-pecuario,5,main
+2019-06-05,law,fe-de-erratas-2019-06-05-8008-suplemento-d,codigo-civil ley-de-los-derechos-de-ninas-ninos-y-adolescentes,3,main
+2019-06-06,law,decreto-2019-06-05-8008-suplemento-f,constitucion-politica,2,main
+2019-06-13,start,ley-2019-06-12-8010-suplemento-d,ley-en-materia-de-desaparicion-forzada-de-personas-desaparic,147,main
+2019-06-13,law,decreto-2019-06-12-8010-suplemento-d,codigo-penal ley-de-los-trabajadores-al-servicio ley-de-seguridad-social,15,main
+2019-06-13,law,fe-de-erratas-2019-06-13-146-extraordinario,codigo-penal ley-de-los-trabajadores-al-servicio ley-de-seguridad-social ley-en-materia-de-desaparicion-forzada-de-personas-desaparic,8,main
+2019-06-16,law,decreto-2019-06-15-8011-suplemento-i,ley-de-responsabilidad-administrativa-de-los-servidores-publ,32,main
+2019-06-16,law,decreto-2019-06-15-8011-suplemento-j,ley-de-salud,3,main
+2019-06-16,law,decreto-2019-06-15-8011-suplemento-l,ley-para-la-proteccion-de-las-personas-adultas-mayores-en-el,14,main
+2019-06-16,law,decreto-2019-06-15-8011-suplemento-m,ley-electoral-y-de-partidos-politicos ley-organica-de-los-municipios,16,main
+2019-08-01,law,decreto-2019-07-31-8024-suplemento-d,codigo-penal,10,main
+2019-08-08,law,decreto-2019-08-07-8026-suplemento-e,codigo-penal,5,main
+2019-08-08,law,decreto-2019-08-07-8026-suplemento-h,codigo-fiscal ley-de-hacienda ley-general-de-transito-y-vialidad,17,main
+2019-08-08,law,decreto-2019-08-07-8026-suplemento-i,ley-sobre-los-derechos-de-las-personas-con-discapacidad,24,main
+2019-08-10,law,decreto-2019-08-07-8026-suplemento-k,ley-organica-del-poder-judicial,12,main
+2019-08-10,law,decreto-2019-08-07-8026-suplemto-k,codigo-de-procedimientos-civiles,49,main
+2019-09-22,law,decreto-2019-09-21-8039-suplemento-d,ley-de-desarrollo-rural-sustentable,2,main
+2019-10-06,law,decreto-2019-10-05-8043-suplemento-j,ley-del-sistema-estatal-de-asistencia-social,21,main
+2019-10-17,law,decreto-2019-10-16-8046-suplemento-h,codigo-civil codigo-de-procedimientos-civiles,5,main
+2019-10-17,law,decreto-2019-10-16-8046-suplemento-d,constitucion-politica,3,main
+2019-10-17,law,decreto-2019-10-16-8046-suplemento-e,ley-de-atencion-a-victimas,71,main
+2019-10-17,law,decreto-2019-10-16-8046-suplemento-f,ley-general-de-transito-y-vialidad,3,main
+2019-11-07,law,decreto-2019-11-06-8052-suplemento-c,ley-de-salud,8,main
+2019-11-17,start,ley-2019-11-16-8055-suplemento-e,ley-para-el-desarrollo-economico-sostenible,48,main
+2019-11-24,law,decreto-2019-11-23-8057-suplemento-n,ley-de-desarrollo-social,28,main
+2019-12-01,start,ley-2019-11-30-8059-suplemento-i,ley-de-movilidad,228,main
+2019-12-05,law,decreto-2019-12-04-8060-suplemento-i,codigo-penal,10,main
+2019-12-24,law,decreto-2019-12-21-8065-suplemento-c,codigo-fiscal ley-de-coordinacion-fiscal-y-financiera ley-de-deuda-publica,53,main
+2020-01-01,law,decreto-2019-11-23-8057-suplemento-n,ley-para-la-administracion-y-destino-de-bienes-asegurados-ab,20,main
+2020-01-03,law,decreto-2019-12-21-8065-suplemento-c,ley-de-hacienda,54,main
+2020-02-20,start,ley-2020-02-19-8082-suplemento-n,ley-del-centro-de-conciliacion-laboral,51,main
+2020-02-20,law,decreto-2020-02-19-8082-suplemento-k,ley-sobre-las-caracteristicas-y-uso-del-escudo,4,main
+2020-03-08,law,decreto-2020-03-07-8087-suplemento,ley-organica-del-poder-judicial,12,main
+2020-03-26,law,decreto-2020-03-25-8092-suplemento-d,ley-de-seguridad-social,10,main
+2020-03-29,law,decreto-2020-03-28-8093-suplemento-e,codigo-penal,3,main
+2020-03-29,law,decreto-2020-03-28-8093-suplemento-e-2,codigo-penal,3,main
+2020-03-29,law,decreto-2020-03-28-8093-suplemento-e-3,codigo-penal,4,main
+2020-04-01,law,decreto-2020-03-25-8092-suplemento-e,ley-de-hacienda ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-al,29,main
+2020-06-27,law,decreto-2020-06-26-167-extraordinario,ley-electoral-y-de-partidos-politicos ley-general-de-transito-y-vialidad ley-sobre-los-derechos-de-las-personas-con-discapacidad,59,main
+2020-07-19,law,decreto-2020-07-18-8125-suplemento-c,codigo-penal ley-de-acuicultura-y-pesca,4,main
+2020-07-19,law,decreto-2020-07-18-8125-suplemento-c-2,codigo-penal,2,main
+2020-07-19,law,decreto-2020-07-18-8125-suplemento-c-3,codigo-penal,2,main
+2020-07-19,law,decreto-2020-07-18-8125-suplemento-c-4,codigo-penal,4,main
+2020-07-19,law,decreto-2020-07-18-8125-suplemento-c-5,codigo-penal,4,main
+2020-07-19,law,decreto-2020-07-18-8125-suplemento-c-6,codigo-penal,2,main
+2020-07-19,law,decreto-2020-07-18-8125-suplemento-c-7,codigo-penal,4,main
+2020-08-18,law,decreto-2020-08-17-174-extraordinario,ley-de-medios-de-impugnacion-en-materia-electoral ley-electoral-y-de-partidos-politicos ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,96,main
+2020-08-22,law,decreto-2020-08-21-175-extraordinario,ley-de-educacion ley-de-hacienda-municipal ley-de-salud,10,main
+2020-08-22,law,decreto-2020-08-21-175-extraordinario-2,ley-de-salud,2,main
+2020-09-26,law,decreto-2020-09-25-181-extraordinario,ley-organica-del-poder-judicial,12,main
+2020-12-21,law,decreto-2020-12-18-196-extraordinario,ley-de-coordinacion-fiscal-y-financiera ley-de-hacienda,21,main
+2021-01-01,start,ley-2020-07-15-8124-suplemento-c,ley-de-archivos,107,main
+2021-02-28,law,decreto-2021-02-27-8189-suplemento-c,codigo-civil ley-de-adquisiciones-arrendamientos-y-prestacion-de-servicio,11,main
+2021-07-22,start,ley-2021-07-21-8230-suplemento-e,ley-de-asentamientos-humanos-ordenamiento-territorial-y-desa,333,main
+2021-07-22,law,decreto-2021-07-21-8230-suplemento-f,ley-organica-de-los-municipios,8,main
+2021-07-24,law,decreto-2021-07-21-8230-suplemento-f,ley-de-fiscalizacion-superior,4,main
+2021-08-27,law,decreto-2021-08-26-220-extraordinario,constitucion-politica,5,main
+2021-08-30,law,decreto-2021-08-29-222-extraordinario,constitucion-politica,2,main
+2021-10-27,law,decreto-2021-10-26-227-extraordinario,ley-que-crea-el-instituto-tecnologico-superior-de-los-rios,2,main
+2021-12-16,law,decreto-2021-12-15-8272-suplemento,codigo-penal ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,10,main
+2021-12-24,law,decreto-2021-12-21-232-extraordinario,codigo-fiscal ley-de-coordinacion-fiscal-y-financiera ley-de-hacienda ley-de-presupuesto-y-responsabilidad-hacendaria,84,main
+2022-03-27,law,decreto-2022-03-26-8301-suplemento,codigo-penal,20,main
+2022-04-07,law,declaracion-2022-04-06-8304-suplemento-c,ley-para-la-proteccion-de-las-personas-adultas-mayores-en-el,2,main
+2022-04-07,law,decreto-2022-04-06-8304-suplemento-d,ley-de-educacion,2,main
+2022-04-14,law,decreto-2022-04-13-8306-suplemento-g,codigo-penal,2,main
+2022-04-24,law,decreto-2022-04-23-8309-suplemento,ley-de-responsabilidad-administrativa-de-los-servidores-publ ley-de-valuacion,41,main
+2022-05-29,law,decreto-2022-05-28-8319-suplemento-d,ley-de-salud,3,main
+2022-09-01,law,decreto-2022-08-31-8346-suplemento-e,codigo-civil,3,main
+2022-10-02,law,decreto-2022-10-01-8355-suplemento-d,ley-para-la-proteccion-de-las-personas-adultas-mayores-en-el,2,main
+2022-10-02,law,decreto-2022-10-01-8355-suplemento-e,ley-de-salud,2,main
+2022-10-13,law,decreto-2022-10-12-8358-suplemento-f,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,22,main
+2022-10-27,law,decreto-2022-10-26-8362-suplemento-k,codigo-civil,10,main
+2022-12-08,law,decreto-2022-12-07-8374-suplemento,codigo-penal,2,main
+2022-12-13,law,decreto-2022-09-14-8350-suplemento-i,ley-sobre-los-derechos-de-las-personas-con-discapacidad,2,main
+2022-12-31,law,decreto-2022-12-28-8380-suplemento-h,codigo-fiscal ley-de-hacienda ley-para-el-desarrollo-economico-sostenible,36,main
+2023-01-01,law,decreto-2022-12-31-8381-suplemento-mm,codigo-penal,4,main
+2023-03-31,law,decreto-2022-12-31-8381-suplemento-ll,ley-del-sistema-estatal-de-asistencia-social,3,main
+2023-04-11,start,ley-2023-04-08-8409-suplemento-d,ley-de-responsabilidad-patrimonial,60,main
+2023-04-11,law,decreto-2023-04-08-8409-suplemento-d,codigo-civil,5,main
+2023-04-20,law,decreto-2023-04-19-8412-suplemento-b,constitucion-politica,3,main
+2023-04-20,law,decreto-2023-04-19-8412-suplemento-c,ley-general-de-transito-y-vialidad,34,main
+2023-04-22,law,decreto-2023-04-19-8412-suplemento-d,ley-de-gobierno-digital-y-firma-electronica,15,main
+2023-05-11,law,decreto-2023-05-10-8418-suplemento-h,codigo-civil,25,main
+2023-06-22,law,decreto-2023-06-21-8430-suplemento,constitucion-politica,2,main
+2023-10-05,law,decreto-2023-10-04-8460-suplemento,codigo-penal,2,main
+2023-10-12,start,ley-2023-10-11-8462-suplemento-b,ley-de-consulta-popular-e-iniciativa-ciudadana,80,main
+2023-10-12,law,decreto-2023-10-11-8462-suplemento-b,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio ley-para-la-prevencion-y-tratamiento-de-la-violencia-intrafa,27,main
+2023-10-19,law,decreto-2023-10-18-8464-suplemento,ley-organica-de-los-municipios,2,main
+2023-10-26,law,decreto-2023-10-25-8466-suplemento,ley-de-salud,6,main
+2023-11-02,law,decreto-2023-11-01-8468-suplemento-i,constitucion-politica,8,main
+2023-11-05,law,decreto-2023-11-04-8469-suplemento-f,constitucion-politica,76,main
+2023-11-05,law,decreto-2023-11-04-8469-suplemento-h,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,2,main
+2023-12-03,law,decreto-2023-12-02-8477-suplemento-h,constitucion-politica,2,main
+2023-12-07,law,decreto-2023-12-06-8478-suplemento,ley-organica-del-poder-judicial,145,main
+2023-12-23,law,decreto-2023-12-20-8482-suplemento-j,codigo-fiscal ley-de-coordinacion-fiscal-y-financiera ley-general-de-transito-y-vialidad,11,main
+2024-01-01,law,decreto-2023-05-20-8421-suplemento-l,ley-para-la-prevencion-y-gestion-integral-de-los-residuos,7,main
+2024-01-31,start,ley-2023-12-02-8477-suplemento-j,ley-para-la-promocion-fomento-y-desarrollo-de-la-industria-c,35,main
+2024-03-10,law,decreto-2024-03-09-8505-suplemento-h,codigo-civil codigo-penal,7,main
+2024-03-10,law,decreto-2024-03-09-8505-suplemento-i,ley-para-la-proteccion-y-cuidado-de-los-animales-en-el-estad,7,main
+2024-04-04,law,decreto-2024-04-03-8512-suplemento-h,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,6,main
+2024-04-15,law,decreto-2024-03-16-8507-suplemento-g,ley-de-vivienda,10,main
+2024-04-22,start,ley-2023-10-25-8466-suplemento,ley-de-fomento-y-proteccion-artesanal,48,main
+2024-04-22,law,decreto-2023-10-25-8466-suplemento,ley-de-hacienda,2,main
+2024-04-22,law,decreto-2023-12-20-8482-suplemento-j,ley-de-hacienda,10,main
+2024-04-28,law,decreto-2024-04-27-8519-suplemento-i,ley-de-movilidad,10,main
+2024-05-12,law,decreto-2024-05-11-8523-suplemento-b,codigo-civil ley-de-los-derechos-de-ninas-ninos-y-adolescentes,53,main
+2024-05-12,law,decreto-2024-05-11-8523-suplemento-c,ley-organica-de-los-municipios,2,main
+2024-05-19,law,decreto-2024-05-18-8525-suplemento-h,ley-de-los-trabajadores-al-servicio,3,main
+2024-05-21,start,ley-2024-05-18-8525-suplemento-i,ley-organica-del-poder-legislativo,184,main
+2024-05-26,law,decreto-2024-05-25-8527-suplemento-f,codigo-civil ley-de-los-derechos-de-ninas-ninos-y-adolescentes,11,main
+2024-05-27,start,ley-2024-04-27-8519-suplemento-h,ley-de-fomento-apicola-y-proteccion-de-agentes-polinizadores,75,main
+2024-05-27,law,decreto-2024-04-27-8519-suplemento-h,ley-de-desarrollo-pecuario,8,main
+2024-05-27,law,decreto-2024-04-27-8519-suplemento-j,ley-de-movilidad ley-general-de-transito-y-vialidad,11,main
+2024-05-28,law,decreto-2024-05-25-8527-suplemento-g,ley-de-educacion,2,main
+2024-05-28,law,decreto-2024-05-25-8527-suplemento-h,ley-de-educacion,2,main
+2024-05-30,law,decreto-2024-05-29-8528-suplemento,ley-de-los-trabajadores-al-servicio,4,main
+2024-10-17,law,decreto-2024-10-16-8568-suplemento-i,ley-organica-de-los-municipios,8,main
+2024-11-10,start,ley-2024-11-09-8575-suplemento-j,ley-de-austeridad,31,main
+2024-11-12,start,ley-2024-11-09-8575-suplemento-i,ley-organica-del-poder-ejecutivo,52,main
+2024-12-01,law,decreto-2024-11-30-8581-suplemento-h,constitucion-politica,9,main
+2024-12-05,law,decreto-2024-12-04-8582-suplemento-h,constitucion-politica,2,main
+2024-12-17,law,decreto-2024-12-16-260-extraordinario,constitucion-politica,17,main
+2024-12-19,law,decreto-2024-12-16-259-extraordinario,ley-de-austeridad ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-organica-del-poder-ejecutivo,22,main
+2024-12-21,law,decreto-2024-12-18-8586-suplemento-l,codigo-fiscal ley-de-coordinacion-fiscal-y-financiera ley-de-hacienda,85,main
+2024-12-26,law,decreto-2024-12-25-8588-suplemento-c,ley-organica-del-poder-judicial,2,main
+2025-01-19,law,decreto-2025-01-18-8595-suplemento-g,ley-de-medios-de-impugnacion-en-materia-electoral ley-electoral-y-de-partidos-politicos,60,main
+2025-02-02,law,decreto-2025-02-01-8599-suplemento-g,codigo-penal,7,main
+2025-02-02,law,decreto-2025-02-01-8599-suplemento-h,ley-de-adquisiciones-arrendamientos-y-prestacion-de-servicio,30,main
+2025-03-01,law,decreto-2025-02-01-8599-suplemento-i,ley-de-hacienda ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-al,7,main
+2025-03-20,law,decreto-2025-03-19-8612-suplemento-j,constitucion-politica,11,main
+2025-04-03,law,decreto-2025-04-02-8616-suplemento-j,codigo-penal,3,main
+2025-04-17,start,ley-2025-04-16-8620-suplemento-n,ley-de-revocacion-de-mandato,62,main
+2025-05-14,law,fe-de-erratas-2025-05-14-8628-suplemento-h,ley-electoral-y-de-partidos-politicos,1,main
+2025-05-15,law,decreto-2025-05-14-8628-suplemento-j,ley-forestal,6,main
+2025-05-15,law,decreto-2025-05-14-8628-suplemento-k,ley-del-centro-de-conciliacion-laboral,8,main
+2025-05-15,law,decreto-2025-05-14-8628-suplemento-l,ley-de-los-trabajadores-al-servicio,3,main
+2025-05-18,law,decreto-2025-05-17-8629-suplemento-o,codigo-penal,5,main
+2025-05-18,law,decreto-2025-05-17-8629-suplemento-p,ley-de-desarrollo-social,3,main
+2025-05-22,law,decreto-2025-05-21-8630-suplemento-l,ley-de-derechos-y-cultura-indigena,3,main
+2025-06-12,start,ley-2025-06-11-8636-suplemento-k,ley-del-sistema-anticorrupcion,45,main
+2025-06-12,law,decreto-2025-06-11-8636-suplemento-l,ley-organica-del-poder-ejecutivo,11,main
+2025-06-15,start,ley-2025-06-14-8637-suplemento-i,ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos,146,main
+2025-06-15,start,ley-2025-06-14-8637-suplemento-i,ley-de-transparencia-y-acceso-a-la-informacion-publica,195,main
+2025-06-21,law,fe-de-erratas-2025-06-21-8639-suplemento-o,ley-de-transparencia-y-acceso-a-la-informacion-publica,3,main
+2025-06-29,law,decreto-2025-06-28-8641-suplemento-j,ley-para-la-administracion-y-destino-de-bienes-asegurados-ab,17,main
+2025-06-29,law,decreto-2025-06-28-8641-suplemento-k,codigo-fiscal,14,main
+2025-08-20,law,decreto-2025-08-19-298-extraordinario,ley-del-centro-de-conciliacion-laboral,2,main
+2025-08-21,law,decreto-2025-08-20-8656-suplemento-n,constitucion-politica,6,main
+2025-08-31,law,decreto-2025-08-30-8659-suplemento-l,ley-organica-del-poder-judicial,324,main
+2025-08-31,law,decreto-2025-08-30-8659-suplemento-m,ley-de-fiscalizacion-superior ley-organica-del-poder-legislativo,9,main
+2025-09-20,law,decreto-2025-09-19-301-extraordinario,ley-de-hacienda ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-al,5,main
+2025-09-23,law,decreto-2025-09-22-302-extraordinario,ley-de-adquisiciones-arrendamientos-y-prestacion-de-servicio,5,main
+2025-09-25,law,decreto-2025-09-24-8666-suplemento,ley-en-materia-de-desaparicion-forzada-de-personas-desaparic,48,main
+2025-09-25,law,decreto-2025-09-24-8666-suplemento-b,ley-de-educacion,2,main
+2025-09-25,law,decreto-2025-09-24-8666-suplemento-f,ley-organica-del-poder-ejecutivo,4,main
+2025-09-25,law,decreto-2025-09-24-8666-suplemento-h,codigo-civil,2,main
+2025-10-02,law,decreto-2025-10-01-8668-suplemento-b,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,2,main
+2025-10-02,law,decreto-2025-10-01-8668-suplemento-h,ley-de-los-trabajadores-al-servicio,3,main
+2025-10-12,law,decreto-2025-10-11-8671-suplemento-b,codigo-penal,7,main
+2025-10-12,law,decreto-2025-10-11-8671-suplemento,ley-de-proteccion-y-fomento-del-patrimonio-cultural,33,main
+2025-10-21,law,decreto-2025-10-18-8673-suplemento,ley-de-archivos,25,main
+2025-10-23,law,decreto-2025-10-22-8674-suplemento-g,ley-de-los-trabajadores-al-servicio,2,main
+2025-10-27,law,decreto-2025-09-27-8667-suplemento-h,ley-organica-del-poder-legislativo,6,main
+2025-11-10,law,decreto-2025-10-11-8671-suplemento-c,ley-de-salud,12,main
+2025-11-16,law,decreto-2025-11-15-8681-suplemento,codigo-penal,2,main
+2025-11-16,law,decreto-2025-11-15-8681-suplemento-b,ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado,3,main
+2025-11-20,law,decreto-2025-11-19-8682-suplemento-k,ley-de-transparencia-y-acceso-a-la-informacion-publica,21,main
+2025-12-10,law,decreto-2025-12-09-304-extraordinario,constitucion-politica,2,main
+2025-12-10,law,decreto-2025-12-09-305-extraordinario,constitucion-politica,2,main
+2025-12-10,law,decreto-2025-12-09-306-extraordinario,constitucion-politica,2,main
+2025-12-11,law,decreto-2025-12-10-8688-suplemento-i,codigo-penal,5,main
+2025-12-11,law,decreto-2025-12-10-8688-suplemento-l,ley-para-la-igualdad-entre-mujeres-y-hombres,4,main
+2025-12-11,law,decreto-2025-12-10-8688-suplemento-k,codigo-penal,4,main
+2025-12-11,law,decreto-2025-12-10-8688-suplemento-m,codigo-penal,3,main
+2025-12-12,law,decreto-2025-12-09-307-extraordinario,constitucion-politica,2,main
+2025-12-14,law,decreto-2025-12-13-8689-suplemento-h,ley-organica-del-poder-ejecutivo,2,main
+2025-12-18,law,decreto-2025-12-17-8690-suplemento-k,ley-del-sistema-anticorrupcion,11,main
+2025-12-18,law,decreto-2025-12-17-8690-suplemento-l,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,68,main
+2025-12-27,start,ley-2025-12-24-8692-suplemento-d,ley-de-ingresos,16,main
+2025-12-27,law,decreto-2025-12-24-8692-suplemento-d,codigo-fiscal ley-de-deuda-publica ley-de-hacienda ley-de-valuacion,57,main
+2025-12-27,law,decreto-2025-12-27-8693-suplemento-f,ley-de-desarrollo-rural-sustentable,5,main
+2025-12-28,law,decreto-2025-12-27-8693-suplemento-c,codigo-penal,517,main
+2025-12-28,law,decreto-2025-12-27-8693-suplemento-d,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2025-12-28,law,decreto-2025-12-27-8693-suplemento-g,ley-agricola,7,main
+2025-12-28,law,decreto-2025-12-27-8693-suplemento-q,ley-organica-del-poder-judicial,26,main
+2026-01-01,law,decreto-2025-12-10-8688-suplemento-j,ley-organica-de-la-fiscalia-general,5,main
+2026-01-01,law,decreto-2025-12-24-8692-suplemento-v,ley-de-gobierno-digital-y-firma-electronica ley-organica-del-poder-ejecutivo,73,main
+2026-01-01,law,decreto-2025-12-27-8693-suplemento,ley-del-sistema-de-seguridad-publica,112,main
+2026-01-26,law,decreto-2025-12-27-8693-suplemento-b,ley-organica-de-los-municipios ley-para-la-prevencion-y-gestion-integral-de-los-residuos,9,main
+2026-01-27,law,decreto-2026-01-24-8701-suplemento-l,constitucion-politica,4,main
+2026-02-15,law,decreto-2026-02-14-8707-suplememto-n,ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado,8,main
+2026-02-15,law,decreto-2026-02-14-8707-suplemento-n,ley-de-adquisiciones-arrendamientos-y-prestacion-de-servicio,11,main
+2026-02-26,start,ley-2026-02-25-8710-suplemento-o,ley-para-prevenir-investigar-y-sancionar-el-delito-de-extors,26,main
+2026-02-26,law,decreto-2026-02-25-8710-suplemento-o,codigo-penal ley-organica-de-la-fiscalia-general,524,main
+2026-03-22,law,decreto-2026-03-21-8717-suplemento-k,ley-de-vivienda,7,main
+2026-04-09,law,decreto-2026-04-08-8722-suplemento-h,codigo-penal,5,main
+2026-04-12,law,decreto-2026-04-11-8723-suplemento-k,ley-de-justicia-administrativa,3,main
+2026-04-12,law,decreto-2026-04-11-8723-suplemento-l,ley-organica-de-la-fiscalia-general,3,main
+2026-04-12,law,decreto-2026-04-11-8723-suplemento-m,ley-de-seguridad-social,8,main
+2026-04-12,law,decreto-2026-04-11-8723-suplemento-n,ley-de-hacienda,14,main
+2026-04-20,law,decreto-2026-03-21-8717-suplemento-n,ley-para-la-atencion-y-proteccion-a-personas-con-la-condicio,9,main
+2026-05-03,law,decreto-2026-05-02-8729-suplemento-f,ley-organica-de-los-municipios,8,main
+2026-05-03,law,decreto-2026-05-02-8729-suplemento-h,codigo-penal,7,main
+2026-05-07,law,decreto-2026-05-06-8730-suplemento-i,codigo-civil ley-de-catastro ley-del-notariado ley-registral,19,main
+2026-05-07,law,decreto-2026-05-06-8730-suplemento-l,codigo-penal,5,main
+2026-05-17,law,decreto-2026-05-16-8733-suplemento-b,ley-de-movilidad ley-general-de-transito-y-vialidad,18,main
+2026-05-17,law,decreto-2026-05-16-8733-suplemento-c,ley-general-de-transito-y-vialidad,5,main
+2026-05-17,law,decreto-2026-05-16-8733-suplemento-d,ley-general-de-transito-y-vialidad,3,main
+2026-05-17,law,decreto-2026-05-16-8733-suplemento-e,ley-general-de-transito-y-vialidad,4,main
+2026-06-14,law,decreto-2026-06-13-8741-suplemento-j,codigo-civil ley-de-vivienda,5,main
+2026-07-02,law,decreto-2026-07-01-8746-suplemento-f,ley-de-los-trabajadores-al-servicio,20,main
+2026-07-02,law,decreto-2026-07-01-8746-suplemento-g,ley-del-sistema-de-seguridad-publica,14,main
+2026-07-02,law,decreto-2026-07-01-8746-suplemento-n,ley-de-planeacion,38,main
+2026-08-09,law,decreto-2026-08-08-8757-suplemento-i,ley-de-educacion,2,main
+2026-08-09,law,decreto-2026-08-08-8757-suplemento-k,codigo-penal ley-de-la-campana-contra-las-enfermedades-y-plagas-del-plata ley-organica-del-poder-ejecutivo,36,main
+2026-08-09,law,decreto-2026-08-08-8757-suplemento-l,codigo-penal,2,main
+2026-08-27,law,decreto-2026-08-26-8762-suplemento-l,constitucion-politica,6,main
+2026-09-03,law,decreto-2026-09-02-8764-suplemento-j,ley-organica-del-poder-judicial,70,main
+2026-09-03,law,decreto-2026-09-02-8764-suplemento-k,ley-de-revocacion-de-mandato ley-electoral-y-de-partidos-politicos,11,main
+2026-09-03,law,decreto-2026-09-02-8764-suplemento-l,ley-para-prevenir-investigar-y-sancionar-el-delito-de-extors,6,main
+2026-09-03,law,decreto-2026-09-02-8764-suplemento-m,codigo-civil,3,main
+2026-09-13,law,decreto-2026-09-12-8767-suplemento-i,codigo-penal,2,main
+2026-09-20,law,decreto-2026-09-19-8769-suplemento-e,ley-de-adquisiciones-arrendamientos-y-prestacion-de-servicio,5,main
+2026-09-20,law,decreto-2026-09-19-8769-suplemento-f,ley-de-movilidad ley-organica-del-poder-ejecutivo,27,main
+2026-09-20,law,decreto-2026-09-19-8769-suplemento-g,ley-de-presupuesto-y-responsabilidad-hacendaria,24,main
+2026-09-24,law,decreto-2026-09-23-8770-suplemento-g,ley-del-sistema-de-seguridad-publica,7,main
+2026-09-24,law,decreto-2026-09-23-8770-suplemento-h,ley-de-educacion,3,main
+2026-10-25,law,decreto-2026-10-24-8779-suplemento-j,ley-organica-del-poder-ejecutivo,5,main
